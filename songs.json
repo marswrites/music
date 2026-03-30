@@ -3824,6 +3824,22 @@
   "albumname": "Entre el cielo y el suelo",
   "artistname": "Mecano"
 }
+  ,
+{
+  "title": "Me equivocaría otra vez",
+  "artist": "fito-y-fitipaldis",
+  "addition": 421,
+  "release": 118,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "por-la-boca-vive-el-pez",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/fito-y-fitipaldis_por-la-boca-vive-el-pez.png",
+
+  "albumname": "Por la boca vive el pez",
+  "artistname": "Fito y Fitipaldis"
+}
 ,
 {
   "title": "Me olvidé de vivir",
