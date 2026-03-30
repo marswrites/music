@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Marswrites Playlist Directory</title>
+
+<link rel="stylesheet" href="style.css?v=2"> 
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  background: #fae6e7; /*Background color in hex code*/
+}
+
+.sidebar {
+  width: 380px; /*Do not dare change this*/
+  padding: 20px;
+  background: #ffb6c3;
+  box-sizing: border-box;
+  height: 100vh;
+  overflow-y: auto; /*This is so you can scroll up and down*/
+  position: sticky;
+  top: 0; /*This is so the bottom isn't a different color*/
+}
+
+.sidebar h3 {
+  margin-top: 14px;
+  margin-bottom: 8px;
+  font-size: 13px; /*Font size of data types*/
+}
+
+.sidebar label {
+  display: block;
+  font-size: 11px; /*Font size of data ("Zendaya")*/
+  margin-bottom: 4px;
+  cursor: pointer;
+}
+
+.grid {
+  display: grid;
+  padding: 40px;
+  grid-template-columns: repeat(7, 1fr); /*Do not change this, even if it looks like you can*/
+  grid-template-rows: repeat(3, 1fr); /*Do not change this, otherwise you'll get a huge gap between rows*/
+  row-gap: 20px;
+  column-gap: 12px; /*These two gaps don't really work, if I'm honest*/
+  justify-content: start;
+}
+
+/* Song card */
+  
+   .song {
+  width: 100%;
+  display: block;
+  text-align: center;
+  font-size: 10px;
+}
+
+ .song img {
+  width: 100%;    /* fill the column fully */
+  max-width: 120px; /* optional: max size */
+  height: 120px;    /* fixed standard square*/
+  object-fit: cover;
+}
+
+.song div {
+  height: auto;
+  overflow: hidden;
+  
+}   
+
+@media (max-width: 1200px) {
+  .grid {
+    grid-template-columns: repeat(5, 1fr); /*This is the organization of the screen in other devices that have a different width, so tablet or mobile*/
+  }
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+</style>
+</head>
+
+<body>
+
+<div class="sidebar">
+
+<select id="sortSongs">
+  <option value="default">Alphabetical</option>
+  <option value="addition">Order of addition</option>
+  <option value="release">Release order</option>
+</select>
+  <h3>Decade of release</h3>
+  <label><input type="checkbox" class="filter" data-type="decade" value="1950s+"> 1950s+</label>
+  <label><input type="checkbox" class="filter" data-type="decade" value="1960s"> 1960s</label>
+  <label><input type="checkbox" class="filter" data-type="decade" value="1970s"> 1970s</label>
+  <label><input type="checkbox" class="filter" data-type="decade" value="1980s"> 1980s</label>
+  <label><input type="checkbox" class="filter" data-type="decade" value="1990s"> 1990s</label>
+  <label><input type="checkbox" class="filter" data-type="decade" value="2000s"> 2000s</label>
+  <label><input type="checkbox" class="filter" data-type="decade" value="2010s"> 2010s</label>
+  <label><input type="checkbox" class="filter" data-type="decade" value="2020s"> 2020s</label>
+
+  <h3>Extra categories</h3>
+  <label><input type="checkbox" class="filter" data-type="extra" value="cover"> Covers</label>
+  <label><input type="checkbox" class="filter" data-type="extra" value="instrumental"> Instrumental</label>
+  <label><input type="checkbox" class="filter" data-type="extra" value="musical"> Musicals/Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="extra" value="christmas"> Christmas music</label>
+  <label><input type="checkbox" class="filter" data-type="extra" value="disney"> Disney</label>
+  <label><input type="checkbox" class="filter" data-type="extra" value="explicit"> Explicit</label>
+  
+  <h3>Language</h3>
+  <label><input type="checkbox" class="filter" data-type="language" value="spanish"> Spanish</label>
+  <label><input type="checkbox" class="filter" data-type="language" value="english"> English</label>
+  <label><input type="checkbox" class="filter" data-type="language" value="french"> French</label>
+  <label><input type="checkbox" class="filter" data-type="language" value="italian"> Italian </label>
+  <label><input type="checkbox" class="filter" data-type="language" value="other"> Other </label>
+
+  <details>
+  <summary><h3>Artist</h3></summary>
+  <label><input type="checkbox" class="filter" data-type="artist" value="a-great-big-world"> A Great Big World</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="a-ha"> a-ha</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="abba"> ABBA</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="adele"> Adele</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="aerosmith"> Aerosmith</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="aitana"> Aitana</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="air-supply"> Air Supply </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="alaska-y-dinarama"> Alaska y Dinarama</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="alex-ubago"> Álex Ubago </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="alex-y-christina"> Alex y Christina</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="alicia-keys"> Alicia Keys </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="amaral"> Amaral</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="amy-winehouse"> Amy Winehouse</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ana-belen"> Ana Belén </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value=""> Andrea McArdle </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="andrew-lloyd-webber"> Andrew Lloyd Webber</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="angelica-vale"> Angelica Vale</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="anne-marie"> Anne-Marie</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="arthur-alexander"> Arthur Alexander </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="avicii"> Avicii</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="beauty-and-the-beast-cast"> Beauty and the Beast Cast</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="bebo-valdes"> Bebo Valdés </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="benson-boone"> Benson Boone </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="billie-eilish"> Billie Eilish</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="billy-joel"> Billy Joel</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="bon-jovi"> Bon Jovi</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="boney-m"> Boney M. </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="bonnie-tyler"> Bonnie Tyler</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="boyce-avenue"> Boyce Avenue </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="brad-kane"> Brad Kane</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="bradley-cooper"> Bradley Cooper</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="brooklyn-duo"> Brooklyn Duo</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="bruce-reitherman"> Bruce Reitherman</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="bruno-coulais"> Bruno Coulais </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="bruno-mars"> Bruno Mars</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="callie-hernandez"> Callie Hernandez</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="charles-strouse"> Charles Strouse </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="carlos-baute"> Carlos Baute</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="cavetown"> Cavetown </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="cecilia"> Cecilia</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="celia-cruz"> Celia Cruz </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="céline-dion"> Céline Dion </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="chambao"> Chambao</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="charlie-puth"> Charlie Puth </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="christina-aguilera"> Christina Aguilera</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="christina-perri"> Christina Perri</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="colbie-caillat"> Colbie Caillat</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="coldplay"> Coldplay</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="connie-talbot"> Connie Talbot </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="counting-crows"> Counting Crows</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="creedence-clearwater-revival"> Creedence Clearwater Revival </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="culture-club"> Culture Club </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="dan-stevens"> Dan Stevens</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="dani-martin"> Dani Martín</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="david-bisbal"> David Bisbal</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="david-bowie"> David Bowie</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="diego-el-cigala"> Diego el Cigala </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="dire-straits"> Dire Straits</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="dolly-parton"> Dolly Parton</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="don-mclean"> Don McLean</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="eagles"> Eagles </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="earth-wind-and-fire"> Earth, Wind & Fire</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="echosmith"> Echosmith</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ed-sheeran"> Ed Sheeran</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="edith-piaf"> Édith Piaf </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="efecto-pasillo"> Efecto Pasillo </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="el-canto-del-loco"> El Canto del Loco </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="elton-john"> Elton John</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="elvis-presley"> Elvis Presley</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="Emily Zeck"> Emily Zeck </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="eminem"> Eminem </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="emma-stone"> Emma Stone</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="emma-thompson"> Emma Thompson</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="emma-watson"> Emma Watson</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="emmy-rossum"> Emmy Rossum</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="eric-carmen"> Eric Carmen </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="eric-clapton"> Eric Clapton </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="eurythmics"> Eurythmics</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ewan-mcgregor"> Ewan McGregor</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="extreme"> Extreme </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="extremoduro"> Extremoduro</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="fito-y-fitipaldis"> Fito y Fitipaldis</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="fools-garden"> Fools Garden</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="frank-sinatra"> Frank Sinatra</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="fun."> fun. </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="genesis"> Genesis </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="george-ezra"> George Ezra</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="george-michael"> George Michael</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="gerard-way"> Gerard Way </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="glee-cast"> Glee Cast</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="green-day"> Green Day</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="gugu-mbatha-raw"> Gugu Mbatha-Raw</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="guns-n-roses"> Guns N' Roses </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="hall-and-oates"> Hall & Oates </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="harry-styles"> Harry Styles </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="himesh-patel"> Himesh Patel</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="hombres-g"> Hombres G </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="hugh-jackman"> Hugh Jackman</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ian-mckellen"> Ian McKellen</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="idina-menzel"> Idina Menzel</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="james-bay"> James Bay </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="james-morrison"> James Morrison</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="jason-mraz"> Jason Mraz</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="jax"> Jax</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="jennel-garcia"> Jennel Garcia </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="jesse-joy"> Jesse & Joy </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="jessica-rothe"> Jessica Rothe</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="joaquin-sabina"> Joaquín Sabina</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="john-lennon"> John Lennon </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="john-travolta"> John Travolta</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="johnny-cash"> Johnny Cash</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="jonas-brothers"> Jonas Brothers </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="josh-gad"> Josh Gad</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="journey"> Journey </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="jp-saxe"> JP Saxe</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="julia-michaels"> Julia Michaels</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="julio-iglesias"> Julio Iglesias </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="justin-bieber"> Justin Bieber</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="justin-hurwitz"> Justin Hurwitz</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="kansas"> Kansas</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="katrina-and-the-waves"> Katrina & the Waves </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="keala-settle"> Keala Settle</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="keane"> Keane</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="kevin-johansen"> Kevin Johansen</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="khalid"> Khalid</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="kristen-bell"> Kristen Bell</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="la-la-land-cast"> La La Land Cast</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="la-maitrise-de-saint-marc"> La Maitrise de Saint Marc (Les Choristes) </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="la-oreja-de-van-gogh"> La Oreja de Van Gogh</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="lady-a"> Lady A</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="lady-gaga"> Lady Gaga</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="lea-salonga"> Lea Salonga</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="leonard-bernstein"> Leonard Bernstein </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="lewis-capaldi"> Lewis Capaldi</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="limahl"> Limahl </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="lisa-cimorelli"> Lisa Cimorelli </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="little-big-town"> Little Big Town </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="loren-allred"> Loren Allred</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="los-lobos"> Los Lobos</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="los-secretos"> Los Secretos</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="louane"> Louane</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="lukas-graham"> Lukas Graham</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="luke-evans"> Luke Evans</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="maddie-zahm"> Maddie Zahm</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="maldita-nerea"> Maldita Nerea </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="mana"> Maná</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="mandy-moore"> Mandy Moore</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="maneskin"> Mäneskin </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="marco-antonio-solis"> Marco Antonio Solís</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="manuel-turizo"> Manuel Turizo </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="maren-morris"> Maren Morris</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="mariah-carey"> Mariah Carey</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="maroon-5"> Maroon 5 </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="marshmello"> Marshmello</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="marta-sanchez"> Marta Sánchez</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="meat-loaf"> Meat Loaf </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="mecano"> Mecano</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="meghan-trainor"> Meghan Trainor</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="meredith-brooks"> Meredith Brooks </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="michael-jackson"> Michael Jackson </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="michael-sembello"> Michael Sembello </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="michelle-williams"> Michelle Williams</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="mika"> MIKA</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="miley-cyrus"> Miley Cyrus </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="natalie-imbruglia"> Natalie Imbruglia </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="nate-ruess"> Nate Ruess</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="nathan-mack"> Nathan Mack</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="nena-daconte"> Nena Daconte</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="nelly-furtado"> Nelly Furtado</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="niall-horan"> Niall Horan</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="nicole-kidman"> Nicole Kidman</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="nino-bravo"> Nino Bravo</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="o-zone"> O-Zone </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="oasis"> Oasis</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="olivia-newton-john"> Olivia Newton-John</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="olivia-rodrigo"> Olivia Rodrigo </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="one-direction"> One Direction </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="onerepublic"> OneRepublic </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="p!nk"> P!nk</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="pablo-lopez"> Pablo López </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="panic!-at-the-disco"> Panic! at the Disco</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="patrick-wilson"> Patrick Wilson</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="paul-mccartney"> Paul McCartney </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="peter-paul-and-mary"> Peter, Paul and Mary </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="phil-harris"> Phil Harris</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="plain-white-t's"> Plain White T's </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="pretenders"> Pretenders</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="queen"> Queen</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="radio-futura"> Radio Futura </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="radiohead"> Radiohead </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ralph-mctell"> Ralph McTell</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="randy-newman"> Randy Newman</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ray-toro"> Ray Toro </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="rem"> R. E. M </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="rent-cast"> Rent Cast</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="rihanna"> Rihanna </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="robbie-williams"> Robbie Williams</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="roxette"> Roxette</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ryan-gosling"> Ryan Gosling</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="santino-fontana"> Santino Fontana</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="sara-bareilles"> Sara Bareilles</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="sarah-mclachlan"> Sarah McLachlan</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="scorpions"> Scorpions </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="selena-gomez"> Selena Gomez </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="seth-macfarlane"> Seth MacFarlane</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="sia"> Sia </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="silvio-rodriguez"> Silvio Rodríguez</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="simon-and-garfunkel"> Simon & Garfunkel </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="simply-red"> Simply Red </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="smash-mouth"> Smash Mouth </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="sonoya-mizuno"> Sonoya Mizuno</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="starship"> Starship</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="stevie-wonder"> Stevie Wonder </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-animals"> The Animals </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-beatles"> The Beatles</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-carpenters"> The Carpenters </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-chordettes"> The Chordettes </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-cranberries"> The Cranberries </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-cure"> The Cure</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-drifters"> The Drifters </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-fray"> The Fray</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-greatest-showman-cast"> The Greatest Showman Cast</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-jackson-5"> The Jackson 5 </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-jayhawks"> The Jayhawks</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-monkees"> The Monkees</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-pointer-sisters"> The Pointer Sisters </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-police"> The Police</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-rembrandts"> The Rembrandts</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-righteous-brothers"> The Righteous Brothers </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="the-who"> The Who </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="tina-turner"> Tina Turner </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="tom-petty"> Tom Petty </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="tom-petty-and-the-heartbreakers"> Tom Petty and the Heartbreakers </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="tori-kelly"> Tori Kelly</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="toto"> TOTO</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="train"> Train</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="trippie-redd"> Trippie Redd </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="tyler-ward"> Tyler Ward </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="u2"> U2 </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="van-halen"> Van Halen </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="vega"> Vega</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="village-people"> Village People </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="walk-the-moon"> WALK THE MOON </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="west-side-story-cast"> West Side Story Cast </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="wheatus"> Wheatus </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="whitney-houston"> Whitney Houston </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="wiz-khalifa"> Whiz Khalifa </label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="yiruma"> Yiruma</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="zac-efron"> Zac Efron</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="zachary-levi"> Zachary Levi</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="zendaya"> Zendaya</label>
+  <label><input type="checkbox" class="filter" data-type="artist" value="ziv-zaifman"> Ziv Zaifman</label>
+  </details>
+  
+  <details>
+  <summary><h3>Album</h3></summary>
+  <label><input type="checkbox" class="filter" data-type="album" value="1000-forms-of-fear"> 1000 Forms of Fear (Sia) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="13-reasons-why-season-2-soundtrack"> 13 Reasons Why: Season 2 Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="19-dias-y-500-noches"> 19 días y 500 noches (Joaquín Sabina)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="1984"> 1984 (Van Halen) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="2000"> 2000 (Manuel Turizo) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="21"> 21 (Adele)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="21st-century-breakdown"> 21st Century Breakdown (Green Day)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="25"> 25 (Adele)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="26-grandes-canciones-y-una-nube-blanca"> 26 grandes canciones y una nube blanca (Ana Belén) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="30"> 30 (Adele)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="9-to-5-and-odd-jobs"> 9 to 5 and Odd Jobs (Dolly Parton)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-day-at-the-races">A Day at the Races (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-hard-days-night"> A Hard Day's Night (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-head-full-of-dreams"> A Head Full of Dreams (Coldplay) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-las-cinco-en-el-astoria"> A las cinco en el Astoria (La Oreja de Van Gogh)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-kind-of-magic"> A Kind of Magic (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-night-at-the-opera">A Night at the Opera (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-song-for-you"> A Song for You (The Carpenters) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="a-star-is-born-soundtrack"> A Star is Born Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="abbey-road"> Abbey Road (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="aerosmith"> Aerosmith (Aerosmith) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="al-final-de-este-viaje"> Al final de este viaje... (Silvio Rodríguez)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="aladdin"> Aladdin Soundtrack (2019)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="aladdin-old"> Aladdin Soundtrack (1992)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="album-1700"> Album 1700 (Peter, Paul and Mary)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="alex-y-christina"> Álex y Christina (Álex y Christina)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="algo-prestado"> Algo prestado (Los Secretos) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="all-that-we-needed"> All That We Needed (Plain White T's) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="american-idiot"> American Idiot (Green Day)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="american-pie"> American Pie (Don McLean)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="annie-musical"> Annie (Original Broadway Musical) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="appetite-for-destruction"> Appetite for Destruction (Guns N' Roses) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="armageddon-soundtrack"> Armageddon Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="arrival"> Arrival (ABBA)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="astro-lounge"> Astro Lounge (Smash Mouth) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="automatic-for-the-people"> Automatic for the People (R. E. M) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="back-to-black"> Back to Black (Amy Winehouse)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="bad"> Bad (Michael Jackson)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="bailarina"> Bailarina (Maldita Nerea)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="bat-out-of-hell"> Bat Out of Hell (Meat Loaf) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="beauty-and-the-beast"> Beauty and the Beast</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="ben"> Ben (Michael Jackson) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="blue-hawaii-soundtrack"> Blue Hawaii Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="blurring-the-edges"> Blurring the Edges (Meredith Brooks)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="bon-jovi"> Bon Jovi (Bon Jovi) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="bookends"> Bookends (Simon & Garfunkel) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="born-this-way"> Born This Way (Lady Gaga) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="break-out"> Break Out (The Pointer Sisters) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="breaking-dawn-part-1-soundtrack"> Breaking Dawn: Part 1 Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="brooklyn-sessions-v"> Brooklyn Sessions V (Brooklyn Duo)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="brooklyn-sessions-9"> Brooklyn Sessions 9 (Brooklyn Duo)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="brothers-in-arms"> Brothers in Arms (Dire Straits)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="cecilia"> Cecilia (Cecilia) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="chamber-music"> Chamber Music (Brooklyn Duo)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="chansons-parisiennes"> Chansons parisiennes (Édith Piaf) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="coco-soundtrack"> Coco Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="colour-by-numbers"> Colour by Numbers (Culture Club)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="con-quien-se-queda-el-perro"> ¿Con quién se queda el perro? (Jesse & Joy) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="cover-sessions-vol-4"> Cover Sessions Vol. 4 (Boyce Avenue) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="cover-sessions-vol-6"> Cover Sessions Vol. 6 (Boyce Avenue)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="cruisin'"> Cruisin' (Village People)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="crush"> Crush (Bon Jovi) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="dangerous"> Dangerous (Michael Jackson)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="dangerous-levels-of-introspection"> Dangerous Levels of Introspection (JP Saxe)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="de-mi-puño-y-letra"> De mi puño y letra (Carlos Baute)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="dear-joe"> Dear Joe, (Jax)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="descanso-dominical"> Descanso Dominical (Mecano)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="deseo-carnal"> Deseo carnal (Alaska y Dinarama) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="desperado"> Desperado (Eagles) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="diana-ross-presents-the-jackson-5"> Diana Ross Presents the Jackson 5 (The Jackson 5) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="dirty-dancing-soundtrack"> Dirty Dancing Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="disco-zone"> DiscO-Zone (O-Zone) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="dish-of-the-day"> Dish of the Day (Fools Garden)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="divide"> Divide (Ed Sheeran)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="divinely-uninspired-to-a-hellish-extent"> Divinely Uninspired to a Hellish Extent (Lewis Capaldi)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="donde-jugaran-los-niños"> ¿Dónde jugarán los niños? (Maná)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="dos-caras-distintas"> Dos caras distintas (Los Secretos)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="donde-esta-el-pais-de-las-hadas"> ¿Dónde está el país de las hadas? (Mecano)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="doo-wops-and-hooligans"> Doo-Wops and Hooligans (Bruno Mars)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="el-misterioso-caso-de"> El misterioso caso de... (Efecto Pasillo) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="el-mundo-y-los-amantes-inocentes"> El mundo y los amantes inocentes (Pablo López) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="emociones"> Emociones (Julio Iglesias)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="en-tus-planes"> En tus planes (David Bisbal) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="entre-el-cielo-y-el-suelo"> Entre el Cielo y el Suelo (Mecano)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="equals"> Equals (Ed Sheeran) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="escape"> Esc4p3 (Journey) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="escapology"> Escapology (Robbie Williams)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="estrella-de-mar"> Estrella de mar (Amaral)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="extreme-ii-pornograffiti"> Extreme II: Pornograffiti (Extreme) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="falling-into-you"> Falling Into You (Céline Dion)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="faster-than-the-speed-of-night"> Faster than the Speed of Night (Bonnie Tyler)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="five-live"> Five Live (George Michael)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="flashdance-soundtrack"> Flashdance Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="flores-de-alquiler"> Flores de alquiler (La Quinta Estación)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="footloose-soundtrack"> Footloose Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="four"> Four (One Direction) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="frozen-soundtrack"> Frozen Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="full-moon-fever"> Full Moon Fever (Tom Petty) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="furious-7-soundtrack"> Furious 7 Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="get-close"> Get Close (Pretenders)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="girl"> Girl (Maren Morris) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="girl-on-fire"> Girl on Fire (Alicia Keys) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="glease"> Glease (Glee)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hannah-montana-soundtrack"> Hannah Montana: The Movie Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="happiness-begins"> Happiness Begins (Jonas Brothers)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="harry-styles"> Harry Styles (Harry Styles) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="he-perdido-los-zapatos"> He perdido los zapatos (Nena Daconte)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="he-said-she-said"> he said, she said (Tyler Ward)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="head-or-heart"> Head or Heart (Christina Perri)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="help!"> Help! (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value=""> HIStory: Past, Present and Future, Book I (Michael Jackson) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hombres-g"> Hombres G (Hombres G)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="honky-chateau"> Honky Château (Elton John) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hopes-and-fears"> Hopes and Fears (Keane)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hot-space"> Hot Space (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hotel-dulce-hotel"> Hotel, dulce hotel (Joaquín Sabina)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hotel-california"> Hotel California (Eagles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hozier"> Hozier (Hozier)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="hunting-high-and-low"> Hunting High and Low (a-ha)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="i'm-not-dead"> I'm Not Dead (P!nk) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="imagine"> Imagine (John Lennon) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="inner-monologue-part-1"> Inner Monologue Part 1 (Julia Michaels) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="innuendo"> Innuendo (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="is-anybody-out-there?"> Is Anybody Out There? (A Great Big World)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="jazz"> Jazz (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="jolene"> Jolene (Dolly Parton) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="joyride"> Joyride (Roxette) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="just-once-in-my-life"> Just Once in my Life... (The Righteous Brothers) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="katrina-and-the-waves"> Katrina & the Waves (Katrina & the Waves) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="la-bamba-soundtrack"> La Bamba Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="la-la-land-soundtrack"> La La Land Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="la-ley-del-desierto"> La ley del desierto (Radio Futura) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="lagrimas-negras"> Lágrimas Negras (Bebo Valdés & Diego el Cigala) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="left-of-the-middle"> Left of the Middle (Natalie Imbruglia) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="let-it-be"> Let It Be (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="life-in-cartoon-motion"> Life in Cartoon Motion (MIKA)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="live-at-hoxton-hall"> Live at Hoxton Hall (Cavetown) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="lo-mas-lejos-a-tu-lado"> Lo más lejos a tu lado (Fito y Fitipaldis)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="lo-que-me-de-la-gana"> Lo que me dé la gana (Dani Martín) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="look-sharp!"> Look Sharp! (Roxette) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="los-secretos"> Los Secretos (Los Secretos)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="lost-in-love"> Lost in Love (Air Supply) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="love-at-first-sting"> Love at First Sting (Scorpions)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="love-scene"> Love Scene (Yiruma)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="lp"> LP (The Rembrandts)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="lukas-graham"> Lukas Graham (Lukas Graham) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="made-in-heaven"> Made in Heaven (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="material-defectuoso"> Material defectuoso (Extremoduro)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="mccartney"> McCartney (Paul McCartney) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="mecano"> Mecano (Mecano)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="men-and-women"> Men and Women (Simply Red)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="metamorfosis"> Metamorfosis (Vega)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="mi-tierra"> Mi tierra (Nino Bravo)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="mi-vida-es-cantar"> Mi vida es cantar (Celia Cruz)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="more-of-the-monkees"> More of The Monkees (The Monkees)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="moving"> Moving (Peter, Paul and Mary) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="music-box"> Music Box (Mariah Carey)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="my-way"> My Way (Frank Sinatra) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="native"> Native (OneRepublic) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="natural-force"> Natural Force (Bonnie Tyler)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="need-you-now"> Need You Now (Lady A)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="nervous-system"> Nervous System (Julia Michaels) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="nightflight-to-venus"> Nightflight to Venus (Boney M.) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="no-6-collaborations-project"> No. 6 Collaborations Project (Ed Sheeran) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="no-es-pecado"> No es pecado (Alaska y Dinarama)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="no-need-to-argue"> No Need to Argue (The Cranberries) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="no-protection"> No Protection (Starship)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="news-of-the-world"> News of the World (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="off-the-wall"> Off the Wall (Michael Jackson) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="oh-my-messy-mind"> Oh My Messy Mind (James Bay)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="once-historias-y-un-piano"> Once historias y un piano (Pablo López)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="out-of-time"> Out of Time (R. E. M)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="overexposed"> Overexposed (Maroon 5)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="pablo-honey"> Pablo Honey (Radiohead)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="pain-killer"> Pain Killer (Little Big Town) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="pajaros-en-la-cabeza"> Pájaros en la Cabeza (Amaral)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="pendulum"> Pendulum (Creedence Clearwater Revival) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="personas"> Personas (El Canto del Loco) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="piano-man"> Piano Man (Billy Joel)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="please-please-me"> Please Please Me (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="point-of-know-return"> Point of Know Return (Kansas)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="pokito-a-poko"> Pokito a Poko (Chambao) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="por-la-boca-vive-el-pez"> Por la boca vive el pez (Fito y Fitipaldis) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="pray-for-the-wicked"> Pray for the Wicked (Panic! at the Disco)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="purpose"> Purpose (Justin Bieber)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="que-pides-tu"> ¿Qué pides tú? (Álex Ubago) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="rainy-day-music"> Rainy Day Music (The Jayhawks)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="recovery"> Recovery (Eminem) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="reggatta-de-blanc"> Reggatta de Blanc (The Police) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="rent-soundtrack"> Rent Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="retales-de-carnaval"> Retales de carnaval (Nena Daconte)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="revamp"> Revamp (Tribute to Elton John and Bernie Taupin)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="revolver"> Revolver (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="rubber-soul"> Rubber Soul (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="rush-soundtrack"> Rush Soundtrack (Eric Clapton)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="save-me-san-francisco"> Save Me, San Francisco (Train)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="save-the-last-dance-for-me"> Save the Last Dance for Me (The Drifters) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="sgt-pepper's-lonely-hearts-club-band"> Sgt. Pepper's Lonely Hearts Club Band (The Beatles) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="sheer-heart-attack"> Sheer Heart Attack (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="shrek-soundtrack"> Shrek Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="shrek-2-soundtrack"> Shrek 2 Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="sing!-soundtrack"> Sing! Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="slippery-when-wet"> Slippery When Wet (Bon Jovi)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="some-nights"> Some Nights (fun.)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="songs-about-jane"> Songs About Jane (Maroon 5) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="21"> Songs for You, Truths for Me (James Morrison)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="sour"> SOUR (Olivia Rodrigo) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="speak-your-mind"> Speak Your Mind (Anne-Marie)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="spiral-staircase"> Spiral Staircase (Ralph McTell) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="staying-at-tamara's"> Staying at Tamara's (George Ezra)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="sueños-liquidos"> Sueños líquidos (Maná) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="super-trouper"> Super Trouper (ABBA)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="sus-canciones"> Sus Canciones (Aitana)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="sweet-dreams-are-made-of-this"> Sweet Dreams (Are Made of This) (Eurythmics) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="swing-when-you're-winning"> Swing When You're Winning (Robbie Williams)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="synchronicity"> Synchronicity (The Police)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="talking-dreams"> Talking Dreams (Echosmith) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="talking-is-hard"> Talking is Hard (WALK THE MOON) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="tangled-soundtrack"> Tangled Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="teatro-d'ira"> Teatro d'ira (Mäneskin) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-album"> The Album (ABBA)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-animals"> The Animals (The Animals)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-beatles"> The Beatles (The Beatles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-bélier-family-soundtrack"> The Bélier Family Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-best-of-earth-wind-and-fire-vol-1"> The Best of Earth, Wind & Fire, Vol. 1 (Earth, Wind & Fire)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-bodyguard-soundtrack"> The Bodyguard Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-chorus-soundtrack"> The Chorus Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-complete-season-four"> The Complete Season Four (Glee Cast)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-days-nights-ep"> The Days/Nights EP (Avicii) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-element-of-freedom"> The Element of Freedom (Alicia Keys) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-fray"> The Fray (The Fray) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-game"> The Game (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-greatest-showman-soundtrack"> The Greatest Showman Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-joshua-tree"> The Joshua Tree </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-jungle-book-soundtrack"> The Jungle Book Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-lion-king-soundtrack"> The Lion King Soundtrack (2019) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-lion-king-soundtrack-old"> The Lion King Soundtrack (1994) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-nada"> The Nada (Kevin Johansen) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-neverending-story-soundtrack"> The NeverEnding Story Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-phantom-of-the-opera-soundtrack"> The Phantom of the Opera Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-quarterback"> The Quarterback (Glee Cast)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-rewritten-memories"> The Rewritten Memories (Yiruma)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-truth-about-love"> The Truth About Love (P!nk)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-woman-in-red-soundtrack"> The Woman in Red Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="the-works"> The Works (Queen)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="third-album"> Third Album (The Jackson 5) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="three-imaginary-boys"> Three Imaginary Boys (The Cure)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="thriller"> Thriller (Michael Jackson) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="title"> Title (Meghan Trainor)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="tom-petty-and-the-heartbreakers"> Tom Petty and the Heartbreakers (Tom Petty and the Heartbreakers) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="tommy"> Tommy (The Who)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="tommy-soundtrack"> Tommy Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="too-low-for-zero"> Too Low for Zero (Elton John)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="toto-iv"> Toto IV (Toto)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="toy-story-soundtrack"> Toy Story Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="toy-story-2-soundtrack"> Toy Story 2 Soundtrack</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="true"> True (Avicii)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="un-beso-y-una-flor"> Un beso y una flor (Nino Bravo)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="un-ramito-de-violetas"> Un Ramito de Violetas (Cecilia) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="una-pequeña-parte-del-mundo"> Una pequeña parte del mundo (Amaral) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="unearthed"> Unearthed (Johnny Cash)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="unorthodox-jukebox"> Unorthodox Jukebox (Bruno Mars)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="veneno-en-la-piel"> Veneno en la Piel (Radio Futura) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="voices"> Voices (Hall & Oates)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="wanted-on-voyage"> Wanted on Voyage (George Ezra)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="waterloo"> Waterloo (ABBA)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="we-are-the-world"> We Are the World (USA for Africa)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="we-can't-dance"> We Can't Dance (Genesis)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="we-sing-we-dance-we-steal-things"> We Sing. We Dance. We Steal Things (Jason Mraz)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="west-side-story-soundtrack"> West Side Story Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="what's-inside-songs-from-waitress"> What's Inside: Songs from Waitress (Sara Bareilles)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="what's-love-got-to-do-with-it"> What's Love Got to Do With It? (Tina Turner) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="what's-the-story-morning-glory"> (What's the Story) Morning Glory? (Oasis)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="wish"> Wish (The Cure) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="x"> X (Ed Sheeran) </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="ya-viene-el-sol"> Ya Viene el Sol (Mecano)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="yesterday"> Yesterday Soundtrack </label>
+  <label><input type="checkbox" class="filter" data-type="album" value="you-might-not-like-her"> You Might Not Like Her (Maddie Zahm)</label>
+  <label><input type="checkbox" class="filter" data-type="album" value="zapatillas"> Zapatillas (El Canto del Loco)</label>
+  </details>
+  
+</div>
+
+<div class="grid" id="songGrid"></div>
+
+<script>
+
+fetch("songs.json")
+.then(res => res.json())
+.then(data => {
+
+const container = document.getElementById("songGrid");
+const sortSelect = document.getElementById("sortSongs");
+
+data.forEach(song => {
+
+const div = document.createElement("div");
+div.className = "song";
+
+div.dataset.addition = song.addition;
+div.dataset.year = song.year;
+div.dataset.release = song.release;
+div.dataset.artist = song.artist;
+div.dataset.album = song.album;
+div.dataset.language = song.language;
+div.dataset.extra = song.extra;
+div.dataset.decade = song.decade;
+
+div.innerHTML = `
+<img src="${song.img}" loading="lazy">
+<p>
+${song.title}<br>
+${song.artistname}<br>
+${song.year} · ${song.albumname}
+</p>
+`;
+
+container.appendChild(div);
+
+});
+
+const songs = Array.from(document.querySelectorAll(".song"));
+const originalOrder = [...songs];
+
+const filters = document.querySelectorAll(".filter");
+
+filters.forEach(filter => {
+filter.addEventListener("change", () => {
+
+const active = {
+decade: [],
+extra: [],
+language: [],
+artist: [],
+album: []
+};
+
+filters.forEach(f => {
+if (f.checked) {
+active[f.dataset.type].push(f.value.toLowerCase());
+}
+});
+
+songs.forEach(song => {
+
+let show = true;
+
+for (let type in active) {
+
+if (active[type].length > 0) {
+
+const values = (song.dataset[type] || "")
+.toString()
+.split(",")
+.map(v => v.trim().toLowerCase());
+
+if (!values.some(v => active[type].includes(v))) {
+show = false;
+break;
+}
+
+}
+
+}
+
+song.style.display = show ? "block" : "none";
+
+});
+
+});
+});
+
+
+sortSelect.addEventListener("change", () => {
+
+const method = sortSelect.value;
+let sortedSongs;
+
+if (method === "default") {
+sortedSongs = originalOrder;
+}
+
+else if (method === "addition") {
+
+sortedSongs = [...originalOrder].sort(
+(a,b)=>(Number(a.dataset.addition)||999999)-(Number(b.dataset.addition)||999999)
+);
+
+}
+
+else if (method === "release") {
+
+sortedSongs = [...originalOrder].sort(
+(a,b)=>(Number(a.dataset.release)||999999)-(Number(b.dataset.release)||999999)
+);
+
+}
+
+sortedSongs.forEach(song => container.appendChild(song));
+
+});
+
+})
+.catch(err => {
+console.error("Failed to load songs.json", err);
+});
+
+</script>
+
+</body>
+</html>
