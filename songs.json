@@ -858,6 +858,22 @@
   "albumname": "Live at Hoxton Hall",
   "artistname": "Cavetown"
 }
+  ,
+{
+  "title": "Brave",
+  "artist": "sara-bareilles",
+  "addition": 425,
+  "release": 140.3,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "the-blessed-unrest",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sara-bareilles_the-blessed-unrest.png",
+  
+  "albumname": "The Blessed Unrest",
+  "artistname": "Sara Bareilles"
+}
 ,
 {
   "title": "Broken Strings",
@@ -2008,7 +2024,22 @@
   "albumname": "A Day at the Races",
   "artistname": "Queen"
 }
-
+,
+{
+  "title": "Good Riddance (Time of Your Life",
+  "artist": "green-day",
+  "addition": 426,
+  "release": 88.9,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "nimrod",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/G/green-day_nimrod.png",
+  
+  "albumname": "Nimrod",
+  "artistname": "Green Day"
+}
 ,
 {
   "title": "Got to Get You Into my Life",
@@ -4762,7 +4793,6 @@
   "albumname": "Back to Black",
   "artistname": "Amy Winehouse"
 }
-
 ,
 {
   "title": "Relax, Take It Easy",
@@ -4811,7 +4841,22 @@
   "albumname": "The Great Showman Soundtrack",
   "artistname": "Zac Efron, Zendaya"
 }
-
+,
+{
+  "title": "Ring of Fire",
+  "artist": "johnny-cash",
+  "addition": 424,
+  "release": 4.5,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "ring-of-fire",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/johnny-cash_ring-of-fire.png",
+  
+  "albumname": "Ring of Fire: The Best of Johnny Cash",
+  "artistname": "Johnny Cash"
+}
 ,
 {
   "title": "River Flows in You (Orchestral Version)",
@@ -4843,6 +4888,22 @@
 
   "albumname": "Honky Château",
   "artistname": "Elton John"
+}
+,
+{
+  "title": "Rosas",
+  "artist": "la-oreja-de-van-gogh",
+  "addition": 427,
+  "release": 99.5,
+  "decade": "2000s",
+  "year": 2003,
+  "album": "lo-que-te-conte-mientras-te-hacias-la-dormida",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/la-oreja-de-van-gogh_lo-que-te-conte-mientras-te-hacias-la-dormida.png",
+
+  "albumname": "Lo que te conté mientras te hacías la dormida",
+  "artistname": "La Oreja de Van Gogh"
 }
 ,
 {
@@ -5697,7 +5758,7 @@
   "year": 2006,
   "album": "back-to-black",
   "language": "english",
-  "extra": "",
+  "extra": "explicit",
   "img": "https://marswrites.neocities.org/albums/A/amy-winehouse_back-to-black.png",
   
   "albumname": "Back to Black",
