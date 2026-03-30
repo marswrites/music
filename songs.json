@@ -3009,7 +3009,22 @@
   "artistname": "Bon Jovi"
 }
 ,
-
+{
+  "title": "Jar of Hearts",
+  "artist": "christina-perri",
+  "addition": 423,
+  "release": 135.7,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "lovestrong",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/christina-perri_lovestrong.png",
+  
+  "albumname": "lovestrong.",
+  "artistname": "Christina Perri"
+}
+,
 {
   "title": "Je vole",
   "artist": "louane",
@@ -4764,7 +4779,22 @@
   "albumname": "Life in Cartoon Motion",
   "artistname": "MIKA"
 }
-
+,
+{
+  "title": "Remember Me (Duo)",
+  "artist": "miguel,natalia-lafourcade",
+  "addition": 422,
+  "release": 163,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "coco-soundtrack",
+  "language": "spanish,english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/C/coco.png",
+  
+  "albumname": "Coco Soundtrack",
+  "artistname": "Miguel, Natalia Lafourcade"
+}
 ,
 {
   "title": "Rewrite the Stars",
