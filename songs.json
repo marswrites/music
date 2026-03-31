@@ -615,7 +615,22 @@
   "albumname": "¿Dónde está el país de las hadas?",
   "artistname": "Mecano"
 }
-
+,
+{
+  "title": "Be Alright",
+  "artist": "dean-lewis",
+  "addition": 433,
+  "release": 170.6,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "a-place-we-knew",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/D/dean-lewis_a-place-we-knew.png",
+  
+  "albumname": "A Place We Knew",
+  "artistname": "Dean Lewis"
+}
 ,
 {
   "title": "Be Our Guest",
@@ -2168,6 +2183,22 @@
 
   "albumname": "for the soundtrack of The Umbrella Academy",
   "artistname": "Gerard Way Ray Toro"
+}
+,
+{
+  "title": "Happy Xmas (War Is Over)",
+  "artist": "john-lennon",
+  "addition": 430,
+  "release": 14.7,
+  "decade": "1970s",
+  "year": 1971,
+  "album": "",
+  "language": "english",
+  "extra": "christmas",
+  "img": "https://marswrites.neocities.org/albums/J/john-lennon_happy-xmas-war-is-over.png",
+
+  "albumname": "",
+  "artistname": "John Lennon"
 }
 ,
 {
@@ -4355,6 +4386,22 @@
   "albumname": "Al final de este viaje...",
   "artistname": "Silvio Rodríguez"
 }
+,
+{
+  "title": "One",
+  "artist": "ed-sheeran",
+  "addition": 429,
+  "release": 146,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "x",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_x.png",
+
+  "albumname": "X",
+  "artistname": "Ed Sheeran"
+}
 , 
 {
   "title": "One",
@@ -4564,6 +4611,38 @@
 
   "albumname": "Personas",
   "artistname": "El Canto del Loco"
+}
+,
+{
+  "title": "Photograph",
+  "artist": "boyce-avenue,bea-miller",
+  "addition": 431,
+  "release": 165,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "cover-sessions-vol-4",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/B/boyce-avenue_cover-sessions-vol-4.png",
+
+  "albumname": "Cover Sessions Vol. 4",
+  "artistname": "Boyce Avenue, Bea Miller"
+}
+,
+{
+  "title": "Photograph",
+  "artist": "ed-sheeran",
+  "addition": 432,
+  "release": 146,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "x",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_x.png",
+
+  "albumname": "X",
+  "artistname": "Ed Sheeran"
 }
 ,
 {
@@ -6547,6 +6626,22 @@
   
   "albumname": "Inner Monologue Part 1",
   "artistname": "Julia Michaels, Niall Horan"
+}
+,
+{
+  "title": "What Do I Know?",
+  "artist": "ed-sheeran",
+  "addition": 428,
+  "release": 160,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "divide",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_divide.png",
+  
+  "albumname": "Divide",
+  "artistname": "Ed Sheeran"
 }
 ,
 {
