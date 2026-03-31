@@ -2234,6 +2234,22 @@
 }
 ,
 {
+  "title": "Heather",
+  "artist": "conan-gray",
+  "addition": 435,
+  "release": 175.4,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "kid-krow",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_kid-krow.png",
+
+  "albumname": "Kid Krow",
+  "artistname": "Conan Gray"
+}
+,
+{
   "title": "Help!",
   "artist": "the-beatles",
   "addition": 164,
@@ -3818,6 +3834,22 @@
   
   "albumname": "Mecano",
   "artistname": "Mecano"
+}
+,
+{
+  "title": "Maria",
+  "artist": "ansel-elgort",
+  "addition": 434,
+  "release": 183.3,
+  "decade": "2020s",
+  "year": 2021,
+  "album": " west-side-story-soundtrack-new",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/W/westsidestory-new.png",
+
+  "albumname": "West Side Story Soundtrack",
+  "artistname": "Ansel Elgort"
 }
 ,
 {
