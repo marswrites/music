@@ -325,6 +325,22 @@
 }
 ,
 {
+  "title": "Already Home",
+  "artist": "a-great-big-world",
+  "addition": 464,
+  "release": 144,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "is-there-anybody-out-there?",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/a-great-big-world_is-there-anybody-out-there.png",
+  
+  "albumname": "Is There Anybody Out There?",
+  "artistname": "A Great Big World"
+}
+,
+{
   "title": "Always Remember Us This Way",
   "artist": "lady-gaga",
   "addition": 172,
@@ -1602,6 +1618,22 @@
 }
 ,
 {
+  "title": "Dreams",
+  "artist": "the-cranberries",
+  "addition": 460,
+  "release": 80.4,
+  "decade": "1990s",
+  "year": 1993,
+  "album": "everybody-else-is-doing-it-so-why-can't-we",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_everybody-else-is-doing-it-so-why-can't-we.jpeg",
+  
+  "albumname": "Everybody Else is Doing It, So Why Can't We?",
+  "artistname": "The Cranberries"
+}
+,
+{
   "title": "Dust in the Wind",
   "artist": "kansas",
   "addition": 16,
@@ -1746,6 +1778,22 @@
 }
 ,
 {
+  "title": "Englishman in New York",
+  "artist": "sting",
+  "addition": 456,
+  "release": 70.5,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "nothing-like-the-sun",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sting_nothing-like-the-sun.png",
+
+  "albumname": "...Nothing Like the Sun",
+  "artistname": "Sting"
+}
+,
+{
   "title": "Escuela de Calor",
   "artist": "radio-futura",
   "addition": 198,
@@ -1824,6 +1872,22 @@
 
   "albumname": "",
   "artistname": "Boyce Avenue, Connie Talbot"
+}
+,
+{
+  "title": "(Everything I Do) I Do it For You",
+  "artist": "bryan-adams",
+  "addition": 453,
+  "release": 183.5,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "robin-hood-prince-of-thieves-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/R/robinhoodprinceofthieves.png",
+
+  "albumname": "Robin Hood: Prince of Thieves Soundtrack",
+  "artistname": "Bryan Adams"
 }
 ,
 {
@@ -2297,6 +2361,22 @@
 }
 ,
 {
+  "title": "Heaven",
+  "artist": "bryan-adams",
+  "addition": 454,
+  "release": 41.8,
+  "decade": "1980s",
+  "year": 1983,
+  "album": "a-night-in-heaven-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/A/anightinheaven.png",
+
+  "albumname": "A Night in Heaven Soundtrack",
+  "artistname": "Bryan Adams"
+}
+,
+{
   "title": "Help!",
   "artist": "the-beatles",
   "addition": 164,
@@ -2358,6 +2438,22 @@
 
   "albumname": "Music Box",
   "artistname": "Mariah Carey"
+}
+,
+{
+  "title": "Hey Jude",
+  "artist": "glee-cast",
+  "addition": 451,
+  "release": 141.2,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "sings-the-beatles",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_sings-the-beatles.png",
+  
+  "albumname": "Glee Sings the Beatles",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -2568,6 +2664,22 @@
   "albumname": "The Animals",
   "artistname": "The Animals"
 }
+  ,
+{
+  "title": "How to Save a Life",
+  "artist": "the-fray",
+  "addition": 463,
+  "release": 118.4,
+  "decade": "2000s",
+  "year": 2005,
+  "album": "how-to-save-a-life",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-fray_how-to-save-a-life.png",
+
+  "albumname": "How to Save a Life",
+  "artistname": "The Fray"
+}
 ,
 {
   "title": "Hoy no me puedo levantar",
@@ -2647,6 +2759,22 @@
 
   "albumname": "A Head Full of Dreams",
   "artistname": "Coldplay"
+}
+  ,
+{
+  "title": "I Don't Wanna Love Somebody Else",
+  "artist": "a-great-big-world",
+  "addition": 465,
+  "release": 144,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "is-there-anybody-out-there?",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/a-great-big-world_is-there-anybody-out-there.png",
+  
+  "albumname": "Is There Anybody Out There?",
+  "artistname": "A Great Big World"
 }
 ,
 {
@@ -2873,6 +3001,22 @@
 
   "albumname": "Love is a Four Letter Word",
   "artistname": "Jason Mraz"
+}
+,
+{
+  "title": "I'd Do Anything for Love (But I Won't Do That)",
+  "artist": "meat-loaf",
+  "addition": 457,
+  "release": 80.95,
+  "decade": "1990s",
+  "year": 1993,
+  "album": "bat-out-of-hell-ii",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/meat-loaf_bat-out-of-hell-ii.png",
+
+  "albumname": "Bat Out of Hell II: Back into Hell",
+  "artistname": "Meat Loaf"
 }
 ,
 {
@@ -3706,6 +3850,22 @@
 }
 ,
 {
+  "title": "Linger",
+  "artist": "the-cranberries",
+  "addition": 459,
+  "release": 80.4,
+  "decade": "1990s",
+  "year": 1993,
+  "album": "everybody-else-is-doing-it-so-why-can't-we",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_everybody-else-is-doing-it-so-why-can't-we.jpeg",
+  
+  "albumname": "Everybody Else is Doing It, So Why Can't We?",
+  "artistname": "The Cranberries"
+}
+,
+{
   "title": "Livin' on a Prayer",
   "artist": "bon-jovi",
   "addition": 221,
@@ -4221,7 +4381,22 @@
   "albumname": "Extreme II: Pornograffiti",
   "artistname": "Extreme"
 }
-
+,
+{
+  "title": "Mother Knows Best",
+  "artist": "donna-murphy",
+  "addition": 455,
+  "release": 134,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "tangled-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/tangled.png",
+  
+  "albumname": "Tangled Soundtrack",
+  "artistname": "Donna Murphy"
+}
 ,
 {
   "title": "Mr. Sandman",
@@ -4512,6 +4687,22 @@
 
   "albumname": "The Beatles (The White Album",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Ode to My Family",
+  "artist": "the-cranberries",
+  "addition": 461,
+  "release": 81.5,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "no-need-to-argue",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_no-need-to-argue.png",
+
+  "albumname": "No Need to Argue",
+  "artistname": "The Cranberries"
 }
 ,
 {
@@ -5142,6 +5333,22 @@
 
   "albumname": "Lo que te conté mientras te hacías la dormida",
   "artistname": "La Oreja de Van Gogh"
+}
+,
+{
+  "title": "Run",
+  "artist": "taylor-swift,ed-sheeran",
+  "addition": 462,
+  "release": 183.1,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "red-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_red-taylor's-version.png",
+
+  "albumname": "Red (Taylor's Version)",
+  "artistname": "Taylor Swift, Ed Sheeran"
 }
 ,
 {
@@ -6653,6 +6860,22 @@
 }
 ,
 {
+  "title": "Video Killed the Radio Star",
+  "artist": "the-buggles",
+  "addition": 452,
+  "release": 29.8,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "the-age-of-plastic",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-buggles_the-age-of-plastic.png",
+
+  "albumname": "The Age of Plastic",
+  "artistname": "The Buggles"
+}
+,
+{
   "title": "Vienna",
   "artist": "billy-joel",
   "addition": 417,
@@ -6749,7 +6972,21 @@
   "artistname": "Avicii"
 }
 ,
-
+{
+  "title": "Wake Me Up Before You Go-Go",
+  "artist": "wham!",
+  "addition": 458,
+  "release": 57.5,
+  "decade": "1980s",
+  "year": 1984,
+  "album": "make-it-big",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/W/wham!_make-it-big.png",
+  
+  "albumname": "Make It Big",
+  "artistname": "Wham!"
+}
 {
   "title": "Wake Me Up When September Ends",
   "artist": "green-day",
@@ -6765,7 +7002,6 @@
   "albumname": "American Idiot",
   "artistname": "Green Day"
 }
-
 ,
 {
   "title": "Walk of Life",
