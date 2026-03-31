@@ -390,6 +390,22 @@
 }
 ,
 {
+  "title": "American Tune",
+  "artist": "paul-simon",
+  "addition": 436,
+  "release": 17.7,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "there-goes-rhymin'-simon",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/P/paul-simon_there-goes-rhymin'-simon.png",
+  
+  "albumname": "There Goes Rhymin' Simon",
+  "artistname": "Paul Simon"
+}
+,
+{
   "title": "And I Love Her",
   "artist": "the-beatles",
   "addition": 159,
@@ -438,6 +454,22 @@
 }
 ,
 {
+  "title": "Another Day in Paradise",
+  "artist": "phil-collins",
+  "addition": 440,
+  "release": 75.5,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "but-seriously",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/phil-collins_but-seriously.png",
+  
+  "albumname": "...But Seriously",
+  "artistname": "Phil Collins"
+}
+,
+{
   "title": "Another Day of Sun",
   "artist": "la-la-land-cast",
   "addition": 1,
@@ -452,7 +484,6 @@
   "albumname": "La La Land Soundtrack",
   "artistname": "La La Land Cast"
 }
-
 ,
 {
   "title": "Another One Bites the Dust",
@@ -1210,6 +1241,22 @@
   
   "albumname": "Una pequeña parte del mundo",
   "artistname": "Amaral"
+}
+,
+{
+  "title": "Control",
+  "artist": "zoe-wees",
+  "addition":437,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "golden-wings",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Z/zoe-wees_golden-wings.png",
+  
+  "albumname": "Golden Wings",
+  "artistname": "Zoe Wees"
 }
 ,
 {
@@ -2394,6 +2441,22 @@
 }
 ,
 {
+  "title": " Hit the Road Jack",
+  "artist": "ray-charles",
+  "addition": 445,
+  "release": 1.8,
+  "decade": "1960s",
+  "year": 1961,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/ray-charles_hit-the-road-jack.png",
+
+  "albumname": "",
+  "artistname": "Ray Charles"
+}
+,
+{
   "title": " Hold Me While You Wait",
   "artist": "lewis-capaldi",
   "addition": 358,
@@ -2797,6 +2860,22 @@
 }
 ,
 {
+  "title": "I Won't Give Up",
+  "artist": "jason-mraz",
+  "addition": 441,
+  "release": 136.7,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "love-is-a-four-letter-word",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jason-mraz_love-is-a-four-letter-word.png",
+
+  "albumname": "Love is a Four Letter Word",
+  "artistname": "Jason Mraz"
+}
+,
+{
   "title": "I'll Be There",
   "artist": "the-jackson-5",
   "addition": 371,
@@ -3069,6 +3148,22 @@
 
   "albumname": "Falling into You",
   "artistname": "Céline Dion"
+}
+, 
+{
+  "title": "It's All Coming Back to Me Now",
+  "artist": "pandora's-box",
+  "addition": 447,
+  "release": 74.8,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "original-sin",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/pandora's-box_original-sin.png",
+
+  "albumname": "Original Sin",
+  "artistname": "Pandora's Box"
 }
 ,
 {
@@ -3624,6 +3719,22 @@
   
   "albumname": "Slippery When Wet",
   "artistname": "Bon Jovi"
+}
+,
+{
+  "title": "Lollipop",
+  "artist": "the-chordettes",
+  "addition": 438,
+  "release": 1.5,
+  "decade": "1950s+",
+  "year": 1958,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/T/the-chordettes_lollipop.png",
+  
+  "albumname": "",
+  "artistname": "The Chordettes"
 }
 ,
 {
@@ -4968,6 +5079,22 @@
   "albumname": "Ring of Fire: The Best of Johnny Cash",
   "artistname": "Johnny Cash"
 }
+, 
+{
+  "title": "River Deep, Mountain High",
+  "artist": "céline-dion",
+  "addition": 449,
+  "release": 88,
+  "decade": "1990s",
+  "year": 1996,
+  "album": "falling-into-you",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/C/céline-dion_falling-into-you.png",
+
+  "albumname": "Falling into You",
+  "artistname": "Céline Dion"
+}
 ,
 {
   "title": "River Flows in You (Orchestral Version)",
@@ -5177,7 +5304,21 @@
   "albumname": "Furious 7 Soundtrack",
   "artistname": "Wiz Khalifa, Charlie Puth"
 }
+{
+  "title": "Seeing Other People",
+  "artist": "francis-karel,maddie-zahm",
+  "addition": 446,
+  "release": 184.8,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/francis-karel_seeing-other-people.png",
 
+  "albumname": "",
+  "artistname": "Francis Karel, Maddie Zahm"
+}
 ,
 {
   "title": "Send My Love (To Your New Lover)",
@@ -5567,6 +5708,22 @@
   
   "albumname": "Yesterday Soundtrack",
   "artistname": "Himesh Patel"
+}
+,
+{
+  "title": "Something",
+  "artist": "the-beatles",
+  "addition": 450,
+  "release": 13,
+  "decade": "1960s",
+  "year": 1969,
+  "album": "abbey-road",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_abbey-road.png",
+
+  "albumname": "Abbey Road",
+  "artistname": "The Beatles"
 }
 ,
 {
@@ -6057,6 +6214,22 @@
 }
 ,
 {
+  "title": "The Sound of Silence",
+  "artist": "simon-and-garfunkel",
+  "addition": 443,
+  "release": 6.4,
+  "decade": "1996s",
+  "year": 1964,
+  "album": "wednesday-morning-3-am",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/simon-and-garfunkel_wednesday-morning-3-am.png",
+  
+  "albumname": "Wednesday Morning 3 A.M.",
+  "artistname": "Simon & Garfunkel"
+}
+,
+{
   "title": "The Way You Make Me Feel",
   "artist": "michael-jackson",
   "addition": 370,
@@ -6089,6 +6262,22 @@
 }
 ,
 {
+  "title": "These Boots are Made for Walkin'",
+  "artist": "nancy-sinatra",
+  "addition": 444,
+  "release": 8.5,
+  "decade": "1960s",
+  "year": 1966,
+  "album": "boots",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/nancy-sinatra_boots.png",
+
+  "albumname": "Boots",
+  "artistname": "Nancy Sinatra"
+}
+,
+{
   "title": "They Don't Care About Us",
   "artist": "michael-jackson",
   "addition": 346,
@@ -6103,7 +6292,6 @@
   "albumname": "HIStory",
   "artistname": "Michael Jackson"
 }
-
 ,
 {
   "title": "Think of Me",
@@ -6170,6 +6358,22 @@
 
   "albumname": "Thriller",
   "artistname": "Michael Jackson"
+}
+, 
+{
+  "title": " Titanium",
+  "artist": "david-guetta,sia",
+  "addition": 439,
+  "release": 135.9,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "nothing-but-the-beat",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/david-guetta_nothing-but-the-beat.png",
+  
+  "albumname": "Nothing but the Beat",
+  "artistname": "David Guetta, Sia"
 }
 , 
 {
@@ -6285,7 +6489,6 @@
   "albumname": "The Truth About Love",
   "artistname": "P!nk"
 }
-
 ,
 {
   "title": "Turning Tables",
@@ -6301,6 +6504,22 @@
   
   "albumname": "21",
   "artistname": "Adele"
+}
+,
+{
+  "title": "TV",
+  "artist": "billie-eilish",
+  "addition": 442,
+  "release": 183.8,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "guitar-songs",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/billie-eilish_guitar-songs.png",
+  
+  "albumname": "Guitar Songs",
+  "artistname": "Billie Eilish"
 }
 ,
 {
@@ -7032,6 +7251,22 @@
 
   "albumname": "Zapatillas",
   "artistname": "El Canto del Loco"
+}
+,
+{
+  "title": "ZITTI E BUONI",
+  "artist": "maneskin",
+  "addition": 448,
+  "release": 179,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "teatro-d'ira",
+  "language": "italian",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/maneskin_teatro-d'ira.png",
+
+  "albumname": "Teatro d'ira",
+  "artistname": "Mäneskin"
 }
 ,
 {
