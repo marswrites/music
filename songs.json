@@ -1471,6 +1471,22 @@
 }
 ,
 {
+  "title": "Diana",
+  "artist": "paul-anka",
+  "addition": 471,
+  "release": 1.6,
+  "decade": "1950s",
+  "year": 1958,
+  "album": "paul-anka",
+  "language": "engliish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/paul-anka_paul-anka.png",
+  
+  "albumname": "Paul Anka",
+  "artistname": "Paul Anka"
+}
+,
+{
   "title": "Días de verano",
   "artist": "amaral",
   "addition": 403,
@@ -1627,7 +1643,7 @@
   "album": "everybody-else-is-doing-it-so-why-can't-we",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_everybody-else-is-doing-it-so-why-can't-we.jpeg",
+  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_everybody-else-is-doing-it-so-why-can't-we.png",
   
   "albumname": "Everybody Else is Doing It, So Why Can't We?",
   "artistname": "The Cranberries"
@@ -1904,6 +1920,22 @@
   
   "albumname": "Synchronicity",
   "artistname": "The Police"
+}
+,
+{
+  "title": "Faith",
+  "artist": "george-michael",
+  "addition": 470,
+  "release": 70.7,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "faith",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/G/george-michael_faith.png",
+  
+  "albumname": "Faith",
+  "artistname": "George Michael"
 }
 ,
 {
@@ -2200,6 +2232,22 @@
 }
 ,
 {
+  "title": "Greatest Love of All",
+  "artist": "whitney-houston",
+  "addition": 478,
+  "release": 58.3,
+  "decade": "1980s",
+  "year": 1985,
+  "album": "whitney-houston",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/W/whitney-houston_whitney-houston.png",
+  
+  "albumname": "Whitney Houston",
+  "artistname": "Whitney Houston"
+}
+,
+{
   "title": "Guacamole",
   "artist": "kevin-johansen",
   "addition": 242,
@@ -2374,6 +2422,22 @@
 
   "albumname": "A Night in Heaven Soundtrack",
   "artistname": "Bryan Adams"
+}
+,
+{
+  "title": "Hello Mary Lou (Goodbye Heart)",
+  "artist": "ricky-nelson",
+  "addition": 472,
+  "release": 1.7,
+  "decade": "1960s",
+  "year": 1961,
+  "album": "rick-is-21",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/ricky-nelson_rick-is-21.png",
+
+  "albumname": "Rick is 21",
+  "artistname": "Ricky Nelson"
 }
 ,
 {
@@ -2682,6 +2746,22 @@
 }
 ,
 {
+  "title": "How Will I Know",
+  "artist": "whitney-houston",
+  "addition": 477,
+  "release": 58.3,
+  "decade": "1980s",
+  "year": 1985,
+  "album": "whitney-houston",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/W/whitney-houston_whitney-houston.png",
+  
+  "albumname": "Whitney Houston",
+  "artistname": "Whitney Houston"
+}
+,
+{
   "title": "Hoy no me puedo levantar",
   "artist": "mecano",
   "addition": 320,
@@ -2826,6 +2906,22 @@
 }
 ,
 {
+  "title": "I Have Nothing",
+  "artist": "whitney-houston",
+  "addition": 479,
+  "release": 80,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "the-bodyguard-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thebodyguard.png",
+
+  "albumname": "The Bodyguard Soundtrack",
+  "artistname": "Whitney Houston"
+}
+,
+{
   "title": "I Just Called to Say I Love You",
   "artist": "stevie-wonder",
   "addition": 310,
@@ -2873,7 +2969,22 @@
   "albumname": "Tangled Soundtrack",
   "artistname": "Mandy Moore, Zachary Levi"
 }
-
+,
+{
+  "title": "I Wanna Dance With Somebody (Who Loves Me)",
+  "artist": "whitney-houston",
+  "addition": 476,
+  "release": 66.5,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "whitney",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/W/whitney-houston_whitney.png",
+  
+  "albumname": "Whitney",
+  "artistname": "Whitney Houston"
+}
 ,
 {
   "title": "I Want to Break Free",
@@ -3147,6 +3258,22 @@
 
   "albumname": "Imagine",
   "artistname": "John Lennon"
+}
+,
+{
+  "title": "In Dreams",
+  "artist": "roy-orbison",
+  "addition": 480,
+  "release": 4.7,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "in-dreams",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/roy-orbison_in-dreams.png",
+  
+  "albumname": "In Dreams",
+  "artistname": "Roy Orbison"
 }
 ,
 {
@@ -3859,7 +3986,7 @@
   "album": "everybody-else-is-doing-it-so-why-can't-we",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_everybody-else-is-doing-it-so-why-can't-we.jpeg",
+  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_everybody-else-is-doing-it-so-why-can't-we.png",
   
   "albumname": "Everybody Else is Doing It, So Why Can't We?",
   "artistname": "The Cranberries"
@@ -3879,6 +4006,22 @@
   
   "albumname": "Slippery When Wet",
   "artistname": "Bon Jovi"
+}
+,
+{
+  "title": "Living on My Own",
+  "artist": "freddie-mercury",
+  "addition": 474,
+  "release": 58.8,
+  "decade": "1980s",
+  "year": 1985,
+  "album": "mr.-bad-guy",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/freddie-mercury_mr.-bad-guy.png",
+  
+  "albumname": "Mr. Bad Guy",
+  "artistname": "Freddie Mercury"
 }
 ,
 {
@@ -4025,7 +4168,22 @@
   "albumname": "13 Reasons Why: Season 2 Soundtrack",
   "artistname": "Billie Eilish, Khalid"
 }
-
+,
+{
+  "title": "Lover",
+  "artist": "taylor-swift",
+  "addition": 473,
+  "release": 174.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "lover",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_lover.png",
+  
+  "albumname": "Lover",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "Lucky",
@@ -4073,6 +4231,22 @@
 
   "albumname": "Bad",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Maniac",
+  "artist": "conan-gray",
+  "addition": 466,
+  "release": 175.4,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "kid-krow",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_kid-krow.png",
+
+  "albumname": "Kid Krow",
+  "artistname": "Conan Gray"
 }
 ,
 {
@@ -4251,6 +4425,22 @@
   
   "albumname": "Metamorfosis",
   "artistname": "Vega"
+}
+,
+{
+  "title": "Memories",
+  "artist": "conan-gray",
+  "addition": 467,
+  "release": 183.7,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "superache",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_superache.png",
+
+  "albumname": "Superache",
+  "artistname": "Conan Gray"
 }
 ,
 {
@@ -4906,13 +5096,30 @@
   "release": 171.3,
   "decade": "2010s",
   "year": 2019,
-  "album": " oh-my-messy-mind",
+  "album": "oh-my-messy-mind",
   "language": "english",
   "extra": "",
   "img": "https://marswrites.neocities.org/albums/J/james-bay_oh-my-messy-mind.png",
 
   "albumname": "Oh My Messy Mind",
   "artistname": "James Bay"
+}
+
+,
+{
+  "title": "People Watching",
+  "artist": "conan-gray",
+  "addition": 466,
+  "release": 183.7,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "superache",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_superache.png",
+
+  "albumname": "Superache",
+  "artistname": "Conan Gray"
 }
 ,
 {
@@ -5539,6 +5746,22 @@
   "language": "english",
   "extra": "",
   "img": "https://marswrites.neocities.org/albums/A/adele_25.png",
+  
+  "albumname": "25",
+  "artistname": "Adele"
+}
+,
+{
+  "title": "Señorita",
+  "artist": "shawn-mendes",
+  "addition": 469,
+  "release": 168.4,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "shawn-mendes",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/shawn-mendes_shawn-mendes.png",
   
   "albumname": "25",
   "artistname": "Adele"
@@ -7228,6 +7451,22 @@
 
   "albumname": "The Beatles",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "White Horse",
+  "artist": "taylor-swift",
+  "addition": 475,
+  "release": 125.5,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "fearless,fearless-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_fearless.png",
+
+  "albumname": "Fearless",
+  "artistname": "Taylor Swift"
 }
 ,
 {
