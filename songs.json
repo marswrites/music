@@ -1018,6 +1018,22 @@
 }
 ,
 {
+  "title": "Heather",
+  "artist": "conan-gray",
+  "addition": 511,
+  "release": 175.4,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "kid-krow",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_kid-krow.png",
+
+  "albumname": "Kid Krow",
+  "artistname": "Conan Gray"
+}
+,
+{
   "title": "Can You Feel the Love Tonight",
   "artist": "boyce-avenue,connie-talbot",
   "addition": 218,
@@ -1193,7 +1209,22 @@
   "albumname": "Sus Canciones",
   "artistname": "Aitana"
 }
-
+,
+{
+  "title": "Cien gaviotas",
+  "artist": "duncan-dhu",
+  "addition": 519,
+  "release": 60.5,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "canciones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/duncan-dhu_canciones.png",
+  
+  "albumname": "Canciones",
+  "artistname": "Duncan Dhu"
+}
 ,
 {
   "title": "Chas! Y Aparezco a tu Lado",
@@ -1257,6 +1288,38 @@
   
   "albumname": "De mi puño y letra",
   "artistname": "Carlos Baute, Marta Sánchez"
+}
+,
+{
+  "title": "Colors on the Wind",
+  "artist": "judy-kuhn",
+  "addition": 516,
+  "release": 83.3,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "pocahontas-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/P/pocahontas.png",
+  
+  "albumname": "Pocahontas Soundtrack",
+  "artistname": "Judy Kuhn"
+}
+,
+{
+  "title": "Come Together",
+  "artist": "michael-jackson",
+  "addition": 521,
+  "release": 83.5,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "history",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/michael-jackson_history.png",
+
+  "albumname": "HIStory",
+  "artistname": "Michael Jackson"
 }
 ,
 {
@@ -1921,6 +1984,22 @@
 ,
 {
   "title": "Everybody Hurts",
+  "artist": "glee-cast",
+  "addition": 518,
+  "release": 143,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "the-complete-season-four",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
+
+  "albumname": "The Complete Season Four",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Everybody Hurts",
   "artist": "rem",
   "addition": 313,
   "release": 78.8,
@@ -1934,7 +2013,6 @@
   "albumname": "Automatic for the People",
   "artistname": "R. E. M"
 }
-
 ,
 {
   "title": "(Everything I Do) I Do it For You",
@@ -2791,6 +2869,22 @@
 }
 ,
 {
+  "title": "Hopelessly Devoted to You",
+  "artist": "olivia-newton-john",
+  "addition": 515,
+  "release": 28,
+  "decade": "1970s",
+  "year": 1978,
+  "album": "grease-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/G/grease.png",
+  
+  "albumname": "Grease Soundtrack",
+  "artistname": "Olivia Newton-John"
+}
+,
+{
   "title": "Hotel California",
   "artist": "eagles",
   "addition": 232,
@@ -3015,6 +3109,22 @@
 }
 ,
 {
+  "title": "I Guess That's Why They Call it the Blues",
+  "artist": "elton-john",
+  "addition": 520,
+  "release": 40,
+  "decade": "1980s",
+  "year": 1983,
+  "album": "too-low-for-zero",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/elton-john_too-low-for-zero.png",
+  
+  "albumname": "Too Low for Zero",
+  "artistname": "Elton John"
+}
+,
+{
   "title": "I Have Nothing",
   "artist": "whitney-houston",
   "addition": 479,
@@ -3077,6 +3187,38 @@
   
   "albumname": "Tangled Soundtrack",
   "artistname": "Mandy Moore, Zachary Levi"
+}
+,
+{
+  "title": "I Still Haven't Found What I'm Looking For",
+  "artist": "u2",
+  "release": 513,
+  "addition": 182,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "the-joshua-tree",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/U/u2_the-joshua-tree.png",
+
+  "albumname": "The Joshua Tree",
+  "artistname": "U2"
+}
+,
+{
+  "title": "I WANNA BE YOUR SLAVE",
+  "artist": "maneskin",
+  "addition": 522,
+  "release": 179,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "teatro-d'ira",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/maneskin_teatro-d'ira.png",
+
+  "albumname": "Teatro d'ira",
+  "artistname": "Mäneskin"
 }
 ,
 {
@@ -3386,6 +3528,22 @@
 }
 ,
 {
+  "title": "In My Life",
+  "artist": "the-beatles",
+  "addition": 517,
+  "release": 8,
+  "decade": "1960s",
+  "year": 1965,
+  "album": "rubber-soul",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_rubber-soul.png",
+
+  "albumname": "Rubber Soul",
+  "artistname": "The Beatles"
+}
+,
+{
   "title": "In Our Small Way",
   "artist": "michael-jackson",
   "addition": 361,
@@ -3560,6 +3718,22 @@
 
   "albumname": "Crush",
   "artistname": "Bon Jovi"
+}
+,
+{
+  "title": "It's the End of the World As We Know It (And I Feel Fine)",
+  "artist": "rem",
+  "addition": 525,
+  "release": 69,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "document",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rem_document.png",
+  
+  "albumname": "Document",
+  "artistname": "R. E. M"
 }
 ,
 {
@@ -3980,6 +4154,22 @@
 
   "albumname": "Chansons parisiennes",
   "artistname": "Édith Piaf"
+}
+,
+{
+  "title": "Lady Writer",
+  "artist": "dire-straits",
+  "addition": 512,
+  "release": 29.15,
+  "decade": "1970s",
+  "year": 1979,
+  "album": "communique",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dire-straits_communique.png",
+
+  "albumname": "Communiqué",
+  "artistname": "Dire Straits"
 }
 ,
 {
@@ -6128,6 +6318,22 @@
   "albumname": " Off the Wall",
   "artistname": "Michael Jackson"
 }
+,
+{
+  "title": "Shiny Happy People",
+  "artist": "rem",
+  "addition": 524,
+  "release": 77.5,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "out-of-time",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rem_out-of-time.png",
+  
+  "albumname": "Out of Time",
+  "artistname": "R. E. M"
+}
 , 
 {
   "title": "Shotgun",
@@ -7131,6 +7337,22 @@
   "albumname": "Thriller",
   "artistname": "Michael Jackson"
 }
+,
+{
+  "title": "TIMEZONE",
+  "artist": "mäneskin",
+  "addition": 514,
+  "release": 184.9,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "rush!",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/mäneskin_rush!.png",
+
+  "albumname": "Rush!",
+  "artistname": "Mäneskin"
+}
 , 
 {
   "title": " Titanium",
@@ -7354,6 +7576,22 @@
   
   "albumname": "Un beso y una flor",
   "artistname": "Nino Bravo"
+}
+,
+{
+  "title": "Un Poco Loco",
+  "artist": "anthony-gonzalez,gael-garcia-bernal",
+  "addition": 523,
+  "release": 163,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "coco-soundtrack",
+  "language": "spanish,english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/C/coco.png",
+  
+  "albumname": "Coco Soundtrack",
+  "artistname": "Anthony Gonzalez, Gael García Bernal"
 }
 ,
 {
