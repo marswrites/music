@@ -2106,7 +2106,7 @@
   "album": "listen-without-prejudice-vol-1",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/G/george-michael-vol-1.png",
+  "img": "https://marswrites.neocities.org/albums/G/george-michael_listen-without-prejudice-vol-1.png",
   
   "albumname": "Listen Without Prejudice Vol. 1",
   "artistname": "George Michael"
@@ -5419,7 +5419,38 @@
   "albumname": "Tommy",
   "artistname": "The Who"
 }
+  ,
+{
+  "title": "Popular",
+  "artist": "glee-cast",
+  "addition": 510,
+  "release": 153.5,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "2015",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_2015.png",
 
+  "albumname": "Glee: The Music: 2015",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Popular",
+  "artist": "stephen-schwartz,kristin-chenoweth",
+  "addition": 509,
+  "release": 102,
+  "decade": "2000s",
+  "year": 2003,
+  "album": "wicked-musical",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/W/wicked.png",
+
+  "albumname": "Wicked (musical)",
+  "artistname": "Stephen Schwartz, Kristin Chenoweth"
+}
 ,
 {
   "title": "Puff, the Magic Dragon",
@@ -6529,7 +6560,7 @@
   "album": "take-the-heat-off-me",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/B/boney-m_take-the-heat-off-me.png",
+  "img": "https://marswrites.neocities.org/albums/B/boney-m._take-the-heat-off-me.png",
   
   "albumname": "Take the Heat off Me",
   "artistname": "Boney M."
@@ -6792,6 +6823,22 @@
   "albumname": "The Jungle Book Soundtrack",
   "artistname": "Phil Harris, Bruce Reitherman"
 }
+  ,
+{
+  "title": "The Best",
+  "artist": "tina-turner",
+  "addition": 506,
+  "release": 74.6,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "foreign-affair",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/T/tina-turner_foreign-affair.png",
+  
+  "albumname": "Foreign Affair",
+  "artistname": "Tina Turner"
+}
 ,
 {
   "title": "The Bones",
@@ -6856,6 +6903,23 @@
   "albumname": "Thriller",
   "artistname": "Michael Jackson, Paul McCartney"
 }
+,
+{
+  "title": "THE LONELIEST",
+  "artist": "mäneskin",
+  "addition": 508,
+  "release": 184.9,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "rush!",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mäneskin_rush!.png",
+
+  "albumname": "Rush!",
+  "artistname": "Mäneskin"
+}
+
 ,
 {
   "title": "The Look",
@@ -7968,6 +8032,23 @@
   "albumname": "Only Human",
   "artistname": "Calum Scott"
 }
+, 
+{
+  "title": "You Can't Hurry Love",
+  "artist": "john-travolta,elijah-kelly,amanda-bynes,zac-efron,queen-latifah,nikki-blonsky",
+  "addition": 507,
+  "release": 37.2,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "hello-i-must-be-going!",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/P/phil-collins_hello-i-must-be-going!.png",
+  
+  "albumname": "Hello, I Must Be Going!",
+  "artistname": "Phil Collins"
+}
+,
 , 
 {
   "title": "You Can't Stop the Beat",
