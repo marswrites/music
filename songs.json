@@ -775,6 +775,38 @@
   "albumname": "No. 6 Collaborations Project",
   "artistname": "Ed Sheeran, YEBBA"
 }
+, 
+{
+  "title": "Bette Davis Eyes",
+  "artist": "kim-carnes",
+  "addition": 496,
+  "release": 34.3,
+  "decade": "1980s",
+  "year": 1981,
+  "album": "mistaken-identity",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/kim-carnes_mistaken-identity.png",
+  
+  "albumname": "Mistaken Identity",
+  "artistname": "Kim Carnes"
+}
+, 
+{
+  "title": "Better Man",
+  "artist": "taylor-swift",
+  "addition": 486,
+  "release": 183.1,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "red-taylor's-version",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_red-taylor's-version.png",
+  
+  "albumname": "Red (Taylor's Version)",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "Bicycle Race",
@@ -1403,7 +1435,22 @@
   "albumname": "Entre el cielo y el suelo",
   "artistname": "Mecano"
 }
-
+, 
+{
+  "title": "Dancing on My Own",
+  "artist": "calum-scott",
+  "addition": 501,
+  "release": 165.5,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "only-human",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/C/calum-scott_only-human.png",
+  
+  "albumname": "Only Human",
+  "artistname": "Calum Scott"
+}
 ,
 {
   "title": "Dear Future Husband",
@@ -1518,7 +1565,22 @@
   "albumname": "Get Close",
   "artistname": "Pretenders"
 }
-
+, 
+{
+  "title": "Don't Let the Sun Go Down on Me",
+  "artist": "elton-john",
+  "addition": 504,
+  "release": 19.7,
+  "decade": "1970s",
+  "year": 1974,
+  "album": "caribou",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/elton-john_caribou.png",
+  
+  "albumname": "Caribou",
+  "artistname": "Elton John"
+}
 ,
 {
   "title": "Don't Look Back in Anger",
@@ -1969,6 +2031,22 @@
   "albumname": "Escapology",
   "artistname": " Robbie Williams"
 }
+, 
+{
+  "title": "Feeling Good",
+  "artist": "nina-simone",
+  "addition": 498,
+  "release": 6.5,
+  "decade": "1960s",
+  "year": 1965,
+  "album": "i-put-a-spell-on-you",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/nina-simone_i-put-a-spell-on-you.png",
+  
+  "albumname": "I Put a Spell on You",
+  "artistname": "Nina Simone"
+}
 ,
 {
   "title": "For the First Time in Forever",
@@ -2017,7 +2095,22 @@
   "albumname": "Full Moon Fever",
   "artistname": "Tom Petty"
 }
-
+, 
+{
+  "title": "Freedom! '90",
+  "artist": "george-michael",
+  "addition": 505,
+  "release": 76.7,
+  "decade": "1990s",
+  "year": 1990,
+  "album": "listen-without-prejudice-vol-1",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/G/george-michael-vol-1.png",
+  
+  "albumname": "Listen Without Prejudice Vol. 1",
+  "artistname": "George Michael"
+}
 ,
 {
   "title": "Friday I'm In Love",
@@ -2728,7 +2821,23 @@
   "albumname": "The Animals",
   "artistname": "The Animals"
 }
-  ,
+, 
+{
+  "title": "How Do I Say Goodbye (Guitar Acoustic)",
+  "artist": "dean-lewis",
+  "addition": 488,
+  "release": 184.75,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "the-hardest-love",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/D/dean-lewis_the-hardest-love.png",
+  
+  "albumname": "The Hardest Love",
+  "artistname": "Dean Lewis"
+}
+, 
 {
   "title": "How to Save a Life",
   "artist": "the-fray",
@@ -3500,9 +3609,24 @@
   "albumname": "We Can't Dance",
   "artistname": "Genesis"
 }
+, 
+{
+  "title": "Joyride",
+  "artist": "roxette",
+  "addition": 500,
+  "release": 77.55,
+  "decade": "1980s",
+  "year": 1991,
+  "album": "joyride",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/roxette_joyride.png",
+  
+  "albumname": "Joyride",
+  "artistname": "Roxette"
+}
 
 ,
-
 {
   "title": "Jueves",
   "artist": "la-oreja-de-van-gogh",
@@ -3599,7 +3723,22 @@
   "albumname": "The Truth About Love",
   "artistname": "P!nk, Nate Ruess"
 }
-
+, 
+{
+  "title": "(Just Like) Starting Over",
+  "artist": "john-lennon",
+  "addition": 494,
+  "release": 33.5,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "double-fantasy",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/john-lennon_double-fantasy.png",
+  
+  "albumname": "Double Fantasy",
+  "artistname": "John Lennon"
+}
 ,
 {
   "title": "Just the Way You Are",
@@ -3761,6 +3900,22 @@
   
   "albumname": "Coco Soundtrack",
   "artistname": "Angelica Vale, Marco Antonio Solís"
+}
+, 
+{
+  "title": "La Llorona",
+  "artist": "joan-baez",
+  "addition": 484,
+  "release": 91.5,
+  "decade": "1970s",
+  "year": 1974,
+  "album": "gracias-a-la-vida",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/J/joan-baez_gracias-a-la-vida.png",
+  
+  "albumname": "Gracias a la vida",
+  "artistname": "Joan Baez"
 }
 ,
 {
@@ -4845,7 +5000,22 @@
   "albumname": "Entre el cielo y el suelo",
   "artistname": "Mecano"
 }
-
+, 
+{
+  "title": "Non, je ne regrette rien",
+  "artist": "edith-piaf",
+  "addition": 482,
+  "release": 1.65,
+  "decade": "1960s",
+  "year": 1960,
+  "album": "",
+  "language": "french",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/edith-piaf_non-je-ne-regrette-rien.png",
+  
+  "albumname": "",
+  "artistname": "Édith Piaf"
+}
 ,
 {
   "title": "Nothing's Gonna Stop Us Now",
@@ -4973,6 +5143,22 @@
   
   "albumname": "A Kind of Magic",
   "artistname": "Queen"
+}
+, 
+{
+  "title": "One Way or Another",
+  "artist": "blondie",
+  "addition": 499,
+  "release": 28.65,
+  "decade": "1970s",
+  "year": 1978,
+  "album": "parallel-lines",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/blondie_parallel-lines.png",
+  
+  "albumname": "Parallel Lines",
+  "artistname": "Blondie"
 }
 ,
 {
@@ -5831,7 +6017,22 @@
   "albumname": "Divide",
   "artistname": "Ed Sheeran"
 }
-
+, 
+{
+  "title": "She",
+  "artist": "elvis-costello",
+  "addition": 482,
+  "release": 91.5,
+  "decade": "1990s",
+  "year": 1999,
+  "album": "notting-hill-soundtrack",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/N/nottinghill.png",
+  
+  "albumname": "Notting Hill Soundtrack",
+  "artistname": "Elvis Costello"
+}
 ,
 {
   "title": "She Used to Be Mine",
@@ -6317,7 +6518,22 @@
   "albumname": "Grease Soundtrack",
   "artistname": "Olivia Newton-John, John Travolta"
 }
-
+, 
+{
+  "title": "Sunny",
+  "artist": "boney-m",
+  "addition": 493,
+  "release": 22.2,
+  "decade": "1970s",
+  "year": 1976,
+  "album": "take-the-heat-off-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/boney-m_take-the-heat-off-me.png",
+  
+  "albumname": "Take the Heat off Me",
+  "artistname": "Boney M."
+}
 ,
 {
   "title": "Suzy-Hang-Around",
@@ -6398,7 +6614,22 @@
   "albumname": "Hozier",
   "artistname": "Hozier"
 }
-
+, 
+{
+  "title": " Take My Breath Away",
+  "artist": "berlin",
+  "addition": 487,
+  "release": 58.9,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "top-gun-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/topgun.png",
+  
+  "albumname": "Top Gun Soundtrack",
+  "artistname": "Berlin"
+}
 ,
 {
   "title": "Take On Me",
@@ -6479,7 +6710,22 @@
   "albumname": "Rush Soundtrack",
   "artistname": "Eric Clapton"
 }
-
+, 
+{
+  "title": "Temptation",
+  "artist": "diana-krall",
+  "addition": 481,
+  "release": 107,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "the-girl-in-the-other-room",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/D/diana-krall_the-girl-in-the-other-room.png",
+  
+  "albumname": "The Girl in the Other Room",
+  "artistname": "Diana Krall"
+}
 ,
 {
   "title": "Tenerife Sea",
@@ -6513,7 +6759,6 @@
   "albumname": "Retales de carnaval",
   "artistname": "Nena Daconte"
 }
-
 ,
 {
   "title": "Thank You for the Music",
@@ -6562,6 +6807,22 @@
 
   "albumname": "Girl",
   "artistname": "Maren Morris, Hozier"
+}
+, 
+{
+  "title": "The Bones",
+  "artist": "maren-morris",
+  "addition": 485,
+  "release": 170.5,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "girl",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maren-morris_girl.png",
+  
+  "albumname": "GIRL",
+  "artistname": "Maren Morris"
 }
 ,
 {
@@ -6658,6 +6919,22 @@
   
   "albumname": "Wednesday Morning 3 A.M.",
   "artistname": "Simon & Garfunkel"
+}
+, 
+{
+  "title": "The Tide is High",
+  "artist": "blondie",
+  "addition": 495,
+  "release": 33.55,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "autoamerican",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/blondie_autoamerican.png",
+  
+  "albumname": "Autoamerican",
+  "artistname": "Blondie"
 }
 ,
 {
@@ -6886,7 +7163,6 @@
   "albumname": "Left of the Middle",
   "artistname": "Natalie Imbruglia"
 }
-
 ,
 {
   "title": "Total Eclipse of the Heart",
@@ -6903,7 +7179,22 @@
   "albumname": "Faster than the Speed of Night",
   "artistname": "Bonnie Tyler"
 }
-
+, 
+{
+  "title": "traitor",
+  "artist": "olivia-rodrigo",
+  "addition": 497,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "sour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
+  
+  "albumname": "SOUR",
+  "artistname": "Olivia Rodrigo"
+}
 ,
 {
   "title": "Try",
@@ -7065,6 +7356,22 @@
   "albumname": "The Little Mermaid Soundtrack",
   "artistname": "Samuel E. Wright"
 }
+, 
+{
+  "title": "Until I Found You",
+  "artist": "stephen-sanchez,em-beihold",
+  "addition": 490,
+  "release": 185.5,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "angel-face",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/stephen-sanchez_angel-face.png",
+  
+  "albumname": "Angel Face",
+  "artistname": "Stephen Sanchez"
+}
 ,
 {
   "title": "Veneno en la Piel",
@@ -7160,6 +7467,38 @@
   
   "albumname": "Zapatillas",
   "artistname": "El Canto del Loco"
+}
+, 
+{
+  "title": "Voy a pasármelo bien",
+  "artist": "hombres-g",
+  "addition": 489,
+  "release": 58.9,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "voy-a-pasarmelo-bien",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/hombres-g_voy-a-pasarmelo-bien.png",
+  
+  "albumname": "Voy a pasármelo bien",
+  "artistname": "Hombres G"
+}
+, 
+{
+  "title": "Voyage, voyage",
+  "artist": "desireless",
+  "addition": 491,
+  "release": 75.2,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "françois",
+  "language": "french",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/desireless_françois.png",
+  
+  "albumname": "François",
+  "artistname": "Desireless"
 }
 ,
 {
@@ -7613,7 +7952,38 @@
   "albumname": "Unearthed",
   "artistname": "Johnny Cash"
 }
-
+, 
+{
+  "title": "You Are the Reason",
+  "artist": "calum-scott",
+  "addition": 502,
+  "release": 165.5,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "only-human",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/calum-scott_only-human.png",
+  
+  "albumname": "Only Human",
+  "artistname": "Calum Scott"
+}
+, 
+{
+  "title": "You Can't Stop the Beat",
+  "artist": "john-travolta,elijah-kelly,amanda-bynes,zac-efron,queen-latifah,nikki-blonsky",
+  "addition": 492,
+  "release": 122.5,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "hairspray-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/hairspray.png",
+  
+  "albumname": "Hairspray",
+  "artistname": "Elijah Kelley, Nikki Blonsky, Amanda Bynes, Queen Latifah, Zac Efron, John Travolta"
+}
 ,
 {
   "title": "You Give Love a Bad Name",
@@ -7645,6 +8015,22 @@
   
   "albumname": "Back to Black",
   "artistname": "Amy Winehouse"
+}
+, 
+{
+  "title": "You Make It Real",
+  "artist": "james-morrison",
+  "addition": 503,
+  "release": 124,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "songs-for-you-truths-for-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/james-morrison_songs-for-you-truths-for-me.png",
+  
+  "albumname": "Songs for You, Truths for Me",
+  "artistname": "James Morrison"
 }
 , 
 {
@@ -7761,7 +8147,4 @@
   "albumname": "No Need to Argue",
   "artistname": "The Cranberries"
 }
-
 ]
-
-
