@@ -293,6 +293,22 @@
 }
 ,
 {
+  "title": "All I Want",
+  "artist": "olivia-rodrigo,disney",
+  "addition": 545,
+  "release": 175.31,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "high-school-musical-the-musical-the-series-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/H/high-school-musical-the-musical-the-series-soundtrack.png",
+
+  "albumname": "High School Musical: The Musical: The Series Soundtrack",
+  "artistname": "Olivia Rodrigo"
+}
+,
+{
   "title": "All Out of Love",
   "artist": "air-supply",
   "addition": 219,
@@ -1066,6 +1082,22 @@
 }
 ,
 {
+  "title": "Broken Wings",
+  "artist": "mr.-mister",
+  "addition": 547,
+  "release": 60.3,
+  "decade": "1980s",
+  "year": 1985,
+  "album": "welcome-to-the-real-world",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mr.-mister_welcome-to-the-real-world.png",
+  
+  "albumname": "Welcome to the Real World",
+  "artistname": "Mr. Mister"
+}
+,
+{
   "title": "Bruises",
   "artist": "lewis-capaldi",
   "addition": 258,
@@ -1320,6 +1352,22 @@
   
   "albumname": "Álex y Christina",
   "artistname": "Álex y Christina"
+}
+,
+{
+  "title": "Cheer Up!",
+  "artist": "a-great-big-world",
+  "addition": 552,
+  "release": 144,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "is-there-anybody-out-there?",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/a-great-big-world_is-there-anybody-out-there.png",
+  
+  "albumname": "Is There Anybody Out There?",
+  "artistname": "A Great Big World"
 }
 ,
 {
@@ -1596,6 +1644,22 @@
 }
 ,
 {
+  "title": "Dangerous",
+  "artist": "roxette",
+  "addition": 551,
+  "release": 73.5,
+  "decade": "1980s",
+  "year": 1988,
+  "album": "look-sharp!",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/roxette_look-sharp!.png",
+
+  "albumname": "Look Sharp!",
+  "artistname": "Roxette"
+}
+,
+{
   "title": "Dear Future Husband",
   "artist": "meghan-trainor",
   "addition": 10,
@@ -1610,7 +1674,22 @@
   "albumname": "Title",
   "artistname": "Meghan Trainor"
 }
+,
+{
+  "title": "deja vu",
+  "artist": "olivia-rodrigo",
+  "addition": 543,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "sour",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
 
+  "albumname": "SOUR",
+  "artistname": "Olivia Rodrigo"
+}
 ,
 {
   "title": "Déjame",
@@ -2141,6 +2220,22 @@
   "albumname": "Synchronicity",
   "artistname": "The Police"
 }
+, 
+{
+  "title": "Fading Like a Flower (Every Time You Leave)",
+  "artist": "roxette",
+  "addition": 550,
+  "release": 77.55,
+  "decade": "1980s",
+  "year": 1991,
+  "album": "joyride",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/roxette_joyride.png",
+  
+  "albumname": "Joyride",
+  "artistname": "Roxette"
+}
 ,
 {
   "title": "Faith",
@@ -2188,6 +2283,38 @@
 
   "albumname": "You Might Not Like Her",
   "artistname": "Maddie Zahm"
+}
+,
+{
+  "title": "favorite crime",
+  "artist": "olivia-rodrigo",
+  "addition": 542,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "sour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
+
+  "albumname": "SOUR",
+  "artistname": "Olivia Rodrigo"
+}
+,
+{
+  "title": "FEEL",
+  "artist": "mäneskin",
+  "addition": 548,
+  "release": 184.9,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "rush!",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/maneskin_rush!.png",
+
+  "albumname": "Rush!",
+  "artistname": "Mäneskin"
 }
 , 
 {
@@ -2593,6 +2720,22 @@
   
   "albumname": "The Works",
   "artistname": "Queen"
+}
+,
+{
+  "title": "happier",
+  "artist": "olivia-rodrigo",
+  "addition": 544,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "sour",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
+
+  "albumname": "SOUR",
+  "artistname": "Olivia Rodrigo"
 }
 ,
 {
@@ -3604,6 +3747,22 @@
   
   "albumname": "Too Low for Zero",
   "artistname": "Elton John"
+}
+,
+{
+  "title": "IF NOT FOR YOU",
+  "artist": "mäneskin",
+  "addition": 549,
+  "release": 184.9,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "rush!",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maneskin_rush!.png",
+
+  "albumname": "Rush!",
+  "artistname": "Mäneskin"
 }
 ,
 {
@@ -5574,6 +5733,22 @@
 }
 ,
 {
+  "title": "Over You",
+  "artist": "ingrid-michaelson,a-great-big-world",
+  "addition": 553,
+  "release": 145.5,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "lights-out",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/a-great-big-world_lights-out.png",
+
+  "albumname": "Lights Out",
+  "artistname": "Ingrid Michaelson, A Great Big World"
+}
+,
+{
   "title": "P. S. I Love You",
   "artist": "the-beatles",
   "addition": 302,
@@ -6995,6 +7170,22 @@
 }
 ,
 {
+  "title": "SUPERMODEL",
+  "artist": "mäneskin",
+  "addition": 546,
+  "release": 184.9,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "rush!",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maneskin_rush!.png",
+
+  "albumname": "Rush!",
+  "artistname": "Mäneskin"
+}
+,
+{
   "title": "Suzy-Hang-Around",
   "artist": "abba",
   "addition": 56,
@@ -7911,6 +8102,22 @@
   "albumname": "Angel Face",
   "artistname": "Stephen Sanchez"
 }
+, 
+{
+  "title": "Until I Found You (Piano Version)",
+  "artist": "stephen-sanchez",
+  "addition": 555,
+  "release": 185.5,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "angel-face",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/stephen-sanchez_angel-face.png",
+  
+  "albumname": "Angel Face",
+  "artistname": "Stephen Sanchez"
+}
 ,
 {
   "title": "Veneno en la Piel",
@@ -8477,6 +8684,22 @@
 }
 ,
 {
+  "title": "You",
+  "artist": "a-great-big-world",
+  "addition": 553,
+  "release": 168.9,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/a-great-big-world_you.png",
+  
+  "albumname": "",
+  "artistname": "A Great Big World"
+}
+,
+{
   "title": "You Are My Sunshine",
   "artist": "johnny-cash",
   "addition": 128,
@@ -8554,6 +8777,22 @@
   
   "albumname": "Slippery When Wet",
   "artistname": "Bon Jovi"
+}
+,
+{
+  "title": "You Got It",
+  "artist": "roy-orbison",
+  "addition": 541,
+  "release": 63,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "mystery-girl",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/roy-orbison_mystery-girl.png",
+  
+  "albumname": "Mystery Girl",
+  "artistname": "Roy Orbison"
 }
 ,
 {
