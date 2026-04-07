@@ -159,7 +159,7 @@
   "img": "https://marswrites.neocities.org/albums/B/boyce-avenue_a-whole-new-world.png",
 
   "albumname": "",
-  "artistname": "Boyce Avenue"
+  "artistname": "Boyce Avenue, Jennel Garcia"
 }
 ,
 {
@@ -760,6 +760,38 @@
 }
 ,
 {
+  "title": "Beauty and the Beast",
+  "artist": "ariana-grande,john-legend",
+  "addition": 562,
+  "release": 161,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "beauty-and-the-beast-soundtrack",
+  "language": "english",
+  "extra": "cover,disney,musical",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeast.png",
+
+  "albumname": "Beauty and the Beast Soundtrack",
+  "artistname": "Ariana Grande, John Legend"
+}
+,
+{
+  "title": "Beauty and the Beast",
+  "artist": "boyce-avenue,mia-black",
+  "addition": 561,
+  "release": 184.95,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "",
+  "language": "english",
+  "extra": "cover,disney,musical",
+  "img": "https://marswrites.neocities.org/albums/B/boyce-avenue_beauty-and-the-beast.png",
+
+  "albumname": "",
+  "artistname": "Boyce Avenue, Mia Black"
+}
+,
+{
   "title": "Before You",
   "artist": "benson-boone",
   "addition": 356,
@@ -1143,6 +1175,22 @@
 
   "albumname": "Kid Krow",
   "artistname": "Conan Gray"
+}
+,
+{
+  "title": "Can You Feel It",
+  "artist": "the-jackson",
+  "addition": 568,
+  "release": 31.8,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "triumph",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-jacksons_triumph.png",
+
+  "albumname": "Triumph",
+  "artistname": "The Jacksons"
 }
 ,
 {
@@ -1665,7 +1713,7 @@
   "addition": 10,
   "release": 151,
   "decade": "2010s",
-  "year": 2014,
+  "year": 2015,
   "album": "title",
   "language": "english",
   "extra": "",
@@ -2137,7 +2185,7 @@
   "extra": "disney,musical",
   "img": "https://marswrites.neocities.org/albums/B/beautyandthebeast.png",
 
-  "albumname": "Beauty and the Beast",
+  "albumname": "Beauty and the Beast Soundtrack",
   "artistname": "Dan Stevens"
 }
 ,
@@ -2348,6 +2396,22 @@
   "albumname": "I Put a Spell on You",
   "artistname": "Nina Simone"
 }
+, 
+{
+  "title": "Fiesta Pagana",
+  "artist": "mago-de-oz",
+  "addition": 559,
+  "release": 94.8,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "finisterra",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mago-de-oz_finisterra.png",
+  
+  "albumname": "Finisterra",
+  "artistname": "Mägo de Oz"
+}
 ,
 {
   "title": "For the First Time in Forever",
@@ -2543,7 +2607,22 @@
   "albumname": "for Songland Season 2",
   "artistname": "Julia Michaels"
 }
+,
+{
+  "title": "Give It Up",
+  "artist": "kc-and-the-sunshine-band",
+  "addition": 470,
+  "release": 37.05,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "all-in-a-night's-work",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/kc-and-the-sunshine-band_all-in-a-night's-work.png",
 
+  "albumname": "All in a Night's Work",
+  "artistname": "KC and the Sunshine Band"
+}
 ,
 {
   "title": "good 4 u",
@@ -2670,6 +2749,22 @@
   "img": "https://marswrites.neocities.org/albums/K/kevin-johansen_the-nada.png",
   
   "albumname": "The Nada",
+  "artistname": "Kevin Johansen"
+}
+,
+{
+  "title": "Guren no Yumiya",
+  "artist": "linked-horizon",
+  "addition": 560,
+  "release": 140.4,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "",
+  "language": "other",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/L/linked-horizon_guren-no-yumiya.png",
+  
+  "albumname": "for the Attack on Titan Soundtrack",
   "artistname": "Kevin Johansen"
 }
 ,
@@ -2816,6 +2911,22 @@
 
   "albumname": "Dangerous",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Heartbreaker",
+  "artist": "dionne-warwick",
+  "addition": 567,
+  "release": 37.15,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "heartbreaker",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dionne-warwick_heartbreaker.png",
+
+  "albumname": "Heartbreaker",
+  "artistname": "Dionne Warwick"
 }
 ,
 {
@@ -3073,7 +3184,22 @@
   "albumname": "Staying at Tamara's",
   "artistname": "George Ezra"
 }
+,
+{
+  "title": " Hold the Line",
+  "artist": "toto",
+  "addition": 565,
+  "release": 28.8,
+  "decade": "1970s",
+  "year": 1978,
+  "album": "toto",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/toto_toto.png",
 
+  "albumname": "TOTO",
+  "artistname": "TOTO"
+}
 ,
 {
   "title": " Holding Out for a Hero",
@@ -3098,7 +3224,7 @@
   "release": 42.5,
   "decade": "1980s",
   "year": 1984,
-  "album": "footloose",
+  "album": "footloose-soundtrack",
   "language": "english",
   "extra": "musical",
   "img": "https://marswrites.neocities.org/albums/F/footloose.png",
@@ -3169,6 +3295,22 @@
 
   "albumname": "The Animals",
   "artistname": "The Animals"
+}
+,
+{
+  "title": "How Am I Supposed to Live Without You",
+  "artist": "michael-bolton",
+  "addition": 569,
+  "release": 74.55,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "soul-provider",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/michael-bolton_soul-provider.png",
+
+  "albumname": "Soul Provider",
+  "artistname": "Michael Bolton"
 }
 , 
 {
@@ -4648,7 +4790,7 @@
   "album": "dear-joe",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/J/jax_dear-joe,.pngg",
+  "img": "https://marswrites.neocities.org/albums/J/jax_dear-joe,.png",
   
   "albumname": "Dear Joe,",
   "artistname": "Jax"
@@ -5571,6 +5713,22 @@
   "albumname": "Entre el cielo y el suelo",
   "artistname": "Mecano"
 }
+,
+{
+  "title": "No Good for You",
+  "artist": "meghan-trainor",
+  "addition": 558,
+  "release": 151,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "title",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_title.png",
+  
+  "albumname": "Title",
+  "artistname": "Meghan Trainor"
+}
 , 
 {
   "title": "Non, je ne regrette rien",
@@ -5650,6 +5808,22 @@
 
   "albumname": "Al final de este viaje...",
   "artistname": "Silvio Rodríguez"
+}
+,
+{
+  "title": "Olvídame y pega la vuelta",
+  "artist": "pimpinela",
+  "addition": 564,
+  "release": 37.1,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "pimpinela",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/pimpinela_pimpinela.png",
+
+  "albumname": "Pimpinela",
+  "artistname": "Pimpinela"
 }
 ,
 {
@@ -5742,7 +5916,7 @@
   "album": "lights-out",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/A/a-great-big-world_lights-out.png",
+  "img": "https://marswrites.neocities.org/albums/I/ingrid-michaelson_lights-out.png",
 
   "albumname": "Lights Out",
   "artistname": "Ingrid Michaelson, A Great Big World"
@@ -5763,7 +5937,22 @@
   "albumname": "Please Please Me",
   "artistname": "The Beatles"
 }
+,
+{
+  "title": "Paint It Black",
+  "artist": "the-rolling-stones",
+  "addition": 563,
+  "release": 8.7,
+  "decade": "1960s",
+  "year": 1966,
+  "album": "aftermath",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-rolling-stones_aftermath.png",
 
+  "albumname": "Aftermath",
+  "artistname": "The Rolling Stones"
+}
 ,
 {
   "title": "Pan y mantequilla",
@@ -7184,6 +7373,22 @@
   "albumname": "Rush!",
   "artistname": "Mäneskin"
 }
+, 
+{
+  "title": "Surrender",
+  "artist": "cheap-trick",
+  "addition": 557,
+  "release": 28.2,
+  "decade": "1970s",
+  "year": 1978,
+  "album": "heaven-tonight",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/cheap-trick_heaven-tonight.png",
+  
+  "albumname": "Heaven Tonight",
+  "artistname": "Cheap Trick"
+}
 ,
 {
   "title": "Suzy-Hang-Around",
@@ -8104,6 +8309,22 @@
 }
 , 
 {
+  "title": "Until I Found You",
+  "artist": "stephen-sanchez",
+  "addition": 556,
+  "release": 185.5,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "angel-face",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/stephen-sanchez_angel-face.png",
+  
+  "albumname": "Angel Face",
+  "artistname": "Stephen Sanchez"
+}
+, 
+{
   "title": "Until I Found You (Piano Version)",
   "artist": "stephen-sanchez",
   "addition": 555,
@@ -8876,7 +9097,22 @@
   "albumname": "Grease Soundtrack",
   "artistname": "Olivia Newton-John, John Travolta"
 }
-
+,
+{
+  "title": "You're the Voice",
+  "artist": "john-farnham",
+  "addition": 566,
+  "release": 63.5,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "whispering-jack",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/john-farnham_whispering-jack.png",
+  
+  "albumname": "Whispering Jack",
+  "artistname": "John Farnham"
+}
 ,
 {
   "title": "You've Got a Friend in Me",
