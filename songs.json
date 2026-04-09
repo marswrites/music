@@ -580,7 +580,22 @@
   "albumname": "Life in Cartoon Motion",
   "artistname": "MIKA"
 }
-
+,
+{
+  "title": "Arcade",
+  "artist": "duncan-laurence",
+  "addition": 572,
+  "release": 177.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "small-town-boy",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/duncan-laurence_small-town-boy.png",
+  
+  "albumname": "Small Town Boy",
+  "artistname": "Duncan Laurence"
+}
 ,
 {
   "title": "Así Estoy Yo Sin Ti",
@@ -661,7 +676,22 @@
   "albumname": "La La Land Soundtrack",
   "artistname": "Emma Stone"
 }
+,
+{
+  "title": "Aunque tú no lo sepas",
+  "artist": "enrique-urquijo-y-los-problemas",
+  "addition": 574,
+  "release": 89.5,
+  "decade": "1990s",
+  "year": 1998,
+  "album": "desde-que-no-nos-vemos",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/enrique-urquijo-y-los-problemas_desde-que-no-nos-vemos.png",
 
+  "albumname": "Desde que no nos vemos",
+  "artistname": "Enrique Urquijo y los problemas"
+}
 ,
 {
   "title": "Back to Black",
@@ -1579,6 +1609,22 @@
 }
 ,
 {
+  "title": "Corazón de tiza",
+  "artist": "radio-futura",
+  "addition": 575,
+  "release": 76,
+  "decade": "1990s",
+  "year": 1990,
+  "album": "veneno-en-la-piel",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/radio-futura_veneno-en-la-piel.png",
+
+  "albumname": "Veneno en la Piel",
+  "artistname": "Radio Futura"
+}
+,
+{
   "title": "¡Corre!",
   "artist": "jesse-joy",
   "addition": 261,
@@ -2014,6 +2060,22 @@
 }
 ,
 {
+  "title": "El ataque de las chicas cocodrilo",
+  "artist": "hombres-g",
+  "addition": 584,
+  "release": 60.8,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "la-cagaste-burt-lancaster",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/hombres-g_la-cagaste-burt-lancaster.png",
+
+  "albumname": "La cagaste... Burt Lancaster",
+  "artistname": "Hombres G"
+}
+,
+{
   "title": "El Hombre del Piano",
   "artist": "ana-belen",
   "addition": 268,
@@ -2091,6 +2153,22 @@
   
   "albumname": "Pájaros en la cabeza",
   "artistname": "Amaral"
+}
+,
+{
+  "title": "Eleanor Rigby",
+  "artist": "the-beatles",
+  "addition": 579,
+  "release": 9,
+  "decade": "1960s",
+  "year": 1966,
+  "album": "revolver",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_revolver.png",
+  
+  "albumname": "Revolver",
+  "artistname": "The Beatles"
 }
 ,
 {
@@ -3892,6 +3970,22 @@
 }
 ,
 {
+  "title": "If I Can Dream",
+  "artist": "maneskin",
+  "addition": 581,
+  "release": 184.98,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "elvis-soundtrack",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/E/elvis.png",
+  
+  "albumname": "Elvis Soundtrack",
+  "artistname": "Mäneskin"
+}
+,
+{
   "title": "IF NOT FOR YOU",
   "artist": "mäneskin",
   "addition": 549,
@@ -4340,7 +4434,6 @@
   "albumname": "Break Out",
   "artistname": "The Pointer Sisters"
 }
-
 ,
 {
   "title": "Just Give Me a Reason",
@@ -4373,6 +4466,23 @@
   "albumname": "Double Fantasy",
   "artistname": "John Lennon"
 }
+,
+{
+  "title": "Just My Imagination",
+  "artist": "the-cranberries",
+  "addition": 582,
+  "release": 91.3,
+  "decade": "1990s",
+  "year": 1999,
+  "album": "bury-the-hatchet",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-cranberries_bury-the-hatchet.png",
+  
+  "albumname": "Bury the Hatchet",
+  "artistname": "The Cranberries"
+}
+
 ,
 {
   "title": "Just the Way You Are",
@@ -4813,6 +4923,23 @@
 }
 ,
 {
+  "title": "Live and Let Die",
+  "artist": "wings",
+  "addition": 17.8,
+  "release": 63,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "live-and-let-die",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/L/liveandletdie.png",
+  
+  "albumname": "Live and Let Die Soundtrack",
+  "artistname": "Wings"
+}
+
+,
+{
   "title": "Livin' on a Prayer",
   "artist": "bon-jovi",
   "addition": 221,
@@ -5150,6 +5277,22 @@
 }
 ,
 {
+  "title": "Marta tiene un marcapasos",
+  "artist": "hombres-g",
+  "addition": 585,
+  "release": 60.8,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "la-cagaste-burt-lancaster",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/hombres-g_la-cagaste-burt-lancaster.png",
+
+  "albumname": "La cagaste... Burt Lancaster",
+  "artistname": "Hombres G"
+}
+,
+{
   "title": "Marta, Sebas, Guille y los demás",
   "artist": "amaral",
   "addition": 8,
@@ -5293,6 +5436,22 @@
 
   "albumname": "Superache",
   "artistname": "Conan Gray"
+}
+,
+{
+  "title": "Merry-Go-Round of Life (from Howl's Moving Castle)",
+  "artist": "vitamin-string-quartet",
+  "addition": 577,
+  "release": 157.3,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "geek-wedding-vol-2",
+  "language": "",
+  "extra": "cover,musical,instrumental",
+  "img": "https://marswrites.neocities.org/albums/V/vitamin-string-quartet_geek-wedding-vol-2.png",
+
+  "albumname": "Geek Wedding, Vol. 2",
+  "artistname": "Vitamin String Quartet"
 }
 ,
 {
@@ -5587,6 +5746,22 @@
 }
 ,
 {
+  "title": "Never Be Alone",
+  "artist": "shawn-mendes",
+  "addition": 578,
+  "release": 153.7,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "handwritten",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/shawn-mendes_handwritten.png",
+  
+  "albumname": "Handwritten",
+  "artistname": "Shawn Mendes"
+}
+,
+{
   "title": "Never Ending Story",
   "artist": "limahl",
   "addition": 341,
@@ -5699,6 +5874,22 @@
 }
 ,
 {
+  "title": "No dudaría",
+  "artist": "antonio-flores",
+  "addition": 573,
+  "release": 34,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "antonio",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/antonio-flores_antonio.png",
+
+  "albumname": "Antonio",
+  "artistname": "Antonio Flores"
+}
+,
+{
   "title": "No es serio este cementerio",
   "artist": "mecano",
   "addition": 64,
@@ -5728,6 +5919,22 @@
   
   "albumname": "Title",
   "artistname": "Meghan Trainor"
+}
+,
+{
+  "title": "No puedo vivir sin ti",
+  "artist": "los-ronaldos",
+  "addition": 576,
+  "release": 122.2,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "cuatro-canciones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/los-ronaldos_cuatro-canciones.png",
+  
+  "albumname": "Cuatro canciones",
+  "artistname": "Los Ronaldos"
 }
 , 
 {
@@ -6729,6 +6936,22 @@
 }
 ,
 {
+  "title": "Send Me an Angel",
+  "artist": "scorpions",
+  "addition": 583,
+  "release": 76.8,
+  "decade": "1990s",
+  "year": 1990,
+  "album": "crazy-world",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/scorpions_crazy-world.png",
+  
+  "albumname": "Crazy World",
+  "artistname": "Scorpions"
+}
+,
+{
   "title": "Send My Love (To Your New Lover)",
   "artist": "adele",
   "addition": 19,
@@ -7065,6 +7288,23 @@
   "albumname": "for the movie Skyfall",
   "artistname": "Adele"
 }
+,
+{
+  "title": "Sleeping in My Car",
+  "artist": "roxette",
+  "addition": 580,
+  "release": 80.98,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "crash!-boom!-bang!",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/roxette_crash!-boom!.png",
+  
+  "albumname": "Crash! Boom! Bang!",
+  "artistname": "Roxette"
+}
+
 ,
 {
   "title": "Smooth Criminal",
