@@ -355,6 +355,38 @@
   "albumname": "The Complete Season Four",
   "artistname": "Glee Cast, Kate Hudson"
 }
+, 
+{
+  "title": "All Too Well (10 Minute Version)",
+  "artist": "taylor-swift",
+  "addition": 591,
+  "release": 183.1,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "red-taylor's-version",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_red-taylor's-version.png",
+  
+  "albumname": "Red (Taylor's Version)",
+  "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Almost There",
+  "artist": "anika-noni-rose",
+  "addition": 598,
+  "release": 129.5,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "the-princess-and-the-frog",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/theprincessandthefrog.png",
+  
+  "albumname": "The Princess and the Frog Soundtrack",
+  "artistname": "Anika Noni Rose"
+}
 ,
 {
   "title": "Already Home",
@@ -1481,6 +1513,22 @@
 }
 ,
 {
+  "title": "Closer",
+  "artist": "boyce-avenue,sarah-hyland",
+  "addition": 586,
+  "release": 165,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "cover-sessions-vol-4",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/B/boyce-avenue_cover-sessions-vol-4.png",
+
+  "albumname": "Cover Sessions Vol. 4",
+  "artistname": "Boyce Avenue, Sarah Hyland"
+}
+,
+{
   "title": "Colgando en tus manos",
   "artist": "carlos-baute,marta-sanchez",
   "addition": 73,
@@ -1751,6 +1799,22 @@
 
   "albumname": "Look Sharp!",
   "artistname": "Roxette"
+}
+,
+{
+  "title": "Days in the Sun",
+  "artist": "adam-mitchell,stanley-tucci,emma-watson,audra-mcdonald,clive-rowe,emma-thompson,gugu-mbatha-raw,ian-mckellen,ewan-mcgregor",
+  "addition": 595,
+  "release": 161,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "beauty-and-the-beast-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeast.png",
+
+  "albumname": "Beauty and the Beast Soundtrack",
+  "artistname": "Adam Mitchell, Stanley Tucci, Emma Watson, Audra McDonald, Clive Rowe, Emma Thompson, Gugu Mbatha-Raw, Ian McKellen, Ewan McGregor"
 }
 ,
 {
@@ -2348,6 +2412,22 @@
 }
 , 
 {
+  "title": "Eyes Closed",
+  "artist": "ed-sheeran",
+  "addition": 590,
+  "release": 185.2,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "substract",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_substract.png",
+  
+  "albumname": "-",
+  "artistname": "Ed Sheeran"
+}
+, 
+{
   "title": "Fading Like a Flower (Every Time You Leave)",
   "artist": "roxette",
   "addition": 550,
@@ -2521,6 +2601,22 @@
   
   "albumname": "Divinely Uninspired to a Hellish Extent",
   "artistname": "Lewis Capaldi"
+}
+, 
+{
+  "title": "Forrest Gump Suite",
+  "artist": "alan-silvestri,camille-berthollet,julie-berthollet",
+  "addition": 596,
+  "release": 163,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "#3",
+  "language": "",
+  "extra": "cover,musical,instrumental",
+  "img": "https://marswrites.neocities.org/albums/C/camille-berthollet_#3.png",
+  
+  "albumname": "#3",
+  "artistname": "Alan Silvestri, Camille Berthollet, Julie Berthollet"
 }
 ,
 {
@@ -3037,6 +3133,22 @@
 
   "albumname": "A Night in Heaven Soundtrack",
   "artistname": "Bryan Adams"
+}
+,
+{
+  "title": "Hedwig's Theme",
+  "artist": "john-williams",
+  "addition": 594,
+  "release": 96.8,
+  "decade": "2000s",
+  "year": 2001,
+  "album": "harry-potter-and-the-philosopher's-stone-soundtrack",
+  "language": "",
+  "extra": "musical,instrumental",
+  "img": "https://marswrites.neocities.org/albums/H/harrypotterandthephilosopher'sstone.png",
+
+  "albumname": "Harry Potter and the Philosopher's Stone Soundtrack",
+  "artistname": "John Williams"
 }
 ,
 {
@@ -4015,6 +4127,22 @@
   
   "albumname": "Dangerous Levels of Introspection",
   "artistname": "JP Saxe, Julia Michaels"
+}
+,
+{
+  "title": "If You Don't Know Me by Now",
+  "artist": "simply-red",
+  "addition": 592,
+  "release": 74.3,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "a-new-flame",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/S/simply-red_a-new-flame.png",
+  
+  "albumname": "A New Flame",
+  "artistname": "Simply Red"
 }
 ,
 {
@@ -6420,6 +6548,22 @@
 }
 ,
 {
+  "title": "Poor Unfortunate Souls",
+  "artist": "pat-carroll,disney",
+  "addition": 600,
+  "release": 75,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "the-little-mermaid-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thelittlemermaid.png",
+  
+  "albumname": "The Little Mermaid Soundtrack",
+  "artistname": "Pat Carroll, Disney"
+}
+,
+{
   "title": "Popular",
   "artist": "stephen-schwartz,kristin-chenoweth",
   "addition": 509,
@@ -7299,7 +7443,7 @@
   "album": "crash!-boom!-bang!",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/R/roxette_crash!-boom!.png",
+  "img": "https://marswrites.neocities.org/albums/R/roxette_crash!-boom!-bang!.png",
   
   "albumname": "Crash! Boom! Bang!",
   "artistname": "Roxette"
@@ -7580,6 +7724,22 @@
   
   "albumname": "Grease Soundtrack",
   "artistname": "Olivia Newton-John, John Travolta"
+}
+,
+{
+  "title": "Summer of '69",
+  "artist": "bryan-adams",
+  "addition": 589,
+  "release": 57.7,
+  "decade": "1980s",
+  "year": 1984,
+  "album": "reckless",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/bryan-adams_reckless.png",
+  
+  "albumname": "Reckless",
+  "artistname": "Bryan Adams"
 }
 , 
 {
@@ -7887,7 +8047,23 @@
   "albumname": "The Jungle Book Soundtrack",
   "artistname": "Phil Harris, Bruce Reitherman"
 }
-  ,
+,
+{
+  "title": "The Best",
+  "artist": "james-bay",
+  "addition": 588,
+  "release": 168.8,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "spotify-singles",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/J/james-bay_spotify-singles.png",
+  
+  "albumname": "Spotify Singles",
+  "artistname": "James Bay"
+}
+,
 {
   "title": "The Best",
   "artist": "tina-turner",
@@ -7969,6 +8145,22 @@
 }
 ,
 {
+  "title": "The Imperial March (Darth Vader's Theme)",
+  "artist": "john-williams",
+  "addition": 593,
+  "release": 30.5,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "star-wars-the-empire-strikes-back-soundtrack",
+  "language": "",
+  "extra": "musical,instrumental",
+  "img": "https://marswrites.neocities.org/albums/S/starwarstheempirestrikesback.png",
+
+  "albumname": "Star Wars: The Empire Strikes Back",
+  "artistname": "John Williams"
+}
+,
+{
   "title": "THE LONELIEST",
   "artist": "maneskin",
   "addition": 508,
@@ -7999,6 +8191,22 @@
 
   "albumname": "Look Sharp!",
   "artistname": "Roxette"
+}
+,
+{
+  "title": "The Mob Song",
+  "artist": "luke-evans,josh-gad,stanley-tucci,nathan-mack,emma-thompson,gugu-mbatha-raw,ian-mckellen,ewan-mcgregor,beauty-and-the-beast-cast",
+  "addition": 597,
+  "release": 161,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "beauty-and-the-beast-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeast.png",
+
+  "albumname": "Beauty and the Beast Soundtrack",
+  "artistname": "Luke Evans, Josh Gad, Stanley Tucci, Nathan Mack, Emma Thompson, Gugu Mbatha-Raw, Ian McKellen, Ewan McGregor, Beauty and the Beast Cast"
 }
 ,
 {
@@ -8629,6 +8837,22 @@
 }
 ,
 {
+  "title": "Vincent",
+  "artist": "don-mclean",
+  "addition": 587,
+  "release": 14.5,
+  "decade": "1970s",
+  "year": 1971,
+  "album": "american-pie",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/don-mclean_american-pie.png",
+  
+  "albumname": "American Pie",
+  "artistname": "Don McLean"
+}
+,
+{
   "title": "Visiting Hours",
   "artist": "ed-sheeran",
   "addition": 186,
@@ -8916,6 +9140,22 @@
 
   "albumname": "Ben",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": " What You're Made Of",
+  "artist": "lucie-silvas",
+  "addition": 599,
+  "release": 115.2,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "breathe-in",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lucie-silvas_breathe-in.png",
+
+  "albumname": "Breathe In",
+  "artistname": "Lucie Silvas"
 }
 ,
 {
