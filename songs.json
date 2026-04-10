@@ -486,6 +486,22 @@
 }
 ,
 {
+  "title": "Amor de Medianoche",
+  "artist": "cecilia",
+  "addition": 614,
+  "release": 17.9,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "cecilia-2",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/cecilia_cecilia-2.png",
+
+  "albumname": "Cecilia 2",
+  "artistname": "Cecilia"
+}
+,
+{
   "title": "And I Love Her",
   "artist": "the-beatles",
   "addition": 159,
@@ -820,6 +836,23 @@
   "albumname": "Beauty and the Beast Soundtrack",
   "artistname": "Ewan McGregor, Emma Thompson, Gugu Mbatha-Raw, Ian McKellen"
 }
+,
+{
+  "title": "Beautiful",
+  "artist": "barrett-wilbert-weed,katie-ladner,alice-lee,jessica-keenan-wynn,elle-mclemore",
+  "addition": 610,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed, Katie Ladner, Alice Lee, Jessica Keenan Wynn, Elle McLemore"
+}
+
 ,
 {
   "title": "Beauty and the Beast",
@@ -1333,6 +1366,22 @@
   
   "albumname": "",
   "artistname": "Elton John"
+}
+,
+{
+  "title": "Candy Store",
+  "artist": "alice-lee,jessica-keenan-wynn,elle-mclemore",
+  "addition": 615,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical,explicit",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Alice Lee, Jessica Keenan Wynn, Elle McLemore"
 }
 , 
 {
@@ -1863,6 +1912,22 @@
   
   "albumname": "Los Secretos",
   "artistname": "Los Secretos"
+}
+,
+{
+  "title": "Desde Que Tú Te Has Ido",
+  "artist": "cecilia",
+  "addition": 613,
+  "release": 17.9,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "cecilia-2",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/cecilia_cecilia-2.png",
+
+  "albumname": "Cecilia 2",
+  "artistname": "Cecilia"
 }
 ,
 {
@@ -2799,6 +2864,22 @@
 }
 ,
 {
+  "title": "GoldenEye",
+  "artist": "tina-turner",
+  "addition": 604,
+  "release": 83.1,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "goldeneye-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/G/goldeneye.png",
+
+  "albumname": "GoldenEye Soundtrack",
+  "artistname": "Tina Turner"
+}
+,
+{
   "title": "good 4 u",
   "artist": "olivia-rodrigo",
   "addition": 211,
@@ -3325,6 +3406,22 @@
   
   "albumname": "Entre el cielo y el suelo",
   "artistname": "Mecano"
+}
+,
+{
+  "title": " Hit Me With Your Best Shot",
+  "artist": "pat-benatar",
+  "addition": 611,
+  "release": 31.6,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "crimes-of-passion",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/pat-benatar_crimes-of-passion.png",
+
+  "albumname": "",
+  "artistname": "Pat Benatar"
 }
 ,
 {
@@ -4745,7 +4842,7 @@
 {
   "title": "La fuerza del destino",
   "artist": "mecano",
-  "addition":318,
+  "addition": 318,
   "release": 73,
   "decade": "1980s",
   "year": 1988,
@@ -4756,6 +4853,22 @@
   
   "albumname": "Descanso Dominical",
   "artistname": "Mecano"
+}
+,
+{
+  "title": "La, la, la",
+  "artist": "massiel",
+  "addition": 612,
+  "release": 12.3,
+  "decade": "1960s",
+  "year": 1968,
+  "album": "la-la-la",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/massiel_la-la-la.png",
+  
+  "albumname": "La, la, la",
+  "artistname": "Massiel"
 }
 ,
 {
@@ -6658,7 +6771,6 @@
   "albumname": "Staying at Tamara's",
   "artistname": "George Ezra"
 }
-
 ,
 {
   "title": "Princes of the Universe",
@@ -6674,6 +6786,22 @@
   
   "albumname": "A Kind of Magic",
   "artistname": "Queen"
+}
+,
+{
+  "title": "Private Dancer",
+  "artist": "tina-turner",
+  "addition": 603,
+  "release": 56.5,
+  "decade": "1980s",
+  "year": 1984,
+  "album": "private-dancer",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/tina-turner_private-dancer.png",
+  
+  "albumname": "Private Dancer",
+  "artistname": "Tina Turner"
 }
 ,
 {
@@ -7448,7 +7576,22 @@
   "albumname": "Crash! Boom! Bang!",
   "artistname": "Roxette"
 }
-
+,
+{
+  "title": "Slipping Through my Fingers",
+  "artist": "ethan-hodges",
+  "addition": 607,
+  "release": 183.81,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/E/ethan-hodges_slipping-through-my-fingers.png",
+  
+  "albumname": "",
+  "artistname": "Ethan Hodges"
+}
 ,
 {
   "title": "Smooth Criminal",
@@ -7627,6 +7770,22 @@
 
   "albumname": "Joyride",
   "artistname": "Roxette"
+}
+,
+{
+  "title": "Steamy Windows",
+  "artist": "tina-turner",
+  "addition": 605,
+  "release": 74.6,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "foreign-affair",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/tina-turner_foreign-affair.png",
+  
+  "albumname": "Foreign Affair",
+  "artistname": "Tina Turner"
 }
 ,
 {
@@ -8613,6 +8772,22 @@
 }
 ,
 {
+  "title": "Typical Male",
+  "artist": "tina-turner",
+  "addition": 606,
+  "release": 63.3,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "break-every-rule",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/tina-turner_break-every-rule.png",
+  
+  "albumname": "Break Every Rule",
+  "artistname": "Tina Turner"
+}
+,
+{
   "title": "Un año más",
   "artist": "mecano",
   "addition": 319,
@@ -9060,7 +9235,6 @@
   "albumname": "News of the World",
   "artistname": "Queen"
 }
-
 ,
 {
   "title": "We Are the World",
@@ -9076,6 +9250,22 @@
   
   "albumname": "We Are the World",
   "artistname": "USA for Africa"
+}
+,
+{
+  "title": "We Don't Need Another Hero (Thunderdome)",
+  "artist": "tina-turner",
+  "addition": 602,
+  "release": 60.4,
+  "decade": "1980s",
+  "year": 1985,
+  "album": "mad-max-beyond-thunderdome-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/M/madmaxbeyondthunderdome.png",
+  
+  "albumname": "Mad Max Beyond THunderdome Soundtrack",
+  "artistname": "Tina Turner"
 }
 ,
 {
@@ -9140,6 +9330,22 @@
 
   "albumname": "Ben",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "What You Get is What You See",
+  "artist": "tina-turner",
+  "addition": 609,
+  "release": 63.3,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "break-every-rule",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/tina-turner_break-every-rule.png",
+  
+  "albumname": "Break Every Rule",
+  "artistname": "Tina Turner"
 }
 ,
 {
@@ -9288,6 +9494,22 @@
 }
 ,
 {
+  "title": "Wish You the Best",
+  "artist": "lewis-capaldi",
+  "release": 601,
+  "addition": 185.3,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "broken-by-desire-to-be-heavenly-sent",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lewis-capaldi_broken-by-desire-to-be-heavenly-sent.png",
+
+  "albumname": "Broken by Desire to be Heavenly Sent",
+  "artistname": "Lewis Capaldi"
+}
+,
+{
   "title": "With a Little Help From my Friends",
   "artist": "the-beatles",
   "addition": 247,
@@ -9430,6 +9652,22 @@
   
   "albumname": "Only Human",
   "artistname": "Calum Scott"
+}
+, 
+{
+  "title": "You Are the Reason",
+  "artist": "olivia-penalva",
+  "addition": 608,
+  "release": 168.5,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-penalva_you-are-the-reason.png",
+  
+  "albumname": "",
+  "artistname": "Olivia Penalva"
 }
 , 
 {
