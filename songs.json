@@ -2678,7 +2678,7 @@
   "album": "#3",
   "language": "",
   "extra": "cover,musical,instrumental",
-  "img": "https://marswrites.neocities.org/albums/C/camille-berthollet_#3.png",
+  "img": "https://marswrites.neocities.org/albums/C/camille-berthollet_3.png",
   
   "albumname": "#3",
   "artistname": "Alan Silvestri, Camille Berthollet, Julie Berthollet"
@@ -9496,8 +9496,8 @@
 {
   "title": "Wish You the Best",
   "artist": "lewis-capaldi",
-  "release": 601,
   "addition": 185.3,
+  "release": 610,
   "decade": "2020s",
   "year": 2023,
   "album": "broken-by-desire-to-be-heavenly-sent",
