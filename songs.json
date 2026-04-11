@@ -1,5 +1,21 @@
 [
 {
+  "title": "20th Century Fox Fanfare",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 634,
+  "release": 154.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "la-mejor-musica-de-cine-vol-1",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-1.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 1",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "21 Guns",
   "artist": "green-day",
   "addition": 137,
@@ -515,6 +531,22 @@
 
   "albumname": "A Hard Day's Night",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Andar",
+  "artist": "cecilia",
+  "addition": 618,
+  "release": 17.9,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "cecilia-2",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/cecilia_cecilia-2.png",
+
+  "albumname": "Cecilia 2",
+  "artistname": "Cecilia"
 }
 ,
 {
@@ -1383,6 +1415,22 @@
   "albumname": "Heathers (Broadway Cast Recording)",
   "artistname": "Alice Lee, Jessica Keenan Wynn, Elle McLemore"
 }
+,
+{
+  "title": "Cantina Band (from ''Star Wars IV: A New Hope'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 631,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
 , 
 {
   "title": "Carry On",
@@ -1591,6 +1639,22 @@
   
   "albumname": "De mi puño y letra",
   "artistname": "Carlos Baute, Marta Sánchez"
+}
+,
+{
+  "title": "Colonel Bogey's March (from ''The Bridge on the River Kwai'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 646,
+  "release": 157.4,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-mejor-musica-de-cine-vol-3",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-3.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 3",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -1864,6 +1928,38 @@
 
   "albumname": "Beauty and the Beast Soundtrack",
   "artistname": "Adam Mitchell, Stanley Tucci, Emma Watson, Audra McDonald, Clive Rowe, Emma Thompson, Gugu Mbatha-Raw, Ian McKellen, Ewan McGregor"
+}
+,
+{
+  "title": "Dead Girl Walking",
+  "artist": "barrett-wilbert-weed,ryan-mccartan",
+  "addition": 654,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical,explicit",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed, Ryan McCartan"
+}
+,
+{
+  "title": "Dead Girl Walking (Reprise)",
+  "artist": "barrett-wilbert-weed,michelle-duffy,daniel-cooney,ryan-mccartan,elle-mclemore",
+  "addition": 656,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed, Michelle Duffy, Daniel Cooney, Ryan McCartan, Elle McLemore""
 }
 ,
 {
@@ -2541,6 +2637,22 @@
 }
 ,
 {
+  "title": "Fanfare (from ''King's Row'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 624,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "Fat Funny Friend",
   "artist": "maddie-zahm",
   "addition": 152,
@@ -2637,6 +2749,38 @@
 }
 ,
 {
+  "title": "Fight for Me",
+  "artist": "barrett-wilbert-weed",
+  "addition": 660,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical,explicit",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed"
+}
+,
+{
+  "title": "Flying Theme (from ''E. T. the Extraterrestial'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 651,
+  "release": 168.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "especial-john-williams",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_especial-john-williams.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 4",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "For the First Time in Forever",
   "artist": "idina-menzel,kristen-bell",
   "addition": 142,
@@ -2714,6 +2858,22 @@
   
   "albumname": "Listen Without Prejudice Vol. 1",
   "artistname": "George Michael"
+}
+,
+{
+  "title": "Freeze Your Brain",
+  "artist": "barrett-wilbert-weed,ryan-mccartan",
+  "addition": 657,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Ryan McCartan, Barrett Wilbert Weed"
 }
 ,
 {
@@ -4321,6 +4481,21 @@
   "albumname": "Frozen Soundtrack",
   "artistname": "Josh Gad"
 }
+{
+  "title": "Indiana Jones: Raiders' March",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 637,
+  "release": 154.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "la-mejor-musica-de-cine-vol-1",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-1.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 1",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
 ,
 {
   "title": "Innuendo",
@@ -4337,7 +4512,6 @@
   "albumname": "Innuendo",
   "artistname": "Queen"
 }
-
 ,
 {
   "title": "Ironic",
@@ -4742,6 +4916,22 @@
 }
 ,
 {
+  "title": "Kids in Love",
+  "artist": "p!nk,first-aid-kit",
+  "addition": 641,
+  "release": 184.93,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "trustfall",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/P/p!nk_trustfall.png",
+  
+  "albumname": "TRUSTFALL",
+  "artistname": "P!nk"
+}
+,
+{
   "title": "Killer Queen",
   "artist": "queen",
   "addition": 29,
@@ -5097,7 +5287,6 @@
   "albumname": "The Complete Season Four",
   "artistname": "Glee Cast"
 }
-
 ,
 {
   "title": "Libre",
@@ -5113,6 +5302,54 @@
   
   "albumname": "Mi tierra",
   "artistname": "Nino Bravo"
+}
+, 
+{
+  "title": "Life Goes On",
+  "artist": "ed-sheeran",
+  "addition": 619,
+  "release": 185.2,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "substract",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_substract.png",
+  
+  "albumname": "-",
+  "artistname": "Ed Sheeran"
+}
+, 
+{
+  "title": "Life Goes On",
+  "artist": "ed-sheeran,luke-combs",
+  "addition": 620,
+  "release": 185.2,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "substract",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_substract.png",
+  
+  "albumname": "-",
+  "artistname": "Ed Sheeran, Luke Combs"
+}
+,
+{
+  "title": "Life is Beautiful (from ''Life is Beautiful'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 652,
+  "release": 184.88,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "fenix-la-gira",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_fenix-la-gira.png",
+  
+  "albumname": "Fénix: La Gira",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -5213,6 +5450,22 @@
 }
 ,
 {
+  "title": "Logo (From Universal Pictures)",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 621,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "Lollipop",
   "artist": "the-chordettes",
   "addition": 438,
@@ -5259,7 +5512,6 @@
   "albumname": "Glee: The Music Presents Glease",
   "artistname": "Glee Cast"
 }
-
 ,
 {
   "title": "Losing My Religion",
@@ -5323,6 +5575,22 @@
 
   "albumname": "Recovery",
   "artistname": "Eminem, Rihanna"
+}
+,
+{
+  "title": "Love Theme (from ''Cinema Paradiso'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 642,
+  "release": 157.4,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-mejor-musica-de-cine-vol-3",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-3.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 3",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -5390,6 +5658,70 @@
 }
 ,
 {
+  "title": "Main on End (from ''Avengers: Endgame'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 627,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Main Theme (from ''Willow'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 622,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Main Title (from ''North and South'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 625,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Main Titles (from ''The Avengers'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 648,
+  "release": 157.4,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-mejor-musica-de-cine-vol-3",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-3.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 3",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "Make You Feel My Love",
   "artist": "glee-cast",
   "addition": 227,
@@ -5403,6 +5735,22 @@
 
   "albumname": "The Quarterback",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Mambo (from ''West Side Story'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 630,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -5483,6 +5831,22 @@
   
   "albumname": "Mecano",
   "artistname": "Mecano"
+}
+,
+{
+  "title": "March (from ''The Great Escape'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 643,
+  "release": 157.4,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-mejor-musica-de-cine-vol-3",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-3.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 3",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -5645,6 +6009,22 @@
   
   "albumname": "Emociones",
   "artistname": "Julio Iglesias"
+}
+,
+{
+  "title": "Meant to Be Yours",
+  "artist": "barrett-wilbert-weed,ryan-mccartan,michelle-duffy",
+  "addition": 655,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "explicit,musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Ryan McCartan, Barrett Wilbert Weed, Michelle Duffy"
 }
 ,
 {
@@ -5887,7 +6267,22 @@
   "albumname": "Descanso Dominical",
   "artistname": "Mecano"
 }
+,
+{
+  "title": "My Dead Gay Son",
+  "artist": "anthony-crivello,daniel-cooney",
+  "addition": 658,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
 
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Anthony Crivello, Daniel Cooney"
+}
 ,
 {
   "title": "My Interpretation",
@@ -6371,6 +6766,38 @@
 }
 ,
 {
+  "title": "Overture (from ''Beauty and the Beast'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 653,
+  "release": 184.88,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "fenix-la-gira",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_fenix-la-gira.png",
+  
+  "albumname": "Fénix: La Gira",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Overture (from ''Citizen Kane'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 645,
+  "release": 157.4,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-mejor-musica-de-cine-vol-3",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-3.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 3",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "P. S. I Love You",
   "artist": "the-beatles",
   "addition": 302,
@@ -6433,7 +6860,6 @@
   "albumname": "Staying at Tamara's",
   "artistname": "George Ezra"
 }
-
 ,
 {
   "title": "Paradise by the Dashboard Light",
@@ -6935,6 +7361,22 @@
 }
 ,
 {
+  "title": "Rey's Theme (from ''Star Wars VII: The Force Awakens'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 649,
+  "release": 162.7,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "la-musica-de-las-galaxias",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-musica-de-las-galaxias.png",
+  
+  "albumname": "La Música de las Galaxias",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "Ring of Fire",
   "artist": "johnny-cash",
   "addition": 424,
@@ -7286,7 +7728,38 @@
   "albumname": "21",
   "artistname": "Adele"
 }
+,
+{
+  "title": "Seventeen",
+  "artist": "barrett-wilbert-weed,ryan-mccartan",
+  "addition": 616,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
 
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed, Ryan McCartan"
+}
+,
+{
+  "title": "Seventeen (Reprise)",
+  "artist": "barrett-wilbert-weed,alice-lee,katie-ladner,elle-mclemore",
+  "addition": 617,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed, Alice Lee, Katie Ladner, Elle McLemore"
+}
 ,
 {
   "title": "Shallow",
@@ -7725,6 +8198,22 @@
 }
 ,
 {
+  "title": "Somewhere in my Memory (from ''Home Alone'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 632,
+  "release": 184.85,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_somewhere-in-my-memory.png",
+  
+  "albumname": "",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "Somewhere Only We Know",
   "artist": "keane",
   "addition": 141,
@@ -7787,6 +8276,21 @@
   "albumname": "Foreign Affair",
   "artistname": "Tina Turner"
 }
+{
+  "title": "Star Wars IV: Throne Room and Finale",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 636,
+  "release": 154.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "la-mejor-musica-de-cine-vol-1",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-1.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 1",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
 ,
 {
   "title": "Starstruck",
@@ -7803,7 +8307,6 @@
   "albumname": "",
   "artistname": "Wheatus"
 }
-
 ,
 {
   "title": "Streets of London",
@@ -7870,6 +8373,70 @@
 }
 ,
 {
+  "title": "Suite (from ''Aladdin'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 623,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Suite (from ''Amélie'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 626,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Suite (from ''Back to the Future'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 629,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Suite (from ''Pirates of the Caribbean: The Curse of the Black Pearl'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 628,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "Summer Nights",
   "artist": "olivia-newton-john,john-travolta",
   "addition": 70,
@@ -7915,6 +8482,22 @@
   
   "albumname": "Take the Heat off Me",
   "artistname": "Boney M."
+}
+,
+{
+  "title": "Superman: March",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 639,
+  "release": 154.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "la-mejor-musica-de-cine-vol-1",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-1.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 1",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -8334,7 +8917,6 @@
   "albumname": "Rush!",
   "artistname": "Mäneskin"
 }
-
 ,
 {
   "title": "The Look",
@@ -8350,6 +8932,54 @@
 
   "albumname": "Look Sharp!",
   "artistname": "Roxette"
+}
+,
+{
+  "title": "The Ludlows (from ''Legends of the Fall'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 647,
+  "release": 157.4,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-mejor-musica-de-cine-vol-3",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-3.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 3",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "The Magnificent Seven: Suite",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 635,
+  "release": 154.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "la-mejor-musica-de-cine-vol-1",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-1.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 1",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "The Mission: Gabriel's Oboe",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 650,
+  "release": 168.2,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "la-mejor-musica-de-cine-vol-4",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-4.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 4",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -8385,6 +9015,22 @@
 }
 ,
 {
+  "title": "The Riddle's Solved (from ''Young Sherlock'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 633,
+  "release": 176.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "la-mejor-musica-de-cine-vol-5",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-5.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 5",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
   "title": "The Show Must Go On",
   "artist": "queen",
   "addition": 41,
@@ -8398,6 +9044,22 @@
   
   "albumname": "Innuendo",
   "artistname": "Queen"
+}
+,
+{
+  "title": "The Simpsons: Titles",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 638,
+  "release": 154.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "la-mejor-musica-de-cine-vol-1",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-1.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 1",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -8462,6 +9124,22 @@
   
   "albumname": "Super Trouper",
   "artistname": "ABBA"
+}
+,
+{
+  "title": "Theme (from ''Captain America'')",
+  "artist": "film-symphony-orchestra,constantino-martinez-orts",
+  "addition": 644,
+  "release": 157.4,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-mejor-musica-de-cine-vol-3",
+  "language": "",
+  "extra": "instrumental,cover,musical",
+  "img": "https://marswrites.neocities.org/albums/F/film-symphony-orchestra_la-mejor-musica-de-cine-vol-3.png",
+  
+  "albumname": "La Mejor Música de Cine, Vol. 3",
+  "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
 ,
 {
@@ -8720,6 +9398,22 @@
   "img": "https://marswrites.neocities.org/albums/P/p!nk_the-truth-about-love.png",
   
   "albumname": "The Truth About Love",
+  "artistname": "P!nk"
+}
+,
+{
+  "title": "Turbulence",
+  "artist": "p!nk",
+  "addition": 640,
+  "release": 184.93,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "trustfall",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/p!nk_trustfall.png",
+  
+  "albumname": "TRUSTFALL",
   "artistname": "P!nk"
 }
 ,
@@ -9540,7 +10234,22 @@
   "albumname": "The Joshua Tree",
   "artistname": "U2"
 }
+,
+{
+  "title": "World's Smallest Violin",
+  "artist": "ajr",
+  "release": 659,
+  "addition": 180,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "ok-orchestra",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ajr_ok-orchestra.png",
 
+  "albumname": "OK Orchestra",
+  "artistname": "AJR"
+}
 ,
 {
   "title": "Yellow Submarine",
