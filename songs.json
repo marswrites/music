@@ -291,6 +291,22 @@
   "albumname": "Ya viene el sol",
   "artistname": "Mecano"
 }
+, 
+{
+  "title": "It's All Coming Back to Me Now",
+  "artist": "céline-dion",
+  "addition": 675,
+  "release": 88,
+  "decade": "1990s",
+  "year": 1996,
+  "album": "falling-into-you",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/C/céline-dion_falling-into-you.png",
+
+  "albumname": "Falling into You",
+  "artistname": "Céline Dion"
+}
 ,
 {
   "title": "All I Ask",
@@ -1048,6 +1064,22 @@
 }
 ,
 {
+  "title": "Big Fun",
+  "artist": "barrett-wilbert-weed,alice-lee,jessica-keenan-wynn,jon-eidson,evan-todd",
+  "addition": 661,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Jon Eidson, Evan Todd, Barrett Wilbert Weed, Jessica Keenan Wynn, Alice Lee"
+}
+,
+{
   "title": "Big Girl (You Are Beautiful)",
   "artist": "mika",
   "addition": 145,
@@ -1062,7 +1094,6 @@
   "albumname": "Life in Cartoon Motion",
   "artistname": "MIKA"
 }
-
 ,
 {
   "title": "Billy Brown",
@@ -1142,6 +1173,22 @@
 
   "albumname": "",
   "artistname": "Maddie Zahm"
+}
+,
+{
+  "title": "Blue",
+  "artist": "jon-eidson,evan-todd,barrett-wilbert-weed,alice-lee,elle-mclemore",
+  "addition": 668,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Jon Eidson, Evan Todd, Barrett Wilbert Weed, Alice Lee, Elle McLemore"
 }
 ,
 {
@@ -1254,6 +1301,22 @@
   
   "albumname": "Welcome to the Real World",
   "artistname": "Mr. Mister"
+}
+,
+{
+  "title": "Brown Eyed Girl",
+  "artist": "van-morrison",
+  "addition": 672,
+  "release": 9.95,
+  "decade": "19670s",
+  "year": 1967,
+  "album": "blowin'-your-mind",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/V/van-morrison_blowin'-your-mind.png",
+
+  "albumname": "Blowin' Your Mind",
+  "artistname": "Van Morrison"
 }
 ,
 {
@@ -3072,6 +3135,22 @@
 }
 ,
 {
+  "title": "Good Riddance",
+  "artist": "riverdale-cast,kj-apa",
+  "addition": 662,
+  "release": 145.8,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "riverdale-season-5-soundtrack",
+  "language": "english",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/R/riverdaleseason5.png",
+
+  "albumname": "Riverdale: Season 5 Soundtrack",
+  "artistname": "Riverdale Cast, KJ Apa"
+}
+,
+{
   "title": "Good Riddance (Time of Your Life)",
   "artist": "green-day",
   "addition": 426,
@@ -3887,7 +3966,23 @@
   "albumname": "A Head Full of Dreams",
   "artistname": "Coldplay"
 }
-  ,
+,
+{
+  "title": "I Am Damaged",
+  "artist": "ryan-mccartan,barrett-wilbert-weed",
+  "addition": 666,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Ryan McCartan, Barrett Wilbert Weed"
+}
+,
 {
   "title": "I Don't Wanna Love Somebody Else",
   "artist": "a-great-big-world",
@@ -4947,7 +5042,22 @@
   "albumname": "Sheer Heart Attack",
   "artistname": "Queen"
 }
+,
+{
+  "title": "Kindergarten Boyfriend",
+  "artist": "katie-ladner",
+  "addition": 671,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
 
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Katie Ladner"
+}
 ,
 {
   "title": "Kiss the Girl",
@@ -5351,6 +5461,22 @@
   
   "albumname": "Fénix: La Gira",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Lifeboat",
+  "artist": "elle-mclemore",
+  "addition": 665,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Elle McLemore"
 }
 ,
 {
@@ -6751,6 +6877,38 @@
 }
 ,
 {
+  "title": "Our Love is God",
+  "artist": "ryan-mccartan,barrett-wilbert-weed,jon-eidson,evan-todd",
+  "addition": 664,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical,explicit",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Ryan McCartan, Barrett Wilbert Weed, Jon Eidson, Evan Todd"
+}
+,
+{
+  "title": "Our Song",
+  "artist": "p!nk",
+  "addition": 663,
+  "release": 184.93,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "trustfall",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/p!nk_trustfall.png",
+  
+  "albumname": "TRUSTFALL",
+  "artistname": "P!nk"
+}
+,
+{
   "title": "Over You",
   "artist": "ingrid-michaelson,a-great-big-world",
   "addition": 553,
@@ -7293,9 +7451,24 @@
   "img": "https://marswrites.neocities.org/albums/B/boney-m_nightflight-to-venus.png",
 
   "albumname": "Nightflight to Venus",
-  "artistname": " Boney M."
+  "artistname": "Boney M."
 }
+,
+{
+  "title": "Red Red Wine",
+  "artist": "neil-diamond",
+  "addition": 674,
+  "release": 9.93,
+  "decade": "1960s",
+  "year": 1967,
+  "album": "just-for-you",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/neil-diamond_just-for-you.png",
 
+  "albumname": "Just for You",
+  "artistname": "Neil Diamond"
+}
 ,
 {
   "title": "Rehab",
@@ -7872,6 +8045,22 @@
 
   "albumname": " Off the Wall",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Shine a Light",
+  "artist": "michelle-duffy,aj-meijer,rachel-flynn,dustin-sullivan,charissa-hogeland",
+  "addition": 670,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed, Katie Ladner, Alice Lee, Jessica Keenan Wynn, Elle McLemore"
 }
 ,
 {
@@ -8966,6 +9155,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 1",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "The Me Inside of Me",
+  "artist": "jessica-keenan-wynn,daniel-cooney,dan-domenech,aj-meijer,michelle-duffy",
+  "addition": 669,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Barrett Wilbert Weed, Katie Ladner, Alice Lee, Jessica Keenan Wynn, Elle McLemore"
 }
 ,
 {
@@ -10238,6 +10443,22 @@
 }
 ,
 {
+  "title": "Wonder Woman",
+  "artist": "miley-cyrus",
+  "release": 184.99,
+  "addition": 673,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "endless-summer-vacation",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/A/ajr_ok-orchestra.png",
+
+  "albumname": "OK Orchestra",
+  "artistname": "AJR"
+}
+,
+{
   "title": "World's Smallest Violin",
   "artist": "ajr",
   "release": 180,
@@ -10246,7 +10467,7 @@
   "year": 2021,
   "album": "ok-orchestra",
   "language": "english",
-  "extra": "",
+  "extra": "explicit",
   "img": "https://marswrites.neocities.org/albums/A/ajr_ok-orchestra.png",
 
   "albumname": "OK Orchestra",
@@ -10315,6 +10536,22 @@
 
   "albumname": "Cruisin'",
   "artistname": "Village People" 
+}
+,
+{
+  "title": "Yo Girl",
+  "artist": "jessica-keenan-wynn,jon-eidson,evan-todd,barrett-wilbert-weed,michelle-duffy",
+  "addition": 667,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Jessica Keenan Wynn, Jon Eidson, Evan Todd, Barrett Wilbert Weed, Michelle Duffy"
 }
 ,
 {
