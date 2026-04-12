@@ -678,6 +678,22 @@
 }
 ,
 {
+  "title": "Arabian Nights",
+  "artist": "bruce-adler,disney",
+  "addition": 686,
+  "release": 79,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "aladdin-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/A/aladdin-old.png",
+  
+  "albumname": "Aladdin Soundtrack",
+  "artistname": "Bruce Adler, Disney"
+}
+,
+{
   "title": "Arcade",
   "artist": "duncan-laurence",
   "addition": 572,
@@ -1352,7 +1368,23 @@
 }
 ,
 {
-  "title": "Heather",
+  "title": "Camino Soria",
+  "artist": "gabinete-caligari",
+  "addition": 678,
+  "release": 72,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "camino-soria",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/G/gabinete-caligari_camino-soria.png",
+  
+  "albumname": "Camino Soria",
+  "artistname": "Gabinete Caligari"
+}
+,
+{
+  "title": "(Can We Be Friends?)",
   "artist": "conan-gray",
   "addition": 511,
   "release": 175.4,
@@ -3087,6 +3119,38 @@
 }
 ,
 {
+  "title": "Go the Distance",
+  "artist": "michael-bolton",
+  "addition": 682,
+  "release": 88.6,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "hercules-soundtrack",
+  "language": "english",
+  "extra": "cover,musical,disney",
+  "img": "https://marswrites.neocities.org/albums/H/hercules.png",
+
+  "albumname": "Hercules Soundtrack",
+  "artistname": "Michael Bolton"
+}
+,
+{
+  "title": "Go the Distance",
+  "artist": "roger-bart,disney",
+  "addition": 681,
+  "release": 88.6,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "hercules-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/H/hercules.png",
+
+  "albumname": "Hercules Soundtrack",
+  "artistname": "Roger Bart, Disney"
+}
+,
+{
   "title": "GoldenEye",
   "artist": "tina-turner",
   "addition": 604,
@@ -3392,6 +3456,22 @@
 }
 ,
 {
+  "title": "Headlong",
+  "artist": "queen",
+  "addition": 680,
+  "release": 77,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "innuendo",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_innuendo.png",
+  
+  "albumname": "Innuendo",
+  "artistname": "Queen"
+}
+,
+{
   "title": "Heal the World",
   "artist": "michael-jackson",
   "addition": 343,
@@ -3405,6 +3485,22 @@
 
   "albumname": "Dangerous",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Heart Attack",
+  "artist": "demi-lovato",
+  "addition": 685,
+  "release": 140.1,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "demi",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/demi-lovato_demi.png",
+  
+  "albumname": "Demi",
+  "artistname": "Demi Lovato"
 }
 ,
 {
@@ -4189,6 +4285,22 @@
   
   "albumname": "Whitney",
   "artistname": "Whitney Houston"
+}
+,
+{
+  "title": "I Want It All",
+  "artist": "queen",
+  "addition": 679,
+  "release": 74.52,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "the-miracle",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_the-miracle.png",
+  
+  "albumname": "The Miracle",
+  "artistname": "Queen"
 }
 ,
 {
@@ -5673,6 +5785,22 @@
 }
 ,
 {
+  "title": "Love Me Like There's No Tomorrow",
+  "artist": "freddie-mercury",
+  "addition": 689,
+  "release": 58.8,
+  "decade": "1980s",
+  "year": 1985,
+  "album": "mr.-bad-guy",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/freddie-mercury_mr.-bad-guy.png",
+  
+  "albumname": "Mr. Bad Guy",
+  "artistname": "Freddie Mercury"
+}
+,
+{
   "title": "Love of My Life",
   "artist": "queen",
   "addition": 27,
@@ -6136,6 +6264,22 @@
   
   "albumname": "Emociones",
   "artistname": "Julio Iglesias"
+}
+,
+{
+  "title": "Mean",
+  "artist": "taylor-swift",
+  "addition": 684,
+  "release": 133.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "speak-now,speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now.png",
+  
+  "albumname": "Speak Now",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -6733,6 +6877,22 @@
 }
 ,
 {
+  "title": "Numb Little Bug (Piano Version)",
+  "artist": "em-beihold",
+  "addition": 688,
+  "release": 183.81,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "egg-in-the-backseat",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/em-beihold_egg-in-the-backseat.png",
+  
+  "albumname": "Egg in the Backseat",
+  "artistname": "Em Beihold"
+}
+,
+{
   "title": "Ob-La-Di, Ob-La-Da",
   "artist": "the-beatles",
   "addition": 161,
@@ -6842,6 +7002,22 @@
 
   "albumname": "Forever, Michael",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "One Jump Ahead",
+  "artist": "brad-kane,disney",
+  "addition": 687,
+  "release": 79,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "aladdin-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/A/aladdin-old.png",
+  
+  "albumname": "Aladdin Soundtrack",
+  "artistname": "Brad Kane, Disney"
 }
 ,
 {
@@ -8129,6 +8305,22 @@
 }
 ,
 {
+  "title": "Si te vas",
+  "artist": "maialen",
+  "addition": 676,
+  "release": 176.3,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/maialen_si-te-vas.png",
+
+  "albumname": "",
+  "artistname": "Maialen"
+}
+,
+{
   "title": "Si tú la quieres",
   "artist": "david-bisbal",
   "addition": 350,
@@ -8287,7 +8479,6 @@
   "albumname": "Lo más lejos a tu lado",
   "artistname": "Fito y Fitipaldis"
 }
-
 ,
 {
   "title": "Somebody to Love",
@@ -8304,7 +8495,22 @@
   "albumname": "Somebody to Love",
   "artistname": "George Michael, Queen"
 }
-
+,
+{
+  "title": "Somebody to Love",
+  "artist": "queen",
+  "addition": 690,
+  "release": 23,
+  "decade": "1970s",
+  "year": 1976,
+  "album": "a-day-at-the-races",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_a-day-at-the-races.png",
+  
+  "albumname": "A Day at the Races",
+  "artistname": "Queen"
+}
 ,
 {
   "title": "Someone in the Crowd",
@@ -10459,6 +10665,22 @@
 }
 ,
 {
+  "title": "Wondering",
+  "artist": "olivia-rodrigo,julia-lester,,disney",
+  "addition": 677,
+  "release": 175.31,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "high-school-musical-the-musical-the-series-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/H/high-school-musical-the-musical-the-series-soundtrack.png",
+
+  "albumname": "High School Musical: The Musical: The Series Soundtrack",
+  "artistname": "Olivia Rodrigo, Julia Lester, Disney"
+}
+,
+{
   "title": "World's Smallest Violin",
   "artist": "ajr",
   "release": 180,
@@ -10810,6 +11032,22 @@
 
   "albumname": "Zapatillas",
   "artistname": "El Canto del Loco"
+}
+,
+{
+  "title": "Zero to Hero",
+  "artist": "hercules-cast,disney",
+  "addition": 683,
+  "release": 88.6,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "hercules-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/H/hercules.png",
+
+  "albumname": "Hercules Soundtrack",
+  "artistname": "Hercules Cast, Disney"
 }
 ,
 {
