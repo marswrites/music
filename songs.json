@@ -822,6 +822,22 @@
 }
 ,
 {
+  "title": "Back to December",
+  "artist": "taylor-swift",
+  "addition": 696,
+  "release": 133.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "speak-now,speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now.png",
+  
+  "albumname": "Speak Now",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Bad",
   "artist": "michael-jackson",
   "addition": 369,
@@ -1381,6 +1397,22 @@
   
   "albumname": "Camino Soria",
   "artistname": "Gabinete Caligari"
+}
+,
+{
+  "title": "Camino Soria (Live)",
+  "artist": "jaime-urrutia,amaral",
+  "addition": 705,
+  "release": 122.3,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "en-joy",
+  "language": "spanish",
+  "extra": "cover,live",
+  "img": "https://marswrites.neocities.org/albums/J/jaime-urrutia_en-joy.png",
+  
+  "albumname": "En Joy",
+  "artistname": "Jaime Urrutia, Amaral"
 }
 ,
 {
@@ -1976,6 +2008,22 @@
   "albumname": "Entre el cielo y el suelo",
   "artistname": "Mecano"
 }
+,
+{
+  "title": "Cuéntame un cuento",
+  "artist": "celtas-cortos",
+  "addition": 693,
+  "release": 77.6,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "cuentame-un-cuento",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/celtas-cortos_cuentame-un-cuento.png",
+  
+  "albumname": "Cuéntame un cuento",
+  "artistname": "Celtas Cortos"
+}
 , 
 {
   "title": "Dancing on My Own",
@@ -2071,6 +2119,22 @@
   
   "albumname": "Title",
   "artistname": "Meghan Trainor"
+}
+,
+{
+  "title": "Dear John",
+  "artist": "taylor-swift",
+  "addition": 697,
+  "release": 133.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "speak-now,speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now.png",
+  
+  "albumname": "Speak Now",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -2857,6 +2921,22 @@
 
   "albumname": "Heathers (Broadway Cast Recording)",
   "artistname": "Barrett Wilbert Weed"
+}
+,
+{
+  "title": "Fingers Crossed",
+  "artist": "lauren-spencer-smith",
+  "addition": 702,
+  "release": 185.4,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "mirror",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lauren-spencer-smith:mirror.png",
+
+  "albumname": "Mirror",
+  "artistname": "Lauren Spencer Smith"
 }
 ,
 {
@@ -6425,7 +6505,6 @@
   "albumname": "Rubber Soul",
   "artistname": "The Beatles"
 }
-
 ,
 {
   "title": "Million Years Ago",
@@ -6441,6 +6520,22 @@
   
   "albumname": "25",
   "artistname": "Adele"
+}
+,
+{
+  "title": "Mine",
+  "artist": "taylor-swift",
+  "addition": 695,
+  "release": 133.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "speak-now,speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now.png",
+  
+  "albumname": "Speak Now",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -7021,6 +7116,22 @@
 }
 ,
 {
+  "title": "One Jump Ahead (Reprise)",
+  "artist": "brad-kane,disney",
+  "addition": 699,
+  "release": 79,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "aladdin-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/A/aladdin-old.png",
+  
+  "albumname": "Aladdin Soundtrack",
+  "artistname": "Brad Kane, Disney"
+}
+,
+{
   "title": "One Vision",
   "artist": "queen",
   "addition": 230,
@@ -7451,6 +7562,38 @@
 
   "albumname": "Wicked (musical)",
   "artistname": "Stephen Schwartz, Kristin Chenoweth"
+}
+,
+{
+  "title": "Prelude",
+  "artist": "bernard-herrmann",
+  "addition": 704,
+  "release": 1.67,
+  "decade": "1960s",
+  "year": 1960,
+  "album": "psycho-soundtrack",
+  "language": "",
+  "extra": "musical,instrumental",
+  "img": "https://marswrites.neocities.org/albums/P/psycho.png",
+
+  "albumname": "Psycho Soundtrack",
+  "artistname": "Bernard Herrmann"
+}  
+,
+{
+  "title": "Proud of Your Boy",
+  "artist": "adam-jacobs",
+  "addition": 694,
+  "release":135.8,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "aladdin-musical",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/A/aladdin-musical.png",
+  
+  "albumname": "Aladdin (Original Broadway Musical)",
+  "artistname": "Adam Jacobs"
 }
 ,
 {
@@ -8994,6 +9137,23 @@
 }
 ,
 {
+  "title": "Tainted Love",
+  "artist": "soft-cell",
+  "addition": 701,
+  "release": 34.7,
+  "decade": "1980s",
+  "year": 1981,
+  "album": "non-stop-erotic-cabaret",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/S/soft-cell_non-stop-erotic-cabaret.png",
+  
+  "albumname": "Non-Stop Erotic Cabaret",
+  "artistname": "Soft Cell"
+}
+, 
+,
+{
   "title": "Take Me to Church",
   "artist": "hozier",
   "addition": 45,
@@ -9284,6 +9444,22 @@
 }
 ,
 {
+  "title": "The Great Pretender",
+  "artist": "freddie-mercury",
+  "addition": 691,
+  "release": 66.2,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/F/freddie-mercury_the-great-pretender.png",
+  
+  "albumname": "",
+  "artistname": "Freddie Mercury"
+}
+,
+{
   "title": "The Imperial March (Darth Vader's Theme)",
   "artist": "john-williams",
   "addition": 593,
@@ -9297,6 +9473,22 @@
 
   "albumname": "Star Wars: The Empire Strikes Back",
   "artistname": "John Williams"
+}
+,
+{
+  "title": "The Invisible Man",
+  "artist": "queen",
+  "addition": 692,
+  "release": 74.52,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "the-miracle",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_the-miracle.png",
+  
+  "albumname": "The Miracle",
+  "artistname": "Queen"
 }
 ,
 {
@@ -9425,6 +9617,22 @@
 
   "albumname": "The Days/Nights EP",
   "artistname": "Avicii"
+}
+,
+{
+  "title": "The Phantom of the Opera",
+  "artist": "andrew-lloyd-webber,emmy-rossum,gerard-butler",
+  "addition": 698,
+  "release": 116,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "the-phantom-of-the-opera-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thephantomoftheopera.png",
+  
+  "albumname": "The Phantom of the Opera Soundtrack",
+  "artistname": "Andrew Lloyd Webber, Gerard Butler, Emmy Rossum"
 }
 ,
 {
@@ -10164,6 +10372,22 @@
   
   "albumname": "¿Dónde jugarán los niños?",
   "artistname": "Maná"
+}
+,
+{
+  "title": "Vois sur ton chemin",
+  "artist": "bruno-coulais,la-maitrise-de-saint-marc",
+  "addition": 700,
+  "release": 111,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "the-chorus-soundtrack",
+  "language": "french",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/T/thechorus.png",
+  
+  "albumname": "The Chorus Soundtrack",
+  "artistname": "Bruno Coulais, La Maitrise de Saint Marc"
 }
 ,
 {
@@ -11036,6 +11260,23 @@
 ,
 {
   "title": "Zero to Hero",
+  "artist": "ariana-grande",
+  "addition": 703,
+  "release": 154.9,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "we-love-disney",
+  "language": "english",
+  "extra": "cover,musical,disney",
+  "img": "https://marswrites.neocities.org/albums/W/we-love-disney.png",
+
+  "albumname": "We Love Disney",
+  "artistname": "Ariana Grande"
+}
+
+,
+{
+  "title": "Zero to Hero",
   "artist": "hercules-cast,disney",
   "addition": 683,
   "release": 88.6,
@@ -11082,3 +11323,5 @@
   "artistname": "The Cranberries"
 }
 ]
+
+
