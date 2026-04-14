@@ -277,6 +277,54 @@
 }
 ,
 {
+  "title": "After Ever After",
+  "artist": "jon-cozart",
+  "addition": 740,
+  "release": 140.05,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "",
+  "language": "english",
+  "extra": "cover,disney,musical",
+  "img": "https://marswrites.neocities.org/albums/J/jon-cozart_after-ever-after.png",
+  
+  "albumname": "",
+  "artistname": "Jon Cozart"
+}
+,
+{
+  "title": "After Ever After 2",
+  "artist": "jon-cozart",
+  "addition": 742,
+  "release": 148.2,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "",
+  "language": "english",
+  "extra": "cover,disney,musical",
+  "img": "https://marswrites.neocities.org/albums/J/jon-cozart_after-ever-after-2.png",
+  
+  "albumname": "",
+  "artistname": "Jon Cozart"
+}
+,
+{
+  "title": "After Ever After 3",
+  "artist": "jon-cozart",
+  "addition": 743,
+  "release": 168.75,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "",
+  "language": "english",
+  "extra": "cover,disney,musical",
+  "img": "https://marswrites.neocities.org/albums/J/jon-cozart_after-ever-after-3.png",
+  
+  "albumname": "",
+  "artistname": "Jon Cozart"
+}
+,
+{
   "title": "Aire",
   "artist": "mecano",
   "addition": 57,
@@ -293,7 +341,7 @@
 }
 , 
 {
-  "title": "It's All Coming Back to Me Now",
+  "title": "All By Myself",
   "artist": "céline-dion",
   "addition": 675,
   "release": 88,
@@ -301,6 +349,22 @@
   "year": 1996,
   "album": "falling-into-you",
   "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/C/céline-dion_falling-into-you.png",
+
+  "albumname": "Falling into You",
+  "artistname": "Céline Dion"
+}
+, 
+{
+  "title": "All By Myself (Spanish Version)",
+  "artist": "céline-dion",
+  "addition": 760,
+  "release": 88,
+  "decade": "1990s",
+  "year": 1996,
+  "album": "falling-into-you",
+  "language": "spanish",
   "extra": "cover",
   "img": "https://marswrites.neocities.org/albums/C/céline-dion_falling-into-you.png",
 
@@ -434,6 +498,22 @@
   
   "albumname": "Is There Anybody Out There?",
   "artistname": "A Great Big World"
+}
+,
+{
+  "title": "Always On My Mind",
+  "artist": “connie-talbot",
+  "addition": 736,
+  "release": 183.4,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/C/connie-talbot_always-on-my-mind.png",
+  
+  "albumname": "",
+  "artistname": "Connie Talbot"
 }
 ,
 {
@@ -967,6 +1047,38 @@
 }
 ,
 {
+  "title": "Beauty School Dropout",
+  "artist": "frankie-avalon",
+  "addition": 737,
+  "release": 28,
+  "decade": "1970s",
+  "year": 1978,
+  "album": "grease-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/G/grease.png",
+  
+  "albumname": "Grease Soundtrack",
+  "artistname": "Frankie Avalon"
+}
+,
+{
+  "title": "Beauty School Dropout",
+  "artist": "glee-cast",
+  "addition": 738,
+  "release": 138.3,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "glease",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_glease.png",
+
+  "albumname": "Glee: The Music Presents Glease",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Before You",
   "artist": "benson-boone",
   "addition": 356,
@@ -1221,6 +1333,22 @@
 
   "albumname": "Heathers (Broadway Cast Recording)",
   "artistname": "Jon Eidson, Evan Todd, Barrett Wilbert Weed, Alice Lee, Elle McLemore"
+}
+,
+{
+  "title": "Body",
+  "artist": "julia-michaels",
+  "addition": 744,
+  "release": 172.5,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "inner-monologue-part-2",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/J/julia-michaels_inner-monologue-part-2.png",
+  
+  "albumname": "Inner Monologue Part 2",
+  "artistname": "Julia Michaels, Niall Horan"
 }
 ,
 {
@@ -1769,6 +1897,22 @@
 }
 ,
 {
+  "title": "Coffee",
+  "artist": "beabadoobee",
+  "addition": 759,
+  "release": 163.5,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/beabadoobee_coffee.png",
+
+  "albumname": "",
+  "artistname": "Beabadoobee"
+}
+,
+{
   "title": "Colgando en tus manos",
   "artist": "carlos-baute,marta-sanchez",
   "addition": 73,
@@ -2042,6 +2186,22 @@
 }
 ,
 {
+  "title": "Cruel Summer",
+  "artist": "taylor-swift",
+  "addition": 741,
+  "release": 174.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "lover",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_lover.png",
+  
+  "albumname": "Lover",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Cruz de navajas",
   "artist": "mecano",
   "addition": 62,
@@ -2186,6 +2346,22 @@
 }
 ,
 {
+  "title": "death bed (coffee for your head)",
+  "artist": "powfu,beabadoobee",
+  "addition": 756,
+  "release": 176,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "poems-of-the-past",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/powfu_poems-of-the-past.png",
+
+  "albumname": "poems of the past",
+  "artistname": "Powfu, beabadoobee"
+}
+,
+{
   "title": "deja vu",
   "artist": "olivia-rodrigo",
   "addition": 543,
@@ -2247,6 +2423,22 @@
 
   "albumname": "Desperado",
   "artistname": "Eagles"
+}
+,
+{
+  "title": "Detective Conan Theme",
+  "artist": "katsuo-ono",
+  "addition": 753,
+  "release": 94.6,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "detective-conan-soundtrack",
+  "language": "",
+  "extra": "musical,instrumental",
+  "img": "https://marswrites.neocities.org/albums/detectiveconan.png",
+
+  "albumname": "Detective Conan Soundtrack",
+  "artistname": "Katsuo Ono"
 }
 ,
 {
@@ -2409,23 +2601,6 @@
   "albumname": "DiscO-Zone",
   "artistname": "O-Zone"
 }
-
-,
-{
-  "title": "drivers license",
-  "artist": "olivia-rodrigo",
-  "addition": 210,
-  "release": 181,
-  "decade": "2020s",
-  "year": 2021,
-  "album": "sour",
-  "language": "english",
-  "extra": "explicit",
-  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
-
-  "albumname": "SOUR",
-  "artistname": "Olivia Rodrigo"
-}
 ,
 {
   "title": "Dream On",
@@ -2457,6 +2632,38 @@
   
   "albumname": "Everybody Else is Doing It, So Why Can't We?",
   "artistname": "The Cranberries"
+}
+,
+{
+  "title": "drivers license",
+  "artist": "olivia-rodrigo",
+  "addition": 210,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "sour",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
+
+  "albumname": "SOUR",
+  "artistname": "Olivia Rodrigo"
+}
+,
+{
+  "title": "Dulce introducción al caos",
+  "artist": "extremoduro",
+  "addition": 739,
+  "release": 123.8,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "la-ley-innata",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/extremoduro_la-ley-innata.png",
+
+  "albumname": "La ley innata",
+  "artistname": "Extremoduro"
 }
 ,
 {
@@ -2666,6 +2873,22 @@
   "albumname": "...Nothing Like the Sun",
   "artistname": "Sting"
 }
+, 
+{
+  "title": "enough for you",
+  "artist": "olivia-rodrigo",
+  "addition": 747,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "sour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
+  
+  "albumname": "SOUR",
+  "artistname": "Olivia Rodrigo"
+}
 ,
 {
   "title": "Escuela de Calor",
@@ -2809,6 +3032,22 @@
   
   "albumname": "Red",
   "artistname": "Taylor Swift, Ed Sheeran"
+}
+,
+{
+  "title": "exile",
+  "artist": "taylor-swift,bon-iver",
+  "addition": 765,
+  "release": 176.8,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "folklore",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_folklore.png",
+  
+  "albumname": "folklore",
+  "artistname": "Taylor Swift, Bon Iver"
 }
 , 
 {
@@ -3278,6 +3517,22 @@
 }
 ,
 {
+  "title": "Getaway Car",
+  "artist": "taylor-swift",
+  "addition": 764,
+  "release": 163.7,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "reputation",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_reputation.png",
+  
+  "albumname": "reputation",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Girl Crush",
   "artist": "big-little-town",
   "addition": 315,
@@ -3452,6 +3707,22 @@
   
   "albumname": "nimrod.",
   "artistname": "Green Day"
+}
+,
+{
+  "title": “Gorgeous",
+  "artist": "taylor-swift",
+  "addition": 763,
+  "release": 163.7,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "reputation",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_reputation.png",
+  
+  "albumname": "reputation",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -4110,6 +4381,22 @@
   "albumname": "Waterloo",
   "artistname": "ABBA"
 }
+, 
+{
+  "title": "hope ur ok",
+  "artist": "olivia-rodrigo",
+  "addition": 748,
+  "release": 181,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "sour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_sour.png",
+  
+  "albumname": "SOUR",
+  "artistname": "Olivia Rodrigo"
+}
 ,
 {
   "title": "Hopelessly Devoted to You",
@@ -4346,7 +4633,7 @@
   "language": "english",
   "extra": "",
   "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now-taylor's-version.png",
-
+  
   "albumname": "Speak Now (Taylor’s Version)",
   "artistname": "Taylor Swift"
 }
@@ -4557,6 +4844,22 @@
   
   "albumname": "Whitney",
   "artistname": "Whitney Houston"
+}
+,
+{
+  "title": "I Want It All",
+  "artist": "duncan-laurence",
+  "addition": 752,
+  "release": 185.5,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "skyboy",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/duncan-laurence_skyboy.png",
+  
+  "albumname": "Skyboy",
+  "artistname": "Duncan Laurence"
 }
 ,
 {
@@ -5977,6 +6280,22 @@
 }
 ,
 {
+  "title": "Lo Mal Que Estoy (y lo Poco que me Quejo)",
+  "artist": "el-kanka",
+  "addition": 761,
+  "release": 140.07,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "lo-mal-que-estoy-y-lo-poco-que-me-quejo",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/el-kanka_lo-mal-que-estoy-y-lo-poco-que-me-quejo.png",
+  
+  "albumname": "Lo mal que estoy y lo poco que me quejo",
+  "artistname": "El Kanka"
+}
+,
+{
   "title": "Logo (From Universal Pictures)",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 621,
@@ -6054,6 +6373,22 @@
 
   "albumname": "Glee: The Music Presents Glease",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Look What You Made Me Do",
+  "artist": "taylor-swift",
+  "addition": 762,
+  "release": 163.7,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "reputation",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_reputation.png",
+  
+  "albumname": "reputation",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -6872,6 +7207,22 @@
 
   "albumname": "Heathers (Broadway Cast Recording)",
   "artistname": "Anthony Crivello, Daniel Cooney"
+}
+,
+{
+  "title": "My Heart Will Go On",
+  "artist": "céline-dion",
+  "addition": 758,
+  "release": 89.2,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "titanic-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/titanic.png",
+
+  "albumname": "Titanic Soundtrack",
+  "artistname": "Céline Dion"
 }
 ,
 {
@@ -7949,6 +8300,38 @@
 }
 ,
 {
+  "title": "Please Please Me",
+  "artist": "the-beatles",
+  "addition": 279,
+  "release": 4,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "please-please-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
+
+  "albumname": "Please Please Me",
+  "artistname": "The Beatles"
+}
+,
+,
+{
+  "title": "Ponyo on the Cliff by the Sea",
+  "artist": "joe-hisaishi",
+  "addition": 757,
+  "release": 185.33,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "a-symphonic-celebration",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/J/joe-hisaishi_a-symphonic-celebration.png",
+
+  "albumname": "A Symphonic Celebration",
+  "artistname": "Joe Hisaishi"
+}
+{
   "title": "Por la boca vive el pez",
   "artist": "fito-y-fitipaldis",
   "addition": 209,
@@ -8139,6 +8522,22 @@
   
   "albumname": "Coco Soundtrack",
   "artistname": "Miguel, Natalia Lafourcade"
+}
+,
+{
+  "title": "Rest in Peace",
+  "artist": "duncan-laurence",
+  "addition": 750,
+  "release": 185.5,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "skyboy",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/duncan-laurence_skyboy.png",
+  
+  "albumname": "Skyboy",
+  "artistname": "Duncan Laurence"
 }
 ,
 {
@@ -8861,6 +9260,22 @@
   
   "albumname": "Estrella de mar",
   "artistname": "Amaral"
+}
+,
+{
+  "title": "Skyboy",
+  "artist": "duncan-laurence",
+  "addition": 751,
+  "release": 185.5,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "skyboy",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/duncan-laurence_skyboy.png",
+  
+  "albumname": "Skyboy",
+  "artistname": "Duncan Laurence"
 }
 ,
 {
@@ -9631,6 +10046,22 @@
   "albumname": "Rush Soundtrack",
   "artistname": "Eric Clapton"
 }
+,
+{
+  "title": "teenage dream”,
+  "artist": "olivia-rodrigo",
+  "addition": 746,
+  "release": 185.45,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "guts",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_guts.png",
+
+  "albumname": "GUTS",
+  "artistname": "Olivia Rodrigo"
+}
 , 
 {
   "title": "Temptation",
@@ -9840,6 +10271,22 @@
   
   "albumname": "",
   "artistname": "Freddie Mercury"
+}
+,
+{
+  "title": "the grudge",
+  "artist": "olivia-rodrigo",
+  "addition": 745,
+  "release": 185.45,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "guts",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_guts.png",
+
+  "albumname": "GUTS",
+  "artistname": "Olivia Rodrigo"
 }
 ,
 {
@@ -10289,6 +10736,21 @@
 
   "albumname": "Thriller",
   "artistname": "Michael Jackson"
+}
+{
+  "title": "Time to Say Goodbye",
+  "artist": "andrea-bocelli,sarah-brightman",
+  "addition": 755,
+  "release": 85.5,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "bocelli",
+  "language": "english,italian",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/andrea-bocelli_bocelli.png",
+
+  "albumname": "Bocelli",
+  "artistname": "Andrea Bocelli, Sarah Brightman"
 }
 ,
 {
@@ -11286,6 +11748,22 @@
 }
 ,
 {
+  "title": "Winner",
+  "artist": "conan-gray",
+  "addition": 749,
+  "release": 185.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "found-heaven",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_found-heaven.png",
+
+  "albumname": "Found Heaven",
+  "artistname": "Conan Gray"
+}
+,
+{
   "title": "Wish You the Best",
   "artist": "lewis-capaldi",
   "addition": 601,
@@ -11351,7 +11829,7 @@
 ,
 {
   "title": "Wondering",
-  "artist": "olivia-rodrigo,julia-lester,,disney",
+  "artist": "olivia-rodrigo,julia-lester,disney",
   "addition": 677,
   "release": 175.31,
   "decade": "2020s",
@@ -11359,6 +11837,22 @@
   "album": "high-school-musical-the-musical-the-series-soundtrack",
   "language": "english",
   "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/H/high-school-musical-the-musical-the-series-soundtrack.png",
+
+  "albumname": "High School Musical: The Musical: The Series Soundtrack",
+  "artistname": "Olivia Rodrigo, Julia Lester, Disney"
+}
+,
+{
+  "title": "Wondering (Ashlyn & Nini Piano Version)",
+  "artist": "olivia-rodrigo,julia-lester,disney",
+  "addition": 754,
+  "release": 175.31,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "high-school-musical-the-musical-the-series-soundtrack",
+  "language": "english",
+  "extra": "cover,disney,musical",
   "img": "https://marswrites.neocities.org/albums/H/high-school-musical-the-musical-the-series-soundtrack.png",
 
   "albumname": "High School Musical: The Musical: The Series Soundtrack",
@@ -11800,5 +12294,3 @@
   "artistname": "The Cranberries"
 }
 ]
-
-
