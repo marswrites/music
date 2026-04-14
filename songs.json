@@ -502,7 +502,7 @@
 ,
 {
   "title": "Always On My Mind",
-  "artist": “connie-talbot",
+  "artist": "connie-talbot",
   "addition": 736,
   "release": 183.4,
   "decade": "2020s",
@@ -3710,7 +3710,7 @@
 }
 ,
 {
-  "title": “Gorgeous",
+  "title": "Gorgeous",
   "artist": "taylor-swift",
   "addition": 763,
   "release": 163.7,
@@ -8315,7 +8315,6 @@
   "artistname": "The Beatles"
 }
 ,
-,
 {
   "title": "Ponyo on the Cliff by the Sea",
   "artist": "joe-hisaishi",
@@ -8331,6 +8330,7 @@
   "albumname": "A Symphonic Celebration",
   "artistname": "Joe Hisaishi"
 }
+,
 {
   "title": "Por la boca vive el pez",
   "artist": "fito-y-fitipaldis",
@@ -10048,7 +10048,7 @@
 }
 ,
 {
-  "title": "teenage dream”,
+  "title": "teenage dream",
   "artist": "olivia-rodrigo",
   "addition": 746,
   "release": 185.45,
@@ -10737,6 +10737,7 @@
   "albumname": "Thriller",
   "artistname": "Michael Jackson"
 }
+,
 {
   "title": "Time to Say Goodbye",
   "artist": "andrea-bocelli,sarah-brightman",
@@ -12294,3 +12295,4 @@
   "artistname": "The Cranberries"
 }
 ]
+
