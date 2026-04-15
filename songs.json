@@ -469,6 +469,22 @@
 }
 ,
 {
+  "title": "all-american bitch",
+  "artist": "olivia-rodrigo",
+  "addition": 772,
+  "release": 185.45,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "guts",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_guts.png",
+
+  "albumname": "GUTS",
+  "artistname": "Olivia Rodrigo"
+}
+,
+{
   "title": "Almost There",
   "artist": "anika-noni-rose",
   "addition": 598,
@@ -1494,6 +1510,21 @@
   "albumname": "Divinely Uninspired to a Hellish Extent",
   "artistname": "Lewis Capaldi"
 }
+{
+  "title": "Bubbly",
+  "artist": "colbie-caillat",
+  "addition": 788,
+  "release": 122.5,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "coco",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/colbie-caillat_coco.png",
+
+  "albumname": "Coco",
+  "artistname": "Colbie Caillat"
+}
 ,
 {
   "title": "Budapest",
@@ -2151,7 +2182,22 @@
   "albumname": "Native",
   "artistname": "OneRepublic"
 }
+,
+{
+  "title": "Crazier",
+  "artist": "taylor-swift",
+  "addition": 792,
+  "release": 127.4,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "hannah-montana-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/hannahmontana.png",
 
+  "albumname": "Soundtrack of Hannah Montana: The Movie",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "Crazy Little Thing Called Love",
@@ -2362,6 +2408,22 @@
 }
 ,
 {
+  "title": "Death by a Thousand Cuts",
+  "artist": "taylor-swift",
+  "addition": 768,
+  "release": 174.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "lover",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_lover.png",
+  
+  "albumname": "Lover",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "deja vu",
   "artist": "olivia-rodrigo",
   "addition": 543,
@@ -2435,7 +2497,7 @@
   "album": "detective-conan-soundtrack",
   "language": "",
   "extra": "musical,instrumental",
-  "img": "https://marswrites.neocities.org/albums/detectiveconan.png",
+  "img": "https://marswrites.neocities.org/albums/D/detectiveconan.png",
 
   "albumname": "Detective Conan Soundtrack",
   "artistname": "Katsuo Ono"
@@ -2488,7 +2550,22 @@
   "albumname": "Pájaros en la cabeza",
   "artistname": "Amaral"
 }
-
+,
+{
+  "title": “Do You Want to Build a Snowman",
+  "artist": "kristen-bell,agatha-lee-monn,katie-lopez",
+  "addition": 784,
+  "release": 142,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "frozen-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/F/frozen.png",
+  
+  "albumname": "Frozen Soundtrack",
+  "artistname": "Idina Menzel, Kristen Bell"
+}
 ,
 {
   "title": "Don't Get Me Wrong",
@@ -2859,6 +2936,22 @@
 }
 ,
 {
+  "title": "Engagement Party",
+  "artist": "justin-hurwitz",
+  "addition": 781,
+  "release": 159,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-la-land-soundtrack",
+  "language": "",
+  "extra": "instrumental,musical",
+  "img": "https://marswrites.neocities.org/albums/L/lalaland.png",
+  
+  "albumname": "La La Land Soundtrack",
+  "artistname": "Justin Hurwitz"
+}
+,
+{
   "title": "Englishman in New York",
   "artist": "sting",
   "addition": 456,
@@ -2888,6 +2981,22 @@
   
   "albumname": "SOUR",
   "artistname": "Olivia Rodrigo"
+}
+,
+{
+  "title": "Epilogue",
+  "artist": "justin-hurwitz",
+  "addition": 782,
+  "release": 159,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-la-land-soundtrack",
+  "language": "",
+  "extra": "instrumental,musical",
+  "img": "https://marswrites.neocities.org/albums/L/lalaland.png",
+  
+  "albumname": "La La Land Soundtrack",
+  "artistname": "Justin Hurwitz"
 }
 ,
 {
@@ -3321,6 +3430,22 @@
   "albumname": "Frozen Soundtrack",
   "artistname": "Idina Menzel, Kristen Bell"
 }
+,
+{
+  "title": "For the First Time in Forever (Reprise)",
+  "artist": "idina-menzel,kristen-bell",
+  "addition": 783,
+  "release": 142,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "frozen-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/F/frozen.png",
+  
+  "albumname": "Frozen Soundtrack",
+  "artistname": "Idina Menzel, Kristen Bell"
+}
 , 
 {
   "title": "Forever",
@@ -3384,6 +3509,22 @@
   
   "albumname": "#3",
   "artistname": "Alan Silvestri, Camille Berthollet, Julie Berthollet"
+}
+, 
+{
+  "title": "Fought & Lost",
+  "artist": "sam-ryder,brian-may",
+  "addition": 775,
+  "release": 185.31,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sam-ryder_fought-and-lost.png",
+  
+  "albumname": "",
+  "artistname": "Sam Ryder, Brian May"
 }
 ,
 {
@@ -3630,6 +3771,22 @@
 }
 ,
 {
+  "title": "Golden Slumbers/Carry That Weight",
+  "artist": "jennifer-hudson",
+  "addition": 790,
+  "release": 158,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "sing!-soundtrack",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/S/sing.png",
+  
+  "albumname": "Sing! Soundtrack",
+  "artistname": "Jennifer Hudson"
+}
+,
+{
   "title": "GoldenEye",
   "artist": "tina-turner",
   "addition": 604,
@@ -3836,7 +3993,22 @@
   "albumname": "The Lion King Soundtrack",
   "artistname": "Billy Eichner, Seth Rogen, JayDon, Childish Gambino"
 }
-
+,
+{
+  "title": "Hallelujah",
+  "artist": "jeff-buckley",
+  "addition": 787,
+  "release": 81.3,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "grace",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/J/jeff-buckley_grace.png",
+  
+  "albumname": "Grace",
+  "artistname": "Jeff Buckley"
+}
 ,
 {
   "title": "Hallelujah",
@@ -3852,6 +4024,22 @@
   
   "albumname": "Sing! Soundtrack",
   "artistname": "Tori Kelly"
+,
+{
+  "title": "Hallelujah (Duet Version)",
+  "artist": "tori-kelly,jennifer-hudson",
+  "addition": 791,
+  "release": 158,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "sing!-soundtrack",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/S/sing.png",
+  
+  "albumname": "Sing! Soundtrack",
+  "artistname": "Tori Kelly, Jennifer Hudson"
+}
 }
 ,
 {
@@ -4079,6 +4267,22 @@
 }
 ,
 {
+  "title": "Hello",
+  "artist": "adele",
+  "addition": 773,
+  "release": 157,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "25",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/adele_25.png",
+
+  "albumname": "25",
+  "artistname": "Adele"
+}
+,
+{
   "title": "Hello Mary Lou (Goodbye Heart)",
   "artist": "ricky-nelson",
   "addition": 472,
@@ -4140,6 +4344,22 @@
   
   "albumname": "Abbey Road",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Herman’s Habit",
+  "artist": "justin-hurwitz",
+  "addition": 778,
+  "release": 159,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-la-land-soundtrack",
+  "language": "",
+  "extra": "instrumental,musical",
+  "img": "https://marswrites.neocities.org/albums/L/lalaland.png",
+  
+  "albumname": "La La Land Soundtrack",
+  "artistname": "Justin Hurwitz"
 }
 ,
 {
@@ -5201,6 +5421,22 @@
 }
 ,
 {
+  "title": "illicit affairs",
+  "artist": "taylor-swift",
+  "addition": 766,
+  "release": 176.8,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "folklore",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_folklore.png",
+  
+  "albumname": "folklore",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Imagine",
   "artist": "john-lennon",
   "addition": 275,
@@ -5744,6 +5980,22 @@
   
   "albumname": "Sheer Heart Attack",
   "artistname": "Queen"
+}
+,
+{
+  "title": "Killing Me",
+  "artist": "conan-gray",
+  "addition": 794,
+  "release": 185.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "found-heaven",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_found-heaven.png",
+
+  "albumname": "Found Heaven",
+  "artistname": "Conan Gray"
 }
 ,
 {
@@ -6629,6 +6881,22 @@
 
   "albumname": "The Quarterback",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Make Your Own Kind of Music",
+  "artist": "cass-elliot",
+  "addition": 786,
+  "release": 12.8,
+  "decade": "1960s",
+  "year": 1969,
+  "album": "bubblegum-lemonade-and-something-for-mama",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/cass-elliot_bubblegum-lemonade-and-something-for-mama.png",
+
+  "albumname": "Bubblegum, Lemonade &... Something for Mama",
+  "artistname": "Cass Elliot"
 }
 ,
 {
@@ -7545,6 +7813,22 @@
   "albumname": "",
   "artistname": "Édith Piaf"
 }
+,
+{
+  "title": "Nos sobran los motivos",
+  "artist": "joaquin-sabina",
+  "addition": 91,
+  "release": 93,
+  "decade": "1990s",
+  "year": 1999,
+  "album": "19-dias-y-500-noches",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/joaquin-sabina_19-dias-y-500-noches.png",
+  
+  "albumname": "19 días y 500 noches",
+  "artistname": "Joaquín Sabina"
+}
 , 
 {
   "title": "Nothing New",
@@ -7913,6 +8197,22 @@
   "albumname": "El misterioso caso de...",
   "artistname": "Efecto Pasillo"
 }
+,
+{
+  "title": "Paper Rings",
+  "artist": "taylor-swift",
+  "addition": 768,
+  "release": 174.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "lover",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_lover.png",
+  
+  "albumname": "Lover",
+  "artistname": "Taylor Swift"
+}
 , 
 {
   "title": "Paradise",
@@ -8170,7 +8470,23 @@
   "albumname": "Tommy",
   "artistname": "The Who"
 }
-  ,
+,
+{
+  "title": "Planetarium",
+  "artist": "justin-hurwitz",
+  "addition": 779,
+  "release": 159,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-la-land-soundtrack",
+  "language": "",
+  "extra": "instrumental,musical",
+  "img": "https://marswrites.neocities.org/albums/L/lalaland.png",
+  
+  "albumname": "La La Land Soundtrack",
+  "artistname": "Justin Hurwitz"
+}
+,
 {
   "title": "Popular",
   "artist": "glee-cast",
@@ -8217,6 +8533,22 @@
 
   "albumname": "Wicked (musical)",
   "artistname": "Stephen Schwartz, Kristin Chenoweth"
+}
+,
+{
+  "title": "Por Una Cabeza",
+  "artist": "carlos-gardel",
+  "addition": 795,
+  "release": 102,
+  "decade": "1950s+",
+  "year": 1935,
+  "album": "tango-bar-soundtrack",
+  "language": "spanish",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/tangobar.png",
+
+  "albumname": "Tango Bar Soundtrack",
+  "artistname": "Carlos Gardel"
 }
 ,
 {
@@ -9098,7 +9430,23 @@
   "img": "https://marswrites.neocities.org/albums/H/heathers.png",
 
   "albumname": "Heathers (Broadway Cast Recording)",
-  "artistname": "Barrett Wilbert Weed, Katie Ladner, Alice Lee, Jessica Keenan Wynn, Elle McLemore"
+  "artistname": "Michelle Duffy, AJ Meijer, Rachel Flynn, Dustin Sullivan, Charissa Hogeland"
+}
+,
+{
+  "title": "Shine a Light (Reprise)",
+  "artist": "alice-lee,elle-mclemore",
+  "addition": 776,
+  "release": 145.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "heathers",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/H/heathers.png",
+
+  "albumname": "Heathers (Broadway Cast Recording)",
+  "artistname": "Alice Lee, Elle McLemore"
 }
 ,
 {
@@ -9504,6 +9852,22 @@
 }
 ,
 {
+  "title": "Soon You’ll Get Better",
+  "artist": "taylor-swift,the-chicks",
+  "addition": 770,
+  "release": 174.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "lover",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_lover.png",
+  
+  "albumname": "Lover",
+  "artistname": "Taylor Swift, The Chicks"
+}
+,
+{
   "title": "Sorry",
   "artist": "justin-bieber",
   "addition": 191,
@@ -9741,6 +10105,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 5",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Summer Montage/Madeline",
+  "artist": "justin-hurwitz",
+  "addition": 779,
+  "release": 159,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "la-la-land-soundtrack",
+  "language": "",
+  "extra": "instrumental,musical",
+  "img": "https://marswrites.neocities.org/albums/L/lalaland.png",
+  
+  "albumname": "La La Land Soundtrack",
+  "artistname": "Justin Hurwitz"
 }
 ,
 {
@@ -10386,6 +10766,22 @@
 }
 ,
 {
+  "title": "The Man",
+  "artist": "taylor-swift",
+  "addition": 767,
+  "release": 174.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "lover",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_lover.png",
+  
+  "albumname": "Lover",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "The Me Inside of Me",
   "artist": "jessica-keenan-wynn,daniel-cooney,dan-domenech,aj-meijer,michelle-duffy",
   "addition": 669,
@@ -10575,6 +10971,37 @@
   
   "albumname": "Autoamerican",
   "artistname": "Blondie"
+}
+{
+  "title": "The Village",
+  "artist": "wrabel",
+  "addition": 774,
+  "release": 162.99,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/W/wrabel_the-village.png",
+  
+  "albumname": "",
+  "artistname": "WRABEL"
+}
+,
+{
+  "title": "The Way I Feel Inside",
+  "artist": "taron-egerton",
+  "addition": 789,
+  "release": 158,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "sing!-soundtrack",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/S/sing.png",
+  
+  "albumname": "Sing! Soundtrack",
+  "artistname": "Taron Egerton"
 }
 ,
 {
@@ -10992,6 +11419,22 @@
   
   "albumname": "Please Please Me",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Two is Better than One",
+  "artist": "boys-like-girls,taylor-swift",
+  "addition": 793,
+  "release": 129.3,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "love-drunk",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/boys-like-girls_love-drunk.png",
+  
+  "albumname": "Love Drunk",
+  "artistname": "BOYS LIKE GIRLS"
 }
 ,
 {
@@ -11861,6 +12304,22 @@
 }
 ,
 {
+  "title": "Words",
+  "artist": "f-r-david",
+  "release": 37.4,
+  "addition": 777,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "words”,
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/f-r-david_words.png",
+
+  "albumname": "Words",
+  "artistname": "F. R. David"
+}
+,
+{
   "title": "World's Smallest Violin",
   "artist": "ajr",
   "release": 180,
@@ -12164,7 +12623,22 @@
   "albumname": "A Night at the Opera",
   "artistname": "Queen"
 }
-
+,
+{
+  "title": "You Need to Calm Down",
+  "artist": "taylor-swift",
+  "addition": 771,
+  "release": 174.2,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "lover",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_lover.png",
+  
+  "albumname": "Lover",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "You're the One That I Want",
@@ -12295,4 +12769,6 @@
   "artistname": "The Cranberries"
 }
 ]
+
+
 
