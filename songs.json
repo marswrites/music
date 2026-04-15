@@ -1510,6 +1510,7 @@
   "albumname": "Divinely Uninspired to a Hellish Extent",
   "artistname": "Lewis Capaldi"
 }
+,
 {
   "title": "Bubbly",
   "artist": "colbie-caillat",
@@ -2552,7 +2553,7 @@
 }
 ,
 {
-  "title": “Do You Want to Build a Snowman",
+  "title": "Do You Want to Build a Snowman",
   "artist": "kristen-bell,agatha-lee-monn,katie-lopez",
   "addition": 784,
   "release": 142,
@@ -4024,6 +4025,7 @@
   
   "albumname": "Sing! Soundtrack",
   "artistname": "Tori Kelly"
+}
 ,
 {
   "title": "Hallelujah (Duet Version)",
@@ -4039,7 +4041,6 @@
   
   "albumname": "Sing! Soundtrack",
   "artistname": "Tori Kelly, Jennifer Hudson"
-}
 }
 ,
 {
@@ -10972,6 +10973,7 @@
   "albumname": "Autoamerican",
   "artistname": "Blondie"
 }
+,
 {
   "title": "The Village",
   "artist": "wrabel",
@@ -12310,7 +12312,7 @@
   "addition": 777,
   "decade": "1980s",
   "year": 1982,
-  "album": "words”,
+  "album": "words",
   "language": "english",
   "extra": "",
   "img": "https://marswrites.neocities.org/albums/F/f-r-david_words.png",
@@ -12769,6 +12771,4 @@
   "artistname": "The Cranberries"
 }
 ]
-
-
 
