@@ -341,6 +341,22 @@
 }
 , 
 {
+  "title": "Alicia en el metalverso",
+  "artist": "mago-de-oz",
+  "addition": 804,
+  "release": 185.7,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "alicia-en-el-metalverso",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mago-de-oz_alicia-en-el-metalverso.png",
+  
+  "albumname": "Alicia en el metalverso",
+  "artistname": "Mägo de Oz"
+}
+, 
+{
   "title": "All By Myself",
   "artist": "céline-dion",
   "addition": 675,
@@ -1028,7 +1044,22 @@
   "albumname": "Heathers (Broadway Cast Recording)",
   "artistname": "Barrett Wilbert Weed, Katie Ladner, Alice Lee, Jessica Keenan Wynn, Elle McLemore"
 }
+,
+{
+  "title": "Beautiful That Way",
+  "artist": "noa",
+  "addition": 809,
+  "release": 94.3,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "blue-touches-blue",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/N/noa_blue-touches-blue.png",
 
+  "albumname": "Blue Touches Blue",
+  "artistname": "Noa"
+}
 ,
 {
   "title": "Beauty and the Beast",
@@ -1204,6 +1235,22 @@
   "img": "https://marswrites.neocities.org/albums/T/taylor-swift_red-taylor's-version.png",
   
   "albumname": "Red (Taylor's Version)",
+  "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Better Than Revenge",
+  "artist": "taylor-swift",
+  "addition": 798,
+  "release": 133.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "speak-now,speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now.png",
+  
+  "albumname": "Speak Now",
   "artistname": "Taylor Swift"
 }
 ,
@@ -2068,8 +2115,24 @@
   "extra": "cover",
   "img": "https://marswrites.neocities.org/albums/M/morat_sobre-el-amor-y-sus-efectos-secundarios.png",
 
-  "albumname": "Sobre el amor yn sus efectos secundarios",
+  "albumname": "Sobre el amor y sus efectos secundarios",
   "artistname": "Morat"
+}
+, 
+{
+  "title": "Como un susurro",
+  "artist": "mago-de-oz",
+  "addition": 807,
+  "release": 185.7,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "alicia-en-el-metalverso",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mago-de-oz_alicia-en-el-metalverso.png",
+  
+  "albumname": "Alicia en el metalverso",
+  "artistname": "Mägo de Oz"
 }
 ,
 {
@@ -2823,6 +2886,22 @@
   "albumname": "Once historias y un piano",
   "artistname": "Pablo López"
 }
+, 
+{
+  "title": "El metalverso",
+  "artist": "mago-de-oz",
+  "addition": 806,
+  "release": 185.7,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "alicia-en-el-metalverso",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mago-de-oz_alicia-en-el-metalverso.png",
+  
+  "albumname": "Alicia en el metalverso",
+  "artistname": "Mägo de Oz"
+}
 ,
 {
   "title": "El mundo",
@@ -2854,6 +2933,22 @@
   
   "albumname": "Flores de alquiler",
   "artistname": "La Quinta Estación"
+}
+, 
+{
+  "title": "El sombrerero loco",
+  "artist": "mago-de-oz",
+  "addition": 805,
+  "release": 185.7,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "alicia-en-el-metalverso",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mago-de-oz_alicia-en-el-metalverso.png",
+  
+  "albumname": "Alicia en el metalverso",
+  "artistname": "Mägo de Oz"
 }
 ,
 {
@@ -3414,6 +3509,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 4",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Foolish One",
+  "artist": "taylor-swift",
+  "addition": 800,
+  "release": 185.35,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now-taylor's-version.png",
+  
+  "albumname": "Speak Now (Taylor’s Version)",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -6273,6 +6384,22 @@
 }
 ,
 {
+  "title": "Last Kiss",
+  "artist": "taylor-swift",
+  "addition": 799,
+  "release": 133.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "speak-now,speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now.png",
+  
+  "albumname": "Speak Now",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Leaving on a Jet Plane",
   "artist": "peter-paul-and-mary",
   "addition": 333,
@@ -6581,6 +6708,22 @@
 }
 ,
 {
+  "title": "Lonely Dancers",
+  "artist": "conan-gray",
+  "addition": 803,
+  "release": 185.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "found-heaven",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_found-heaven.png",
+
+  "albumname": "Found Heaven",
+  "artistname": "Conan Gray"
+}
+,
+{
   "title": "Long Live",
   "artist": "taylor-swift",
   "addition": 726,
@@ -6674,6 +6817,22 @@
   
   "albumname": "Frozen Soundtrack",
   "artistname": "Kristen Bell, Santino Fontana"
+}
+,
+{
+  "title": "Love is Just a Four-Letter Word",
+  "artist": "joan-baez",
+  "addition": 802,
+  "release": 12.1,
+  "decade": "1960s",
+  "year": 1968,
+  "album": "any-day-now",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/joan-baez_any-day-now.png",
+  
+  "albumname": "Any Day Now",
+  "artistname": "Joan Baez"
 }
 ,
 {
@@ -6802,6 +6961,22 @@
   
   "albumname": "We Sing. We Dance. We Steal Things",
   "artistname": "Jason Mraz, Colbie Caillat"
+}
+, 
+{
+  "title": "Luna de sangre",
+  "artist": "mago-de-oz",
+  "addition": 804,
+  "release": 185.7,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "alicia-en-el-metalverso",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mago-de-oz_alicia-en-el-metalverso.png",
+  
+  "albumname": "Alicia en el metalverso",
+  "artistname": "Mägo de Oz"
 }
 ,
 {
@@ -7380,6 +7555,22 @@
 
   "albumname": "Arrival",
   "artistname": "ABBA" 
+}
+,
+{
+  "title": "Moonlight Shadow",
+  "artist": "mike-oldfield",
+  "addition": 810,
+  "release": 38.8,
+  "decade": "1980s",
+  "year": 1983,
+  "album": "crises",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mike-oldfield_crises.png",
+
+  "albumname": "Crises",
+  "artistname": "Mike Oldfield" 
 }
 ,
 {
@@ -8566,7 +8757,23 @@
 
   "albumname": "Psycho Soundtrack",
   "artistname": "Bernard Herrmann"
-}  
+}
+,
+{
+  "title": "Princesas",
+  "artist": "pereza",
+  "addition": 796,
+  "release": 118.1,
+  "decade": "2000s",
+  "year": 2005,
+  "album": "animales",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/pereza_animales.png",
+
+  "albumname": "Animales",
+  "artistname": "Pereza"
+}
 ,
 {
   "title": "Proud of Your Boy",
@@ -11166,6 +11373,22 @@
   "albumname": "Thriller",
   "artistname": "Michael Jackson"
 }
+, 
+{
+  "title": "Tim McGraw",
+  "artist": "taylor-swift",
+  "addition": 797,
+  "release": 119.5,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "taylor-swift",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_taylor-swift.png",
+  
+  "albumname": "Taylor Swift",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "Time to Say Goodbye",
@@ -11341,6 +11564,22 @@
   
   "albumname": "SOUR",
   "artistname": "Olivia Rodrigo"
+}
+, 
+{
+  "title": "Trouble",
+  "artist": "cage-the-elephant",
+  "addition": 801,
+  "release": 157.25,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "tell-me-i’m-pretty",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/cage-the-elephant_tell-me-i’m-pretty.png",
+  
+  "albumname": "Tell Me I’m Pretty",
+  "artistname": "Cage the Elephant"
 }
 ,
 {
@@ -12771,4 +13010,6 @@
   "artistname": "The Cranberries"
 }
 ]
+
+
 
