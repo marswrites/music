@@ -1,5 +1,21 @@
 [
 {
+  "title": "2 days into college",
+  "artist": "aimee-carty",
+  "addition": 812,
+  "release": 185.65,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aimee-carty_2-days-into-college.png",
+  
+  "albumname": "",
+  "artistname": "Aimee Carty"
+}
+,
+{
   "title": "20th Century Fox Fanfare",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 634,
@@ -595,7 +611,22 @@
   "albumname": "Tom Petty & the Heartbreakers",
   "artistname": "Tom Petty & the Heartbreakers"
 }
-
+,
+{
+  "title": "América, América",
+  "artist": "nino-bravo",
+  "addition": 813,
+  "release": 17.85,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "y-vol-5",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/nino-bravo_y-vol-5.png",
+  
+  "albumname": "...y volumen 5",
+  "artistname": "Nino Bravo"
+}
 ,
 {
   "title": "American Pie",
@@ -1813,7 +1844,22 @@
   "albumname": "Divide",
   "artistname": "Ed Sheeran"
 }
-
+,
+{
+  "title": "Cerf volant",
+  "artist": "bruno-coulais,la-maitrise-de-saint-marc",
+  "addition": 819,
+  "release": 111,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "the-chorus-soundtrack",
+  "language": "french",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thechorus.png",
+  
+  "albumname": "The Chorus Soundtrack",
+  "artistname": "Bruno Coulais, La Maitrise de Saint Marc"
+}
 ,
 {
   "title": "Cerrado por derribo",
@@ -1877,6 +1923,22 @@
   
   "albumname": "Sus Canciones",
   "artistname": "Aitana"
+}
+,
+{
+  "title": "Chas! Y Aparezco a tu Lado",
+  "artist": "supersubmarina",
+  "addition": 815,
+  "release": 131.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "electroviral",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/S/supersubmarina_electroviral.png",
+  
+  "albumname": "Electroviral",
+  "artistname": "Supersubmarina"
 }
 ,
 {
@@ -2373,6 +2435,22 @@
 
   "albumname": "Look Sharp!",
   "artistname": "Roxette"
+}
+,
+{
+  "title": "Dani",
+  "artist": "maddie-zahm",
+  "addition": 825,
+  "release": 185.55,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "now-that-i’ve-been-honest",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maddie-zahm_now-that-i've-been-honest.png",
+
+  "albumname": "Now That I’ve Been Honest",
+  "artistname": "Maddie Zahm"
 }
 ,
 {
@@ -3496,6 +3574,38 @@
 }
 ,
 {
+  "title": "First Times",
+  "artist": "ed-sheeran",
+  "addition": 820,
+  "release": 183,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "equals",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_equals.png",
+
+  "albumname": "Equals",
+  "artistname": "Ed Sheeran"
+}
+,
+{
+  "title": "Física o química",
+  "artist": "angy",
+  "addition": 821,
+  "release": 133.3,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/A/angy_fisica-o-quimica.png",
+
+  "albumname": "",
+  "artistname": "Angy"
+}
+,
+{
   "title": "Flying Theme (from ''E. T. the Extraterrestial'')",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 651,
@@ -3509,6 +3619,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 4",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Follow Your Arrow",
+  "artist": "kacey-musgraves",
+  "addition": 822,
+  "release": 139.5,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "same-trailer-different-park",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/kacey-musgraves_same-trailer-different-park.png",
+  
+  "albumname": "Same Trailer Different Park",
+  "artistname": "Kacey Musgraves"
 }
 ,
 {
@@ -6336,6 +6462,22 @@
 }
 ,
 {
+  "title": "Lady Killer",
+  "artist": "maddie-zahm",
+  "addition": 823,
+  "release": 185.55,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "now-that-i’ve-been-honest",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/maddie-zahm_now-that-i've-been-honest.png",
+
+  "albumname": "Now That I’ve Been Honest",
+  "artistname": "Maddie Zahm"
+}
+,
+{
   "title": "Lady Writer",
   "artist": "dire-straits",
   "addition": 512,
@@ -6370,7 +6512,7 @@
 {
   "title": "Laika",
   "artist": "mecano",
-  "addition":317,
+  "addition": 317,
   "release": 73,
   "decade": "1980s",
   "year": 1988,
@@ -6430,7 +6572,22 @@
   "albumname": "Dish of the Day",
   "artistname": "Fools Garden"
 }
-
+,
+{
+  "title": "Les choristes",
+  "artist": "bruno-coulais,la-maitrise-de-saint-marc",
+  "addition": 818,
+  "release": 111,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "the-chorus-soundtrack",
+  "language": "french",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thechorus.png",
+  
+  "albumname": "The Chorus Soundtrack",
+  "artistname": "Bruno Coulais, La Maitrise de Saint Marc"
+}
 ,
 {
   "title": "Let It Be",
@@ -7988,6 +8145,22 @@
   
   "albumname": "Cuatro canciones",
   "artistname": "Los Ronaldos"
+}
+,
+{
+  "title": "Noelia",
+  "artist": "nino-bravo",
+  "addition": 814,
+  "release": 16,
+  "decade": "1970s",
+  "year": 1972,
+  "album": "mi-tierra",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/nino-bravo_mi-tierra.png",
+  
+  "albumname": "Mi tierra",
+  "artistname": "Nino Bravo"
 }
 , 
 {
@@ -10188,6 +10361,22 @@
 }
 ,
 {
+  "title": "STEP ON ME",
+  "artist": "maddie-zahm",
+  "addition": 824,
+  "release": 185.55,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "now-that-i’ve-been-honest",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/maddie-zahm_now-that-i've-been-honest.png",
+
+  "albumname": "Now That I’ve Been Honest",
+  "artistname": "Maddie Zahm"
+}
+,
+{
   "title": "Streets of London",
   "artist": "ralph-mctell",
   "addition": 284,
@@ -10715,7 +10904,22 @@
   "albumname": "The Album",
   "artistname": "ABBA"
 }
-
+,
+{
+  "title": "The Ballad of Lucy Gray Baird",
+  "artist": "rachel-zegler",
+  "addition": 811,
+  "release": 185.6,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "the-hunger-games-the-ballad-of-songbirds-and-snakes-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thehungergamestheballadofsongbirdsandsnakes.png",
+  
+  "albumname": "The Hunger Games: The Ballad of Songbirds and Snakes Soundtrack",
+  "artistname": "Rachel Zegler"
+}
 ,
 {
   "title": "The Bare Necessities",
@@ -11359,6 +11563,22 @@
 }
 ,
 {
+  "title": "this is what autumn feels like",
+  "artist": "jvke",
+  "addition": 817,
+  "release": 184.5,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "this-is-what-feels-like-vol-1-4",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jvke_this-is-what-feels-like-vol-1-4.png",
+  
+  "albumname": "This is What ___ Feels Like (Vol. 1-4)",
+  "artistname": "JVKE"
+}
+,
+{
   "title": "Thriller",
   "artist": "michael-jackson",
   "addition": 368,
@@ -11576,7 +11796,7 @@
   "album": "tell-me-i’m-pretty",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/C/cage-the-elephant_tell-me-i’m-pretty.png",
+  "img": "https://marswrites.neocities.org/albums/C/cage-the-elephant_tell-me-i'm-pretty.png",
   
   "albumname": "Tell Me I’m Pretty",
   "artistname": "Cage the Elephant"
@@ -11724,6 +11944,22 @@
   
   "albumname": "Un beso y una flor",
   "artistname": "Nino Bravo"
+}
+,
+{
+  "title": "Un Poco de Amor (Somebody to Love)",
+  "artist": "mocedades",
+  "addition": 816,
+  "release": 34.8,
+  "decade": "1980s",
+  "year": 1981,
+  "album": "desde-que-tu-te-has-ido",
+  "language": "spanish,",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/mocedades_desde-que-tu-te-has-ido.png",
+  
+  "albumname": "Desde que tú te has ido",
+  "artistname": "Mocedades"
 }
 ,
 {
@@ -11975,7 +12211,7 @@
   "year": 2004,
   "album": "the-chorus-soundtrack",
   "language": "french",
-  "extra": "cover,musical",
+  "extra": "musical",
   "img": "https://marswrites.neocities.org/albums/T/thechorus.png",
   
   "albumname": "The Chorus Soundtrack",
@@ -13010,6 +13246,3 @@
   "artistname": "The Cranberries"
 }
 ]
-
-
-
