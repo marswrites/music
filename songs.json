@@ -1,5 +1,37 @@
 [
 {
+  "title": "+ (MÁS)",
+  "artist": "aitana,cali-y-el-dandee",
+  "addition": 877,
+  "release": 178.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "11-razones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
+  
+  "albumname": "11 RAZONES",
+  "artistname": "Aitana, Cali y el Dandee"
+}
+,
+{
+  "title": "= (IGUAL)",
+  "artist": "aitana",
+  "addition": 881,
+  "release": 178.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "11-razones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
+  
+  "albumname": "11 RAZONES",
+  "artistname": "Aitana"
+}
+,
+{
   "title": "2 days into college",
   "artist": "aimee-carty",
   "addition": 812,
@@ -226,7 +258,22 @@
   "albumname": "Aladdin Soundtrack",
   "artistname": "Mena Massoud, Naomi Scott"
 }
-
+,
+{
+  "title": "Abracadabra",
+  "artist": "steve-miller-band",
+  "addition": 859,
+  "release": 37.04,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "abracadabra",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/steve-miller-band_abracadabra.png",
+  
+  "albumname": "Abracadabra",
+  "artistname": "Steve Miller Band"
+}
 ,
 {
   "title": "Accidentally in Love",
@@ -355,6 +402,23 @@
   "albumname": "Ya viene el sol",
   "artistname": "Mecano"
 }
+, 
+{
+  "title": "Akureyri",
+  "artist": "aitana,sebastian-yatra",
+  "addition": 884,
+  "release": 185.95,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_akureyri.png",
+  
+  "albumname": "",
+  "artistname": "Aitana, Sebastián Yatra"
+}
+
 , 
 {
   "title": "Alicia en el metalverso",
@@ -2054,6 +2118,22 @@
 }
 ,
 {
+  "title": "Clara Bow",
+  "artist": "taylor-swift",
+  "addition": 870,
+  "release": 185.9,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "the-tortured-poets-department",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_the-tortured-poets-department.png",
+  
+  "albumname": "The Tortured Poets Department",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Clavado en un Bar",
   "artist": "mana",
   "addition": 418,
@@ -2260,6 +2340,22 @@
   "albumname": "Alicia en el metalverso",
   "artistname": "Mägo de Oz"
 }
+, 
+{
+  "title": "Con la miel en los labios",
+  "artist": "aitana",
+  "addition": 876,
+  "release": 172.3,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "spoiler",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_spoiler.png",
+  
+  "albumname": "SPOILER",
+  "artistname": "Aitana"
+}
 ,
 {
   "title": "Control",
@@ -2323,6 +2419,22 @@
 
   "albumname": "Veneno en la Piel",
   "artistname": "Radio Futura"
+}
+,
+{
+  "title": "CORAZÓN SIN VIDA",
+  "artist": "aitana,sebastian-yatra",
+  "addition": 879,
+  "release": 178.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "11-razones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
+  
+  "albumname": "11 RAZONES",
+  "artistname": "Aitana, Sebastián Yatra"
 }
 ,
 {
@@ -2451,6 +2563,22 @@
   
   "albumname": "Entre el cielo y el suelo",
   "artistname": "Mecano"
+}
+,
+{
+  "title": "CUANDO TE FUISTE",
+  "artist": "aitana,natalia-lacunza",
+  "addition": 880,
+  "release": 178.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "11-razones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
+  
+  "albumname": "11 RAZONES",
+  "artistname": "Aitana, Natalia Lacunza"
 }
 ,
 {
@@ -2918,6 +3046,22 @@
 }
 ,
 {
+  "title": "Dream a Little Dream of Me",
+  "artist": "yiruma",
+  "addition": 860,
+  "release": 97.55,
+  "decade": "2000s",
+  "year": 2001,
+  "album": "first-love",
+  "language": "",
+  "extra": "cover,instrumental",
+  "img": "https://marswrites.neocities.org/albums/Y/yiruma_first-love.png",
+  
+  "albumname": "First Love",
+  "artistname": "Yiruma"
+}
+,
+{
   "title": "Dream On",
   "artist": "aerosmith",
   "addition": 291,
@@ -3190,6 +3334,22 @@
 }
 ,
 {
+  "title": "En chantant",
+  "artist": "louane",
+  "addition": 865,
+  "release": 152,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "the-bélier-family-soundtrack",
+  "language": "french",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/T/thebelierfamily.png",
+  
+  "albumname": "The Bélier Family Soundtrack",
+  "artistname": "Louane"
+}
+,
+{
   "title": "En Qué Estrella Estará",
   "artist": "nena-daconte",
   "addition": 162,
@@ -3444,6 +3604,22 @@
   
   "albumname": "folklore",
   "artistname": "Taylor Swift, Bon Iver"
+}
+,
+{
+  "title": "Eye in the Sky",
+  "artist": "the-alan-parsons-project",
+  "addition": 857,
+  "release": 37.03,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "eye-in-the-sky",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-alan-parsons-project_eye-in-the-sky.png",
+  
+  "albumname": "Eye in the Sky",
+  "artistname": "The Alan Parsons Project"
 }
 , 
 {
@@ -3703,6 +3879,22 @@
 }
 ,
 {
+  "title": "First Day of My Life",
+  "artist": "gnash,goody-grace",
+  "addition": 862,
+  "release": 157.42,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "us",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/G/gnash_us.png",
+  
+  "albumname": "us",
+  "artistname": "gnash"
+}
+,
+{
   "title": "First Times",
   "artist": "ed-sheeran",
   "addition": 820,
@@ -3893,6 +4085,22 @@
   "albumname": "#3",
   "artistname": "Alan Silvestri, Camille Berthollet, Julie Berthollet"
 }
+,
+{
+  "title": "Fortnight",
+  "artist": "taylor-swift,post-malone",
+  "addition": 867,
+  "release": 185.9,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "the-tortured-poets-department",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_the-tortured-poets-department.png",
+  
+  "albumname": "The Tortured Poets Department",
+  "artistname": "Taylor Swift, Post Malone"
+}
 , 
 {
   "title": "Fought & Lost",
@@ -4070,6 +4278,23 @@
   "albumname": "reputation",
   "artistname": "Taylor Swift"
 }
+,
+{
+  "title": "GHOST TOWN",
+  "artist": "benson-boone",
+  "addition": 874,
+  "release": 185.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "fireworks-and-rollerblades",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/benson-boone_fireworks-and-rollerblades.png",
+
+  "albumname": "Fireworks & Rollerblades",
+  "artistname": "Benson Boone"
+}
+
 ,
 {
   "title": "Girl Crush",
@@ -5704,7 +5929,6 @@
   "albumname": "Shrek Soundtrack",
   "artistname": "Smash Mouth"
 }
-
 ,
 {
   "title": "I'm a Believer",
@@ -5720,6 +5944,22 @@
   
   "albumname": "More of The Monkees",
   "artistname": "More of The Monkees"
+}
+,
+{
+  "title": "I'm Just a Kid",
+  "artist": "simple-plan",
+  "addition": 875,
+  "release": 97.7,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "no-pads-no-helmets-just-balls",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/simple-plan_no-pads-no-helmets-just-balls.png",
+  
+  "albumname": "No Pads, No Helmets… Just Balls",
+  "artistname": "Simple Plan"
 }
 , 
 {
@@ -5912,6 +6152,22 @@
   
   "albumname": "Frozen Soundtrack",
   "artistname": "Josh Gad"
+}
+,
+{
+  "title": "In The Stars",
+  "artist": "benson-boone",
+  "addition": 873,
+  "release": 185.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "fireworks-and-rollerblades",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/benson-boone_fireworks-and-rollerblades.png",
+
+  "albumname": "Fireworks & Rollerblades",
+  "artistname": "Benson Boone"
 }
 ,
 {
@@ -6120,6 +6376,22 @@
   
   "albumname": "lovestrong.",
   "artistname": "Christina Perri"
+}
+,
+{
+  "title": "Je vais t’aimer",
+  "artist": "louane",
+  "addition": 866,
+  "release": 152,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "the-bélier-family-soundtrack",
+  "language": "french",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/T/thebelierfamily.png",
+  
+  "albumname": "The Bélier Family Soundtrack",
+  "artistname": "Louane"
 }
 ,
 {
@@ -7057,6 +7329,22 @@
 }
 ,
 {
+  "title": "loml",
+  "artist": "taylor-swift",
+  "addition": 868,
+  "release": 185.9,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "the-tortured-poets-department",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_the-tortured-poets-department.png",
+  
+  "albumname": "The Tortured Poets Department",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Lonely Dancers",
   "artist": "conan-gray",
   "addition": 803,
@@ -7486,6 +7774,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 5",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Man! I Feel Like a Woman!",
+  "artist": "shania-twain",
+  "addition": 885,
+  "release": 88.95,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "come-on-over",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/shania-twain_come-on-over.png",
+
+  "albumname": "Come On Over",
+  "artistname": "Shania Twain"
 }
 ,
 {
@@ -8193,7 +8497,22 @@
   "albumname": "Cecilia",
   "artistname": "Cecilia"
 }
+,
+{
+  "title": "Narcissist (Piano Version)",
+  "artist": "lauren-spencer-smith",
+  "addition": 858,
+  "release": 185.4,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "mirror",
+  "language": "english",
+  "extra": "explicit,cover",
+  "img": "https://marswrites.neocities.org/albums/L/lauren-spencer-smith_mirror.png",
 
+  "albumname": "Mirror",
+  "artistname": "Lauren Spencer Smith"
+}
 ,
 {
   "title": "Need You Now",
@@ -8321,6 +8640,22 @@
   
   "albumname": "Deseo carnal",
   "artistname": "Alaska y Dinarama"
+}
+,
+{
+  "title": "Ni una más",
+  "artist": "aitana",
+  "addition": 864,
+  "release": 180.7,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_ni-una-más.png",
+  
+  "albumname": "",
+  "artistname": "Aitana"
 }
 ,
 {
@@ -8813,7 +9148,7 @@
   "album": "the-sound-of-my-memories",
   "language": "",
   "extra": "instrumental,cover",
-  "img": "https://marswrites.neocities.org/albums/C/chaiphat_tripipitsiriwat_the-sound-of-my-memories.png",
+  "img": "https://marswrites.neocities.org/albums/C/chaiphat-tripipitsiriwat_the-sound-of-my-memories.png",
   
   "albumname": "The Sound of My Memories",
   "artistname": "Chaiphat Tripipitsiriwat"
@@ -9010,6 +9345,22 @@
   
   "albumname": "Dos Caras Distintas",
   "artistname": "Los Secretos"
+}
+,
+{
+  "title": "Peter",
+  "artist": "taylor-swift",
+  "addition": 872,
+  "release": 185.9,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "the-tortured-poets-department-the-anthology,the-tortured-poets-department",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_the-tortured-poets-department-the-anthology.png",
+  
+  "albumname": "The Tortured Poets Department: The Anthology",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -9940,6 +10291,22 @@
   
   "albumname": "21",
   "artistname": "Adele"
+}
+,
+{
+  "title": "Seven Nation Army",
+  "artist": "the-white-stripes",
+  "addition": 856,
+  "release": 99.7,
+  "decade": "2000s",
+  "year": 2003,
+  "album": "elephant",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-white-stripes_elephant.png",
+  
+  "albumname": "Elephant",
+  "artistname": "The White Stripes"
 }
 ,
 {
@@ -10889,6 +11256,23 @@
 }
 ,
 {
+  "title": "Superman",
+  "artist": "taylor-swift",
+  "addition": 882,
+  "release": 133.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "speak-now,speak-now-taylor's-version",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_speak-now.png",
+  
+  "albumname": "Speak Now",
+  "artistname": "Taylor Swift"
+}
+
+,
+{
   "title": "Superman: March",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 639,
@@ -11111,6 +11495,23 @@
   "albumname": "Once historias y un piano",
   "artistname": "Pablo López"
 }
+,
+{
+  "title": "Te quiero",
+  "artist": "hombres-g",
+  "addition": 861,
+  "release": 60.8,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "la-cagaste-burt-lancaster",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/hombres-g_la-cagaste-burt-lancaster.png",
+
+  "albumname": "La cagaste... Burt Lancaster",
+  "artistname": "Hombres G"
+}
+
 , 
 {
   "title": "Teardrops on My Guitar",
@@ -11350,6 +11751,22 @@
   "img": "https://marswrites.neocities.org/albums/T/taylor-swift_fearless.png",
 
   "albumname": "Fearless",
+  "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "The Black Dog",
+  "artist": "taylor-swift",
+  "addition": 871,
+  "release": 185.9,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "the-tortured-poets-department-the-anthology,the-tortured-poets-department",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_the-tortured-poets-department-the-anthology.png",
+  
+  "albumname": "The Tortured Poets Department: The Anthology",
   "artistname": "Taylor Swift"
 }
 ,
@@ -11719,6 +12136,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 1",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "The Smallest Man Who Ever Lived",
+  "artist": "taylor-swift",
+  "addition": 869,
+  "release": 185.9,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "the-tortured-poets-department",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_the-tortured-poets-department.png",
+  
+  "albumname": "The Tortured Poets Department",
+  "artistname": "Taylor Swift"
 }
 ,
 {
@@ -12120,6 +12553,22 @@
 
   "albumname": "Annie (musical)",
   "artistname": "Charles Strouse, Andrea McArdle" 
+}
+,
+{
+  "title": "Too Good at Goodbyes",
+  "artist": "sam-smith",
+  "addition": 883,
+  "release": 163.45,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "the-thrill-of-it-all",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sam-smith_the-thrill-of-it-all.png",
+  
+  "albumname": "The Thrill of It All",
+  "artistname": "Sam Smith"
 }
 ,
 {
@@ -12988,6 +13437,22 @@
 }
 ,
 {
+  "title": "When I Get There (Live)",
+  "artist": "p!nk",
+  "addition": 863,
+  "release": 184.93,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "trustfall",
+  "language": "english",
+  "extra": "live",
+  "img": "https://marswrites.neocities.org/albums/P/p!nk_trustfall.png",
+  
+  "albumname": "TRUSTFALL",
+  "artistname": "P!nk"
+}
+,
+{
   "title": "When I Was Your Man",
   "artist": "bruno-mars",
   "addition": 7,
@@ -13274,6 +13739,22 @@
 
   "albumname": "OK Orchestra",
   "artistname": "AJR"
+}
+,
+{
+  "title": "X (POR)",
+  "artist": "aitana",
+  "addition": 878,
+  "release": 178.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "11-razones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
+  
+  "albumname": "11 RAZONES",
+  "artistname": "Aitana"
 }
 ,
 {
@@ -13726,8 +14207,3 @@
   "artistname": "The Cranberries"
 }
 ]
-
-
-
-
-
