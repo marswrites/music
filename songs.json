@@ -517,6 +517,22 @@
 }
 ,
 {
+  "title": "Alley Rose",
+  "artist": "conan-gray",
+  "addition": 831,
+  "release": 185.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "found-heaven",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/conan-gray_found-heaven.png",
+
+  "albumname": "Found Heaven",
+  "artistname": "Conan Gray"
+}
+,
+{
   "title": "Almost There",
   "artist": "anika-noni-rose",
   "addition": 598,
@@ -1252,6 +1268,22 @@
   "albumname": "Mistaken Identity",
   "artistname": "Kim Carnes"
 }
+,
+{
+  "title": "Better Alone",
+  "artist": "benson-boone",
+  "addition": 834,
+  "release": 183.9,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "walk-me-home",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/benson-boone_walk-me-home.png",
+
+  "albumname": "Walk Me Home…",
+  "artistname": "Benson Boone"
+}
 , 
 {
   "title": "Better Man",
@@ -1331,6 +1363,22 @@
   
   "albumname": "Life in Cartoon Motion",
   "artistname": "MIKA"
+}
+,
+{
+  "title": "Bigger Person",
+  "artist": "lauren-spencer-smith",
+  "addition": 838,
+  "release": 185.4,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "mirror",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lauren-spencer-smith_mirror.png",
+
+  "albumname": "Mirror",
+  "artistname": "Lauren Spencer Smith"
 }
 ,
 {
@@ -2054,6 +2102,22 @@
 }
 ,
 {
+  "title": "Coffee Cake",
+  "artist": "benson-boone",
+  "addition": 835,
+  "release": 185.2,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "pulse",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/benson-boone_pulse.png",
+
+  "albumname": "Pulse",
+  "artistname": "Benson Boone"
+}
+,
+{
   "title": "Colgando en tus manos",
   "artist": "carlos-baute,marta-sanchez",
   "addition": 73,
@@ -2393,7 +2457,7 @@
   "title": "Cuéntame un cuento",
   "artist": "celtas-cortos",
   "addition": 693,
-  "release": 77.6,
+  "release": 77.56,
   "decade": "1990s",
   "year": 1991,
   "album": "cuentame-un-cuento",
@@ -2694,6 +2758,22 @@
 }
 ,
 {
+  "title": "Do It All Again",
+  "artist": "lauren-spencer-smith",
+  "addition": 840,
+  "release": 185.4,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "mirror",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lauren-spencer-smith_mirror.png",
+
+  "albumname": "Mirror",
+  "artistname": "Lauren Spencer Smith"
+}
+,
+{
   "title": "Do You Want to Build a Snowman",
   "artist": "kristen-bell,agatha-lee-monn,katie-lopez",
   "addition": 784,
@@ -2803,6 +2883,22 @@
 
   "albumname": "Off the Wall",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Down in the Valley",
+  "artist": "the-head-and-the-heart",
+  "addition": 843,
+  "release": 135.3,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "the-head-and-the-heart",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-head-and-the-heart_the-head-and-the-heart.png",
+
+  "albumname": "The Head and the Heart",
+  "artistname": "The Head and the Heart"
 }
 ,
 {
@@ -3174,6 +3270,23 @@
 }
 ,
 {
+  "title": "Eres Tú",
+  "artist": "mocedades",
+  "addition": 852,
+  "release": 17.9,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "mocedades-4",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mocedades_mocedades-4.png",
+  
+  "albumname": "Mocedades 4",
+  "artistname": "Mocedades"
+}
+
+,
+{
   "title": "Escuela de Calor",
   "artist": "radio-futura",
   "addition": 198,
@@ -3273,7 +3386,7 @@
   "title": "(Everything I Do) I Do it For You",
   "artist": "bryan-adams",
   "addition": 453,
-  "release": 183.5,
+  "release": 77.57,
   "decade": "1990s",
   "year": 1991,
   "album": "robin-hood-prince-of-thieves-soundtrack",
@@ -3574,6 +3687,22 @@
 }
 ,
 {
+  "title": "First Day of My Life",
+  "artist": "bright-eyes",
+  "addition": 842,
+  "release": 117.5,
+  "decade": "2000s",
+  "year": 2005,
+  "album": "i'm-wide-awake-it's-morning",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/bright-eyes_i'm-wide-awake-it's-morning.png",
+  
+  "albumname": "I'm Wide Awake, It's Morning",
+  "artistname": "Bright Eyes"
+}
+,
+{
   "title": "First Times",
   "artist": "ed-sheeran",
   "addition": 820,
@@ -3603,6 +3732,22 @@
 
   "albumname": "",
   "artistname": "Angy"
+}
+,
+{
+  "title": "Flowers",
+  "artist": "lauren-spencer-smith",
+  "addition": 839,
+  "release": 185.4,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "mirror",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/L/lauren-spencer-smith_mirror.png",
+
+  "albumname": "Mirror",
+  "artistname": "Lauren Spencer Smith"
 }
 ,
 {
@@ -3861,7 +4006,22 @@
   "albumname": "A Kind of Magic",
   "artistname": "Queen"
 }
-
+,
+{
+  "title": "Gangsta’s Paradise,",
+  "artist": "coolio,l-v",
+  "addition": 829,
+  "release": 83.7,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "dangerous-minds-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/D/dangerousminds.png",
+  
+  "albumname": "Dangerous Minds Soundtrack",
+  "artistname": "Coolio, L. V."
+}
 ,
 {
   "title": "Gaston",
@@ -6768,6 +6928,38 @@
 }
 ,
 {
+  "title": "Listen to Your Heart",
+  "artist": "roxette",
+  "addition": 828,
+  "release": 73.5,
+  "decade": "1980s",
+  "year": 1988,
+  "album": "look-sharp!",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/roxette_look-sharp!.png",
+
+  "albumname": "Look Sharp!",
+  "artistname": "Roxette"
+}
+,
+{
+  "title": "Little Runaway",
+  "artist": "benson-boone",
+  "addition": 832,
+  "release": 185.2,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "pulse",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/benson-boone_pulse.png",
+
+  "albumname": "Pulse",
+  "artistname": "Benson Boone"
+}
+,
+{
   "title": "Live and Let Die",
   "artist": "wings",
   "addition": 17.8,
@@ -6961,6 +7153,22 @@
 }
 ,
 {
+  "title": "Lost in My Mind",
+  "artist": "the-head-and-the-heart",
+  "addition": 847,
+  "release": 135.3,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "the-head-and-the-heart",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-head-and-the-heart_the-head-and-the-heart.png",
+
+  "albumname": "The Head and the Heart",
+  "artistname": "The Head and the Heart"
+}
+,
+{
   "title": "Love is an Open Door",
   "artist": "kristen-bell, santino-fontana",
   "addition": 245,
@@ -7041,6 +7249,22 @@
 }
 ,
 {
+  "title": "Love Theme",
+  "artist": "michele-mangani,chaiphat-tripipitsiriwat",
+  "addition": 826,
+  "release": 185.75,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "",
+  "language": "",
+  "extra": "instrumental,cover",
+  "img": "https://marswrites.neocities.org/albums/M/michele-mangani_love-theme.png",
+  
+  "albumname": "",
+  "artistname": "Michele Mangani, Chaiphat Tripipitsiriwat"
+}
+,
+{
   "title": "Love Theme (from ''Cinema Paradiso'')",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 642,
@@ -7086,6 +7310,22 @@
   
   "albumname": "13 Reasons Why: Season 2 Soundtrack",
   "artistname": "Billie Eilish, Khalid"
+}
+,
+{
+  "title": "Lovely Darling",
+  "artist": "benson-boone",
+  "addition": 836,
+  "release": 185.2,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "pulse",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/benson-boone_pulse.png",
+
+  "albumname": "Pulse",
+  "artistname": "Benson Boone"
 }
 ,
 {
@@ -7667,6 +7907,22 @@
 }
 ,
 {
+  "title": "Million Reasons",
+  "artist": "lady-gaga",
+  "addition": 855,
+  "release": 157.48,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "joanne",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lady-gaga_joanne.png",
+  
+  "albumname": "Joanne",
+  "artistname": "Lady Gaga"
+}
+,
+{
   "title": "Million Years Ago",
   "artist": "adele",
   "addition": 22,
@@ -7760,6 +8016,22 @@
   
   "albumname": "Tangled Soundtrack",
   "artistname": "Donna Murphy"
+}
+,
+{
+  "title": "Mr. Brightside",
+  "artist": "the-killers",
+  "addition": 849,
+  "release": 113.51,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "hot-fuss",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-killers_hot-fuss.png",
+  
+  "albumname": "Hot Fuss",
+  "artistname": "The Killers"
 }
 ,
 {
@@ -8529,6 +8801,22 @@
 
   "albumname": "Please Please Me",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Pagina d’album (Instrumental)",
+  "artist": "chaiphat-tripipitsiriwat",
+  "addition": 827,
+  "release": 176.6,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "the-sound-of-my-memories",
+  "language": "",
+  "extra": "instrumental,cover",
+  "img": "https://marswrites.neocities.org/albums/C/chaiphat_tripipitsiriwat_the-sound-of-my-memories.png",
+  
+  "albumname": "The Sound of My Memories",
+  "artistname": "Chaiphat Tripipitsiriwat"
 }
 ,
 {
@@ -10056,19 +10344,35 @@
 }
 ,
 {
-  "title": "Smooth Criminal",
-  "artist": "michael-jackson",
-  "addition": 345,
-  "release": 69,
-  "decade": "1980s",
-  "year": 1987,
-  "album": "bad",
+  "title": "Slipping Through my Fingers",
+  "artist": "ethan-hodges",
+  "addition": 607,
+  "release": 183.81,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/E/ethan-hodges_slipping-through-my-fingers.png",
+  
+  "albumname": "",
+  "artistname": "Ethan Hodges"
+}
+,
+{
+  "title": "Smells Like Teen Spirit",
+  "artist": "nirvana",
+  "addition": 846,
+  "release": 77.58,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "nevermind",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/M/michael-jackson_bad.png",
+  "img": "https://marswrites.neocities.org/albums/N/nirvana_nevermind.png",
 
-  "albumname": "Bad",
-  "artistname": "Michael Jackson"
+  "albumname": "Nevermind",
+  "artistname": "Nirvana"
 }
 ,
 {
@@ -10310,6 +10614,22 @@
 
   "albumname": "Joyride",
   "artistname": "Roxette"
+}
+,
+{
+  "title": "Stairway to Heaven",
+  "artist": "led-zeppelin",
+  "addition": 845,
+  "release": 14.6,
+  "decade": "1970s",
+  "year": 1971,
+  "album": "led-zeppelin-iv",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/led-zeppelin_led-zeppelin-iv.png",
+
+  "albumname": "Led Zeppelin IV",
+  "artistname": "Led Zeppelin"
 }
 ,
 {
@@ -10697,6 +11017,22 @@
 }
 ,
 {
+  "title": "Take Me Out",
+  "artist": "franz-ferdinand",
+  "addition": 848,
+  "release": 104,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "franz-ferdinand",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/franz-ferdinand_franz-ferdinand.png",
+  
+  "albumname": "Franz Ferdinand",
+  "artistname": "Franz Ferdinand"
+}
+,
+{
   "title": "Take Me to Church",
   "artist": "hozier",
   "addition": 45,
@@ -10903,6 +11239,38 @@
   
   "albumname": "The Album",
   "artistname": "ABBA"
+}
+,
+{
+  "title": "The A Team",
+  "artist": "ed-sheeran",
+  "addition": 853,
+  "release": 135.95,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "+",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ed-sheeran_+.png",
+
+  "albumname": "+",
+  "artistname": "Ed Sheeran"
+}
+,
+{
+  "title": "The Ancient Art of Always Fucking Up",
+  "artist": "lewis-capaldi",
+  "addition": 841,
+  "release": 185.3,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "broken-by-desire-to-be-heavenly-sent",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/L/lewis-capaldi_broken-by-desire-to-be-heavenly-sent.png",
+
+  "albumname": "Broken by Desire to be Heavenly Sent",
+  "artistname": "Lewis Capaldi"
 }
 ,
 {
@@ -11242,6 +11610,22 @@
 }
 ,
 {
+  "title": "The Night We Met",
+  "artist": "lord-huron",
+  "addition": 854,
+  "release": 153.6,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "strange-trails",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lord-huron_strange-trails.png",
+
+  "albumname": "Strange Trails",
+  "artistname": "Lord Huron"
+}
+,
+{
   "title": "The Nights",
   "artist": "avicii",
   "addition": 207,
@@ -11566,6 +11950,38 @@
   "title": "this is what autumn feels like",
   "artist": "jvke",
   "addition": 817,
+  "release": 184.5,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "this-is-what-feels-like-vol-1-4",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jvke_this-is-what-feels-like-vol-1-4.png",
+  
+  "albumname": "This is What ___ Feels Like (Vol. 1-4)",
+  "artistname": "JVKE"
+}
+,
+{
+  "title": "this is what falling in love feels like",
+  "artist": "jvke",
+  "addition": 850,
+  "release": 184.5,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "this-is-what-feels-like-vol-1-4",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jvke_this-is-what-feels-like-vol-1-4.png",
+  
+  "albumname": "This is What ___ Feels Like (Vol. 1-4)",
+  "artistname": "JVKE"
+}
+,
+{
+  "title": "this is what heartbreak feels like",
+  "artist": "jvke",
+  "addition": 851,
   "release": 184.5,
   "decade": "2020s",
   "year": 2022,
@@ -11954,7 +12370,7 @@
   "decade": "1980s",
   "year": 1981,
   "album": "desde-que-tu-te-has-ido",
-  "language": "spanish,",
+  "language": "spanish",
   "extra": "cover",
   "img": "https://marswrites.neocities.org/albums/M/mocedades_desde-que-tu-te-has-ido.png",
   
@@ -12444,6 +12860,22 @@
 }
 ,
 {
+  "title": "West Side Story Medley",
+  "artist": "leonard-bernstein,joshua-bell,larisa-martinez,kamal-khan",
+  "addition": 830,
+  "release": 176.9,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "at-home-with-music",
+  "language": "english",
+  "extra": "cover,musical,live",
+  "img": "https://marswrites.neocities.org/albums/J/joshua-bell_at-home-with-music-live.png",
+  
+  "albumname": "At Home with Music (Live)",
+  "artistname": "Leonard Bernstein, Joshau Bell, Larisa Martinez, Kamal Khan"
+}
+,
+{
   "title": "What a Time",
   "artist": "julia-michaels,niall-horan",
   "addition": 252,
@@ -12489,6 +12921,22 @@
 
   "albumname": "Ben",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "What Was",
+  "artist": "benson-boone",
+  "addition": 833,
+  "release": 185.2,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "pulse",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/benson-boone_pulse.png",
+
+  "albumname": "Pulse",
+  "artistname": "Benson Boone"
 }
 ,
 {
@@ -12669,6 +13117,22 @@
 }
 ,
 {
+  "title": "Wild World",
+  "artist": "mr.-big",
+  "addition": 837,
+  "release": 80.96,
+  "decade": "1990s",
+  "year": 1993,
+  "album": "bump-ahead",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/mr.-big_bump-ahead.png",
+
+  "albumname": "Bump Ahead",
+  "artistname": "Mr. Big"
+}
+,
+{
   "title": "Winner",
   "artist": "conan-gray",
   "addition": 749,
@@ -12810,6 +13274,22 @@
 
   "albumname": "OK Orchestra",
   "artistname": "AJR"
+}
+,
+{
+  "title": "Yellow",
+  "artist": "coldplay",
+  "addition": 844,
+  "release": 95.3,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "parachutes",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/coldplay_parachutes.png",
+  
+  "albumname": "Parachutes",
+  "artistname": "Coldplay"
 }
 ,
 {
@@ -13246,3 +13726,8 @@
   "artistname": "The Cranberries"
 }
 ]
+
+
+
+
+
