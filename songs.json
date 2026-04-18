@@ -48,6 +48,22 @@
 }
 ,
 {
+  "title": "20 de abril",
+  "artist": "celtas-cortos",
+  "addition": 888,
+  "release": 77.56,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "cuentame-un-cuento",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/celtas-cortos_cuentame-un-cuento.png",
+  
+  "albumname": "Cuéntame un cuento",
+  "artistname": "Celtas Cortos"
+}
+,
+{
   "title": "20th Century Fox Fanfare",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 634,
@@ -1382,6 +1398,22 @@
 }
 ,
 {
+  "title": "illicit affairs",
+  "artist": "taylor-swift",
+  "addition": 766,
+  "release": 176.8,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "folklore",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_folklore.png",
+  
+  "albumname": "folklore",
+  "artistname": "Taylor Swift"
+}
+,
+{
   "title": "Bicycle Race",
   "artist": "queen",
   "addition": 257,
@@ -1443,6 +1475,22 @@
 
   "albumname": "Mirror",
   "artistname": "Lauren Spencer Smith"
+}
+,
+{
+  "title": "Billie Jean",
+  "artist": "michael-jackson",
+  "addition": 890,
+  "release": 37.3,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "thriller",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/michael-jackson_thriller.png",
+
+  "albumname": "Thriller",
+  "artistname": "Michael Jackson"
 }
 ,
 {
@@ -1827,6 +1875,22 @@
 
   "albumname": "The Lion King Soundtrack (1994)",
   "artistname": "Elton John"
+}
+,
+{
+  "title": "Can’t Buy Me Love",
+  "artist": "the-beatles",
+  "addition": 896,
+  "release": 6,
+  "decade": "1960s",
+  "year": 1964,
+  "album": "a-hard-days-night",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_a-hard-days-night.png",
+
+  "albumname": "A Hard Day's Night",
+  "artistname": "The Beatles"
 }
 ,
 {
@@ -2915,6 +2979,22 @@
   
   "albumname": "Frozen Soundtrack",
   "artistname": "Idina Menzel, Kristen Bell"
+}
+,
+{
+  "title": "Do You Want to Know a Secret",
+  "artist": "the-beatles",
+  "addition": 892,
+  "release": 4,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "please-please-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
+
+  "albumname": "Please Please Me",
+  "artistname": "The Beatles"
 }
 ,
 {
@@ -5896,7 +5976,22 @@
   "albumname": "LP",
   "artistname": "The Rembrandts"
 }
+,
+{
+  "title": "I'll Follow the Sun",
+  "artist": "the-beatles",
+  "addition": 897,
+  "release": 6.45,
+  "decade": "1960s",
+  "year": 1964,
+  "album": "beatles-for-sale",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_beatles-for-sale.png",
 
+  "albumname": "Beatles for Sale",
+  "artistname": "The Jackson 5"
+}
 ,
 {
   "title": "I'll Never Love Again",
@@ -7489,6 +7584,22 @@
 }
 ,
 {
+  "title": "Love Me Do",
+  "artist": "the-beatles",
+  "addition": 898,
+  "release": 4,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "please-please-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
+
+  "albumname": "Please Please Me",
+  "artistname": "The Beatles"
+}
+,
+{
   "title": "Love Me Like There's No Tomorrow",
   "artist": "freddie-mercury",
   "addition": 689,
@@ -8259,6 +8370,54 @@
 }
 ,
 {
+  "title": "Mirando al cielo",
+  "artist": "huecco",
+  "addition": 886,
+  "release": 123.3,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "assalto",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/huecco_assalto.png",
+  
+  "albumname": "Assalto",
+  "artistname": "Huecco"
+}
+,
+{
+  "title": "Misery",
+  "artist": "the-beatles",
+  "addition": 891,
+  "release": 4,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "please-please-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
+
+  "albumname": "Please Please Me",
+  "artistname": "The Beatles"
+}
+,
+{
+  "title": "Mirando al cielo (X Aniversario)",
+  "artist": "huecco,rozalen",
+  "addition": 887,
+  "release": 230,
+  "decade": "2020s",
+  "year": 2026,
+  "album": "crazyxxversario",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/H/huecco_crazyxxversario.png",
+  
+  "albumname": "CrazyXXversario",
+  "artistname": "Huecco"
+}
+,
+{
   "title": "Money, Money, Money",
   "artist": "abba",
   "addition": 288,
@@ -8652,7 +8811,7 @@
   "album": "",
   "language": "spanish",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/A/aitana_ni-una-más.png",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_ni-una-mas.png",
   
   "albumname": "",
   "artistname": "Aitana"
@@ -8896,6 +9055,22 @@
 
   "albumname": "Al final de este viaje...",
   "artistname": "Silvio Rodríguez"
+}
+,
+{
+  "title": "Ojos de gata",
+  "artist": "los-secretos",
+  "addition": 899,
+  "release": 77.75,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "adios-tristeza",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/los-secretos_adios-tristeza.png",
+
+  "albumname": "Adiós tristeza",
+  "artistname": "Los Secretos"
 }
 ,
 {
@@ -9636,18 +9811,18 @@
 }
 ,
 {
-  "title": "Please Please Me",
+  "title": "Please Mister Postman",
   "artist": "the-beatles",
-  "addition": 279,
-  "release": 4,
+  "addition": 895,
+  "release": 5.25,
   "decade": "1960s",
   "year": 1963,
-  "album": "please-please-me",
+  "album": "with-the-beatles",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_with-the-beatles.png",
 
-  "albumname": "Please Please Me",
+  "albumname": "With the Beatles",
   "artistname": "The Beatles"
 }
 ,
@@ -10532,6 +10707,22 @@
 
   "albumname": "Talking is Hard",
   "artistname": "WALK THE MOON"
+}
+,
+{
+  "title": "SI NO VAS A VOLVER",
+  "artist": "aitana",
+  "addition": 900,
+  "release": 178.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "11-razones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
+  
+  "albumname": "11 RAZONES",
+  "artistname": "Aitana"
 }
 ,
 {
@@ -12299,6 +12490,22 @@
 }
 ,
 {
+  "title": "There’s a Place",
+  "artist": "the-beatles",
+  "addition": 893,
+  "release": 4,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "please-please-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
+
+  "albumname": "Please Please Me",
+  "artistname": "The Beatles"
+}
+,
+{
   "title": "These Boots are Made for Walkin'",
   "artist": "nancy-sinatra",
   "addition": 444,
@@ -12441,6 +12648,22 @@
 
   "albumname": "Thriller",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Till There Was You",
+  "artist": "the-beatles",
+  "addition": 894,
+  "release": 5.25,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "with-the-beatles",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_with-the-beatles.png",
+
+  "albumname": "With the Beatles",
+  "artistname": "The Beatles"
 }
 , 
 {
