@@ -805,6 +805,22 @@
 }
 ,
 {
+  "title": "Angel in Blue Jeans",
+  "artist": "train",
+  "addition": 912,
+  "release": 148.3,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "bulletproof-picasso",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/train_bulletproof-picasso.png",
+
+  "albumname": "Bulletproof Picasso",
+  "artistname": "Train"
+}
+,
+{
   "title": "Anna (Go To Him)",
   "artist": "arthur-alexander",
   "addition": 278,
@@ -946,6 +962,22 @@
   
   "albumname": "Small Town Boy",
   "artistname": "Duncan Laurence"
+}
+,
+{
+  "title": "As the World Caves In",
+  "artist": "matt-maltese",
+  "addition": 906,
+  "release": 168.45,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "bad-contestant",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/matt-maltese_bad-contestant.png",
+  
+  "albumname": "Bad Contestant",
+  "artistname": "Matt Maltese"
 }
 ,
 {
@@ -1283,7 +1315,22 @@
   "albumname": "Divinely Uninspired to a Hellish Extent",
   "artistname": "Lewis Capaldi"
 }
-
+, 
+{
+  "title": "Bejeweled",
+  "artist": "taylor-swift",
+  "addition": 903,
+  "release": 141.7,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "midnights",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_midnights.png",
+  
+  "albumname": "Midnights",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "Belle",
@@ -2630,6 +2677,38 @@
 }
 ,
 {
+  "title": "Cry Cry",
+  "artist": "oceana",
+  "addition": 913,
+  "release": 127.5,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "love-supply",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/oceana_love-supply.png",
+  
+  "albumname": "Love Supply",
+  "artistname": "Oceana"
+}
+,
+{
+  "title": "Cuando sé que estás dormida",
+  "artist": "auryn",
+  "addition": 909,
+  "release": 140.02,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "anti-heroes",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/auryn-anti-heroes.png",
+  
+  "albumname": "Anti-Héroes",
+  "artistname": "Auryn"
+}
+,
+{
   "title": "CUANDO TE FUISTE",
   "artist": "aitana,natalia-lacunza",
   "addition": 880,
@@ -3174,6 +3253,22 @@
 }
 ,
 {
+  "title": "Drive By",
+  "artist": "train",
+  "addition": 915,
+  "release": 136.7,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "california-37",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/train_california-37.png",
+
+  "albumname": "California 37",
+  "artistname": "Train"
+}
+,
+{
   "title": "drivers license",
   "artist": "olivia-rodrigo",
   "addition": 210,
@@ -3604,6 +3699,22 @@
 
   "albumname": "Automatic for the People",
   "artistname": "R. E. M"
+}
+,
+{
+  "title": "Everybody Talks",
+  "artist": "neon-trees",
+  "addition": 914,
+  "release": 136.65,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "picture-show",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/N/neon-trees_picture-show.png",
+
+  "albumname": "Picture Show",
+  "artistname": "Neon Trees"
 }
 ,
 {
@@ -6700,6 +6811,22 @@
 }
 , 
 {
+  "title": "Karma",
+  "artist": "taylor-swift",
+  "addition": 904,
+  "release": 141.7,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "midnights",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_midnights.png",
+  
+  "albumname": "Midnights",
+  "artistname": "Taylor Swift"
+}
+, 
+{
   "title": "Karma Chameleon",
   "artist": "culture-club",
   "addition": 387,
@@ -8062,6 +8189,22 @@
   "albumname": "Pájaros en la cabeza",
   "artistname": "Amaral"
 }
+, 
+{
+  "title": "Mastermind",
+  "artist": "taylor-swift",
+  "addition": 905,
+  "release": 141.7,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "midnights",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/taylor-swift_midnights.png",
+  
+  "albumname": "Midnights",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "Maybe I'm Amazed",
@@ -9024,6 +9167,23 @@
   "albumname": "The Beatles (The White Album",
   "artistname": "The Beatles"
 }
+,
+{
+  "title": "obsessed",
+  "artist": "olivia-rodrigo",
+  "addition": 901,
+  "release": 185.45,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "guts",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_guts.png",
+
+  "albumname": "GUTS",
+  "artistname": "Olivia Rodrigo"
+}
+
 ,
 {
   "title": "Ode to My Family",
@@ -10982,6 +11142,22 @@
 }
 ,
 {
+  "title": "Somebody to Love",
+  "artist": "rachel-potter",
+  "addition": 908,
+  "release": 152.01,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "not-so-black-and-white",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/R/rachel-potter_not-so-black-and-white.png",
+  
+  "albumname": "Not So Black and White",
+  "artistname": "Rachel Potter"
+}
+,
+{
   "title": "Someone in the Crowd",
   "artist": "emma-stone,callie-hernandez,sonoya-mizuno,jessica-rothe",
   "addition": 5,
@@ -11574,6 +11750,22 @@
   "albumname": "Sweet Dreams (Are Made of This)",
   "artistname": "Eurythmics"
 }
+, 
+{
+  "title": "Sweeter than Fiction",
+  "artist": "taylor-swift",
+  "addition": 902,
+  "release": 141.7,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "one-chance-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/O/onechance.png",
+  
+  "albumname": "One Chance Soundtrack",
+  "artistname": "Taylor Swift"
+}
 ,
 {
   "title": "Tainted Love",
@@ -11831,6 +12023,22 @@
   
   "albumname": "The Album",
   "artistname": "ABBA"
+}
+,
+{
+  "title": "THATS WHAT I WANT",
+  "artist": "lil-nas-x",
+  "addition": 911,
+  "release": 182.2,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "montero",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/L/lil-nas-x_montero.png",
+  
+  "albumname": "MONTERO",
+  "artistname": "Lil Nas X"
 }
 ,
 {
@@ -12426,6 +12634,22 @@
 }
 ,
 {
+  "title": "The Way I Feel Inside",
+  "artist": "the-zombies",
+  "addition": 907,
+  "release": 6.47,
+  "decade": "1960s",
+  "year": 1965,
+  "album": "begin-here",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-zombies_begin-here.png",
+  
+  "albumname": "Begin Here",
+  "artistname": "The Zombies"
+}
+,
+{
   "title": "The Way I Loved You",
   "artist": "taylor-swift",
   "addition": 718,
@@ -12648,6 +12872,22 @@
 
   "albumname": "Thriller",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Tic tac",
+  "artist": "auryn",
+  "addition": 910,
+  "release": 151.5,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "the-hit-spain-soundtrack",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/hitlacancion.png",
+  
+  "albumname": "The Hit: Spain Soundtrack",
+  "artistname": "Auryn"
 }
 ,
 {
