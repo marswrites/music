@@ -64,6 +64,22 @@
 }
 ,
 {
+  "title": "2002",
+  "artist": "anne-marie",
+  "addition": 944,
+  "release": 168,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "speak-your-mind",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/anne-marie_speak-your-mind.png",
+  
+  "albumname": "Speak Your Mind",
+  "artistname": "Anne-Marie"
+}
+,
+{
   "title": "20th Century Fox Fanfare",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 634,
@@ -95,6 +111,22 @@
   "artistname": "Green Day"
 }
 ,
+{
+  "title": "3am",
+  "artist": "meghan-trainor",
+  "addition": 928,
+  "release": 151,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "title",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_title.png",
+  
+  "albumname": "Title",
+  "artistname": "Meghan Trainor"
+}
+,
  {"title": "7 Years",
   "artist": "lukas-graham",
   "addition": 251,
@@ -108,6 +140,22 @@
 
   "albumname": "Lukas Graham",
   "artistname": "Lukas Graham"
+}
+,  
+{
+  "title": "80s Mercedes",
+  "artist": "maren-morris",
+  "addition": 934,
+  "release":157.44,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "hero",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maren-morris_hero.png",
+  
+  "albumname": "Hero",
+  "artistname": "Maren Morris"
 }
 ,
  {"title": "888 (Live at Hoxton Hall)",
@@ -157,7 +205,6 @@
   "albumname": "A Kind of Magic",
   "artistname": "Queen"
 }
-
 ,
 {
   "title": "A Lovely Night",
@@ -174,7 +221,6 @@
   "albumname": "La La Land Soundtrack",
   "artistname": "Ryan Gosling, Emma Stone"
 }
-
 ,
 {
   "title": "A Million Dreams",
@@ -191,7 +237,6 @@
   "albumname": "The Greatest Showman Soundtrack",
   "artistname": "Ziv Zaifman, Michelle Williams, Hugh Jackman"
 }
-
 ,
 {
   "title": "A quién le importa",
@@ -208,7 +253,6 @@
   "albumname": "No es pecado",
   "artistname": "Alaska y Dinarama"
 }
-
 ,
 {
   "title": "A Thousand Years",
@@ -578,6 +622,22 @@
   
   "albumname": "Red (Taylor's Version)",
   "artistname": "Taylor Swift"
+}
+, 
+{
+  "title": "All Your Exes",
+  "artist": "julia-michaels",
+  "addition": 937,
+  "release": 180.8,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "not-in-chronological-order",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/J/julia-michaels_not-in-chronological-order.png",
+  
+  "albumname": "Not in Chronological Order",
+  "artistname": "Julia Michaels"
 }
 ,
 {
@@ -2453,6 +2513,22 @@
 }
 , 
 {
+  "title": "Complicated",
+  "artist": "avril-lavigne",
+  "addition": 940,
+  "release": 97.75,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "let-go",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/avril-lavigne_let-go.png",
+  
+  "albumname": "Let Go",
+  "artistname": "Avril Lavigne"
+}
+, 
+{
   "title": "Con la miel en los labios",
   "artist": "aitana",
   "addition": 876,
@@ -2610,6 +2686,22 @@
 
   "albumname": "Soundtrack of Hannah Montana: The Movie",
   "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Crazy in Love",
+  "artist": "beyonce,jay-z",
+  "addition": 923,
+  "release": 99.8,
+  "decade": "2000s",
+  "year": 2003,
+  "album": "dangerously-in-love",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/beyonce_dangerously-in-love.png",
+  
+  "albumname": "Dangerously in Love",
+  "artistname": "Beyoncé"
 }
 ,
 {
@@ -3862,6 +3954,22 @@
 }
 ,
 {
+  "title": "Fallin’",
+  "artist": "alicia-keys",
+  "addition": 939,
+  "release": 96.6,
+  "decade": "2000s",
+  "year": 2001,
+  "album": "songs-in-a-minor",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/alicia-keys_songs-in-a-minor.png",
+  
+  "albumname": "Songs in A Minor",
+  "artistname": "Alicia Keys"
+}
+,
+{
   "title": "Family Reunions",
   "artist": "maddie-zahm",
   "addition": 540,
@@ -3891,6 +3999,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 5",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Fast Car",
+  "artist": "tracy-chapman",
+  "addition": 916,
+  "release": 72.5,
+  "decade": "1980s",
+  "year": 1988,
+  "album": "tracy-chapman",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/tracy-chapman_tracy-chapman.png",
+
+  "albumname": "Tracy Chapman",
+  "artistname": "Tracy Chapman"
 }
 ,
 {
@@ -4439,6 +4563,22 @@
 }
 ,
 {
+  "title": "Genie in a Bottle",
+  "artist": "christina-aguilera",
+  "addition": 925,
+  "release": 92.5,
+  "decade": "1990s",
+  "year": 1999,
+  "album": "christina-aguilera",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/christina-aguilera_christina-aguilera.png",
+  
+  "albumname": "Christina Aguilera",
+  "artistname": "Christina Aguilera"
+}
+,
+{
   "title": "Get Back",
   "artist": "the-beatles",
   "addition": 301,
@@ -4502,7 +4642,22 @@
   "albumname": "Pain Killer",
   "artistname": "Little Big Town"
 }
+,
+{
+  "title": "girl i’ve always been",
+  "artist": "olivia-rodrigo",
+  "addition": 919,
+  "release": 185.45,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "guts",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_guts.png",
 
+  "albumname": "GUTS",
+  "artistname": "Olivia Rodrigo"
+}
 ,
 {
   "title": "Girl on Fire",
@@ -4630,6 +4785,22 @@
 
   "albumname": "SOUR",
   "artistname": "Olivia Rodrigo"
+}
+,
+{
+  "title": "Good Luck, Babe!",
+  "artist": "chappell-roan",
+  "addition": 917,
+  "release": 185.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/chappell-roan_good-luck-babe!.png",
+
+  "albumname": "",
+  "artistname": "Chappell Roan"
 }
 ,
 {
@@ -4950,6 +5121,22 @@
   
   "albumname": "Speak Now",
   "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Havana",
+  "artist": "camila-cabello,young-thug",
+  "addition": 933,
+  "release": 165.2,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "camila",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/camila-cabello_camila.png",
+  
+  "albumname": "Camila",
+  "artistname": "Camila Cabello"
 }
 ,
 {
@@ -5398,6 +5585,38 @@
 
   "albumname": "Footloose Soundtrack",
   "artistname": "Bonnie Tyler"
+}
+,
+{
+  "title": "Homesick",
+  "artist": "dua-lipa",
+  "addition": 932,
+  "release": 161.6,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "dua-lipa",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dua-lipa_dua-lipa.png",
+  
+  "albumname": "Dua Lipa",
+  "artistname": "Dua Lipa"
+}
+,
+{
+  "title": "Hometown Glory",
+  "artist": "adele",
+  "addition": 922,
+  "release": 122.8,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "19",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/A/adele_19.png",
+  
+  "albumname": "19",
+  "artistname": "Adele"
 }
 ,
 {
@@ -6198,6 +6417,22 @@
   
   "albumname": "Too Low for Zero",
   "artistname": "Elton John"
+}
+, 
+{
+  "title": "I’m with You",
+  "artist": "avril-lavigne",
+  "addition": 942,
+  "release": 97.75,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "let-go",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/avril-lavigne_let-go.png",
+  
+  "albumname": "Let Go",
+  "artistname": "Avril Lavigne"
 }
 ,
 {
@@ -7275,7 +7510,6 @@
   "albumname": "Frozen Soundtrack",
   "artistname": "Idina Menzel"
 }
-
 ,
 {
   "title": "Let Me Love You (Until You Learn To Love Yourself)",
@@ -7294,6 +7528,22 @@
 }
 ,
 {
+  "title": "Liability",
+  "artist": "lorde",
+  "addition": 927,
+  "release": 161.7,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "melodrama",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lorde_melodrama.png",
+  
+  "albumname": "Melodrama",
+  "artistname": "Lorde"
+}
+,
+{
   "title": "Libre",
   "artist": "nino-bravo",
   "addition": 77,
@@ -7307,6 +7557,22 @@
   
   "albumname": "Mi tierra",
   "artistname": "Nino Bravo"
+}
+, 
+{
+  "title": "Lie Like This",
+  "artist": "julia-michaels",
+  "addition": 938,
+  "release": 180.8,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "not-in-chronological-order",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/J/julia-michaels_not-in-chronological-order.png",
+  
+  "albumname": "Not in Chronological Order",
+  "artistname": "Julia Michaels"
 }
 , 
 {
@@ -7419,6 +7685,22 @@
   
   "albumname": "Everybody Else is Doing It, So Why Can't We?",
   "artistname": "The Cranberries"
+}
+,
+{
+  "title": "Lips Are Movin’",
+  "artist": "meghan-trainor",
+  "addition": 930,
+  "release": 151,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "title",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_title.png",
+  
+  "albumname": "Title",
+  "artistname": "Meghan Trainor"
 }
 ,
 {
@@ -7679,6 +7961,22 @@
 }
 ,
 {
+  "title": "Lost on You",
+  "artist": "lp",
+  "addition": 935,
+  "release": 159,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "lost-on-you",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lp_lost-on-you.png",
+
+  "albumname": "Lost on You",
+  "artistname": "Lost on You"
+}
+,
+{
   "title": "Love is an Open Door",
   "artist": "kristen-bell, santino-fontana",
   "addition": 245,
@@ -7804,6 +8102,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 3",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Love You Like a Love Song",
+  "artist": "selena-gomez-and-the-scene",
+  "addition": 943,
+  "release": 135.75,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "when-the-sun-goes-down",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/selena-gomez-and-the-scene_when-the-sun-goes-down.png",
+  
+  "albumname": "When the Sun Goes Down",
+  "artistname": "Selena Gomez & the Scene"
 }
 ,
 {
@@ -7964,6 +8278,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 3",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Make You Feel My Love",
+  "artist": "adele",
+  "addition": 921,
+  "release": 122.8,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "19",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/A/adele_19.png",
+  
+  "albumname": "19",
+  "artistname": "Adele"
 }
 ,
 {
@@ -9183,7 +9513,6 @@
   "albumname": "GUTS",
   "artistname": "Olivia Rodrigo"
 }
-
 ,
 {
   "title": "Ode to My Family",
@@ -9827,19 +10156,19 @@
 }
 ,
 {
-  "title": "Popular",
-  "artist": "glee-cast",
-  "addition": 510,
-  "release": 153.5,
-  "decade": "2010s",
-  "year": 2009,
-  "album": "2015",
+  "title": "Pon de Replay",
+  "artist": "rihanna",
+  "addition": 920,
+  "release": 118.3,
+  "decade": "2000s",
+  "year": 2005,
+  "album": "music-of-the-sun",
   "language": "english",
-  "extra": "cover,musical",
-  "img": "https://marswrites.neocities.org/albums/G/glee-cast_2009.png",
-
-  "albumname": "Glee: The Music: 2009",
-  "artistname": "Glee Cast"
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rihanna_music-of-the-sun.png",
+  
+  "albumname": "Music of the Sun",
+  "artistname": "Rihanna"
 }
 ,
 {
@@ -9856,6 +10185,22 @@
   
   "albumname": "The Little Mermaid Soundtrack",
   "artistname": "Pat Carroll, Disney"
+}
+,
+{
+  "title": "Popular",
+  "artist": "glee-cast",
+  "addition": 510,
+  "release": 153.5,
+  "decade": "2010s",
+  "year": 2009,
+  "album": "2015",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_2009.png",
+
+  "albumname": "Glee: The Music: 2009",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -10274,6 +10619,22 @@
   "albumname": "Ring of Fire: The Best of Johnny Cash",
   "artistname": "Johnny Cash"
 }
+,
+{
+  "title": "Riptide",
+  "artist": "vance-joy",
+  "addition": 945,
+  "release": 148.25,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "dream-your-life-away",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/V/vance-joy_dream-your-life-away.png",
+  
+  "albumname": "Dream Your Life Away",
+  "artistname": "Vance Joy"
+}
 , 
 {
   "title": "River Deep, Mountain High",
@@ -10450,7 +10811,6 @@
   "albumname": "Is There Anybody Out There?",
   "artistname": "A Great Big World"
 }
-
 ,
 {
   "title": "Say Something",
@@ -10466,6 +10826,22 @@
   
   "albumname": "Is There Anybody Out There?",
   "artistname": "A Great Big World, Christina Aguilera"
+}
+,
+{
+  "title": "scared of my guitar",
+  "artist": "olivia-rodrigo",
+  "addition": 918,
+  "release": 185.45,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "guts",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_guts.png",
+
+  "albumname": "GUTS",
+  "artistname": "Olivia Rodrigo"
 }
 ,
 {
@@ -10996,6 +11372,22 @@
   "albumname": "Estrella de mar",
   "artistname": "Amaral"
 }
+, 
+{
+  "title": "Sk8er Boy",
+  "artist": "avril-lavigne",
+  "addition": 941,
+  "release": 97.75,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "let-go",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/avril-lavigne_let-go.png",
+  
+  "albumname": "Let Go",
+  "artistname": "Avril Lavigne"
+}
 ,
 {
   "title": "Skyboy",
@@ -11396,6 +11788,22 @@
 
   "albumname": "",
   "artistname": "Wheatus"
+}
+,
+{
+  "title": "STAY",
+  "artist": "the-kid-laroi,justin-bieber",
+  "addition": 936,
+  "release": 176.8,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "fuck-love",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/T/the-kid-laroi_fuck-love.png",
+
+  "albumname": "F*ck Love",
+  "artistname": "The Kid LAROI, Justin Bieber"
 }
 ,
 {
@@ -12605,7 +13013,7 @@
   "title": "The Village",
   "artist": "wrabel",
   "addition": 774,
-  "release": 162.99,
+  "release": 161.99,
   "decade": "2010s",
   "year": 2017,
   "album": "",
@@ -12996,6 +13404,22 @@
   "album": "title",
   "language": "english",
   "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_title.png",
+  
+  "albumname": "Title",
+  "artistname": "Meghan Trainor"
+}
+,
+{
+  "title": "Title (Acoustic)",
+  "artist": "meghan-trainor",
+  "addition": 931,
+  "release": 151,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "title",
+  "language": "english",
+  "extra": "",
   "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_title.png",
   
   "albumname": "Title",
@@ -13610,7 +14034,6 @@
   "artistname": "Yiruma"
 }
 ,
-
 {
   "title": "Wake Me Up",
   "artist": "avicii",
@@ -13673,6 +14096,22 @@
   
   "albumname": "Brothers in Arms",
   "artistname": "Dire Straits"
+}
+,
+{
+  "title": "Walkashame",
+  "artist": "meghan-trainor",
+  "addition": 929,
+  "release": 151,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "title",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_title.png",
+  
+  "albumname": "Title",
+  "artistname": "Meghan Trainor"
 }
 ,
 {
@@ -14205,6 +14644,22 @@
 }
 ,
 {
+  "title": "Would You Rather",
+  "artist": "phoebe-bridgers",
+  "addition": 927,
+  "release": 162.7,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "stranger-in-the-alps",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/phoebe-bridgers_stranger-in-the-alps.png",
+
+  "albumname": "Stranger in the Alps",
+  "artistname": "Phoebe Bridgers"
+}
+,
+{
   "title": "X (POR)",
   "artist": "aitana",
   "addition": 878,
@@ -14490,6 +14945,22 @@
   
   "albumname": "Songs for You, Truths for Me",
   "artistname": "James Morrison"
+}
+, 
+{
+  "title": "(You Make Me Feel Like) A Natural Woman",
+  "artist": "kelly-clarkson",
+  "addition": 924,
+  "release": 99.75,
+  "decade": "2000s",
+  "year": 2003,
+  "album": "thankful",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/K/kelly-clarkson_thankful.png",
+  
+  "albumname": "Thankful",
+  "artistname": "Kelly Clarkson"
 }
 , 
 {
