@@ -1921,6 +1921,22 @@
 }
 ,
 {
+  "title": "Can I Be Him",
+  "artist": "james-arthur",
+  "addition": 972,
+  "release": 157.7,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "back-from-the-edge",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/james-arthur_back-from-the-edge.png",
+  
+  "albumname": "Back from the Edge",
+  "artistname": "James Arthur"
+}
+,
+{
   "title": "(Can We Be Friends?)",
   "artist": "conan-gray",
   "addition": 511,
@@ -2543,6 +2559,22 @@
   "albumname": "SPOILER",
   "artistname": "Aitana"
 }
+, 
+{
+  "title": "Contigo en la Distancia",
+  "artist": "christina-aguilera",
+  "addition": 952,
+  "release": 95.7,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "mi-reflejo",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/C/christina-aguilera_mi-reflejo.png",
+  
+  "albumname": "Mi reflejo",
+  "artistname": "Christina Aguilera"
+}
 ,
 {
   "title": "Control",
@@ -3118,6 +3150,22 @@
   
   "albumname": "Pájaros en la cabeza",
   "artistname": "Amaral"
+}
+,
+{
+  "title": "Die Young",
+  "artist": "kesha",
+  "addition": 963,
+  "release": 138.8,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "warrior",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/kesha_warrior.png",
+
+  "albumname": "Warrior",
+  "artistname": "Kesha"
 }
 ,
 {
@@ -4178,6 +4226,22 @@
 }
 ,
 {
+  "title": "Firework",
+  "artist": "katy-perry",
+  "addition": 962,
+  "release": 133.1,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "teenage-dream",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/katy-perry_teenage-dream.png",
+
+  "albumname": "Teenage Dream",
+  "artistname": "Katy Perry"
+}
+,
+{
   "title": "First Day of My Life",
   "artist": "bright-eyes",
   "addition": 842,
@@ -4579,6 +4643,22 @@
 }
 ,
 {
+  "title": "Genie in a Bottle",
+  "artist": "dove-cameron",
+  "addition": 953,
+  "release": 157.43,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "",
+  "language": "english",
+  "extra": "cover,disney,musical",
+  "img": "https://marswrites.neocities.org/albums/D/dove-cameron_gneie-in-a-bottle.png",
+  
+  "albumname": "promotional single for <i>Descendants 2</i>",
+  "artistname": "Dove Cameron"
+}
+,
+{
   "title": "Get Back",
   "artist": "the-beatles",
   "addition": 301,
@@ -4673,6 +4753,22 @@
 
   "albumname": "Girl on Fire",
   "artistname": "Alicia Keys"
+}
+, 
+{
+  "title": "Girls Just Wanna Have Fun",
+  "artist": "miley-cyrus",
+  "addition": 957,
+  "release": 123.7,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "breakout",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/miley-cyrus_breakout.png",
+  
+  "albumname": "Breakout",
+  "artistname": "Miley Cyrus"
 }
 , 
 {
@@ -6388,6 +6484,22 @@
 }
 , 
 {
+  "title": "I’m Not the Only One",
+  "artist": "sam-smith",
+  "addition": 949,
+  "release": 145.6,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "in-the-lonely-hour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sam-smith_in-the-lonely-hour.png",
+  
+  "albumname": "In the Lonely Hour",
+  "artistname": "Sam Smith"
+}
+, 
+{
   "title": "I’m Only Me When I’m With You",
   "artist": "taylor-swift",
   "addition": 709,
@@ -7239,6 +7351,22 @@
 }
 ,
 {
+  "title": "La La Land",
+  "artist": "demi-lovato",
+  "addition": 964,
+  "release": 123.9,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "don't-forget",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/demi-lovato_don't-forget.png",
+  
+  "albumname": "Don’t Forget",
+  "artistname": "Demi Lovato"
+}
+,
+{
   "title": "La, la, la",
   "artist": "massiel",
   "addition": 612,
@@ -7412,6 +7540,22 @@
   
   "albumname": "Descanso Dominical",
   "artistname": "Mecano"
+}
+,
+{
+  "title": "Last Friday Night (TGIF)",
+  "artist": "katy-perry",
+  "addition": 961,
+  "release": 133.1,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "teenage-dream",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/katy-perry_teenage-dream.png",
+
+  "albumname": "Teenage Dream",
+  "artistname": "Katy Perry"
 }
 ,
 {
@@ -7654,6 +7798,22 @@
   "albumname": "Like All My Friends",
   "artistname": "Francis Karel"
 }
+, 
+{
+  "title": "Like I Can",
+  "artist": "sam-smith",
+  "addition": 950,
+  "release": 145.6,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "in-the-lonely-hour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sam-smith_in-the-lonely-hour.png",
+  
+  "albumname": "In the Lonely Hour",
+  "artistname": "Sam Smith"
+}
 ,
 {
   "title": "Like My Father",
@@ -7701,6 +7861,22 @@
   
   "albumname": "Title",
   "artistname": "Meghan Trainor"
+}
+,
+{
+  "title": "Listen",
+  "artist": "beyonce",
+  "addition": 956,
+  "release": 118.9,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "b'day",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/R/roxetteB/beyonce_b'day.png",
+
+  "albumname": "B’Day",
+  "artistname": "Beyoncé"
 }
 ,
 {
@@ -7798,6 +7974,22 @@
   
   "albumname": "Lo mal que estoy y lo poco que me quejo",
   "artistname": "El Kanka"
+}
+,
+{
+  "title": "Locked Out of Heaven",
+  "artist": "bruno-mars",
+  "addition": 965,
+  "release": 139,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "unorthodox-jukebox",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/bruno-mars_unorthodox-jukebox.png",
+  
+  "albumname": "Unorthodox Jukebox",
+  "artistname": "Bruno Mars"
 }
 ,
 {
@@ -8923,6 +9115,22 @@
 }
 ,
 {
+  "title": "Moral of the Story",
+  "artist": "ashe,niall-horan",
+  "addition": 948,
+  "release": 180.9,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "ashlyn",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/A/ashe_ashlyn.png",
+
+  "albumname": "Ashlyn",
+  "artistname": "Ashe"
+}
+,
+{
   "title": "More than Words",
   "artist": "extreme",
   "addition": 305,
@@ -8968,6 +9176,22 @@
   
   "albumname": "Hot Fuss",
   "artistname": "The Killers"
+}
+,
+{
+  "title": "Mr. Curiosity",
+  "artist": "jason-mraz",
+  "addition": 954,
+  "release": 118.25,
+  "decade": "2000s",
+  "year": 2005,
+  "album": "mr.-a-z",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jason-mraz_mr.-a-z.png",
+  
+  "albumname": "Mr. A-Z",
+  "artistname": "Jason Mraz"
 }
 ,
 {
@@ -9689,6 +9913,22 @@
   "albumname": "Parallel Lines",
   "artistname": "Blondie"
 }
+, 
+{
+  "title": "Oops!... I Did It Again",
+  "artist": "britney-spears",
+  "addition": 951,
+  "release": 94.7,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "oops!-i-did-it-again",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/britney-spears_oops!-i-did-it-again.png",
+  
+  "albumname": "Oops!… I Did It Again",
+  "artistname": "Britney Spears"
+}
 ,
 {
   "title": "Our Love is God",
@@ -9912,6 +10152,22 @@
 
   "albumname": "Appetite for Destruction",
   "artistname": "Guns N' Roses"
+}
+,
+{
+  "title": "parents",
+  "artist": "YUNGBLUD",
+  "addition": 955,
+  "release": 177.8,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "weird!",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/Y/yungblud_weird!.png",
+
+  "albumname": "Weird!",
+  "artistname": "YUNGBLUD"
 }
 ,
 {
@@ -10265,6 +10521,22 @@
 
   "albumname": "Animales",
   "artistname": "Pereza"
+}
+,
+{
+  "title": "Propuesta Indecente",
+  "artist": "romeo-santos",
+  "addition": 973,
+  "release": 144.5,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "formula-vol-2",
+  "language": "spanish,english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/romeo-santos_formula-vol-2.png",
+
+  "albumname": "Formula, Vol. 2",
+  "artistname": "Romeo Santos"
 }
 ,
 {
@@ -10683,6 +10955,22 @@
   "albumname": "Honky Château",
   "artistname": "Elton John"
 }
+,
+{
+  "title": "Rolling in the Deep",
+  "artist": "adele",
+  "addition": 958,
+  "release": 135,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "21",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/adele_21.png",
+  
+  "albumname": "21",
+  "artistname": "Adele"
+}
 , 
 {
   "title": "Ronan",
@@ -10714,6 +11002,22 @@
 
   "albumname": "Lo que te conté mientras te hacías la dormida",
   "artistname": "La Oreja de Van Gogh"
+}
+,
+{
+  "title": "Rumour Has It",
+  "artist": "adele",
+  "addition": 959,
+  "release": 135,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "21",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/adele_21.png",
+  
+  "albumname": "21",
+  "artistname": "Adele"
 }
 ,
 {
@@ -10829,6 +11133,22 @@
 }
 ,
 {
+  "title": "Say You Won’t Let Go",
+  "artist": "james-arthur",
+  "addition": 971,
+  "release": 157.7,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "back-from-the-edge",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/james-arthur_back-from-the-edge.png",
+  
+  "albumname": "Back from the Edge",
+  "artistname": "James Arthur"
+}
+,
+{
   "title": "scared of my guitar",
   "artist": "olivia-rodrigo",
   "addition": 918,
@@ -10906,6 +11226,22 @@
 
   "albumname": "Furious 7 Soundtrack",
   "artistname": "Wiz Khalifa, Charlie Puth"
+}
+,
+{
+  "title": "Seeing Blind",
+  "artist": "niall-horan,maren-morris",
+  "addition": 947,
+  "release": 162.9,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "flicker",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/niall-horan_flickerpng",
+
+  "albumname": "Flicker",
+  "artistname": "Niall Horan, Maren Morris"
 }
 ,
 {
@@ -11486,6 +11822,22 @@
 }
 ,
 {
+  "title": "Smile",
+  "artist": "lily-allen",
+  "addition": 968,
+  "release": 118.85,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "alright-still",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/L/lily-allen_alright-still.png",
+
+  "albumname": "Alright, Still",
+  "artistname": "Lily Allen"
+}
+,
+{
   "title": "Soldadito marinero",
   "artist": "fito-y-fitipaldis",
   "addition": 88,
@@ -11839,6 +12191,22 @@
 }
 ,
 {
+  "title": "Stitches",
+  "artist": "shawn-mendes",
+  "addition": 946,
+  "release": 153.7,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "handwritten",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/shawn-mendes_handwritten.png",
+  
+  "albumname": "Handwritten",
+  "artistname": "Shawn Mendes"
+}
+,
+{
   "title": "Streets of London",
   "artist": "ralph-mctell",
   "addition": 284,
@@ -11868,6 +12236,22 @@
 
   "albumname": "Love at First Sting",
   "artistname": "Scorpions"
+}
+,
+{
+  "title": "stranger",
+  "artist": "olivia-rodrigo",
+  "addition": 967,
+  "release": 185.45,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "guts",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/O/olivia-rodrigo_guts.png",
+
+  "albumname": "GUTS",
+  "artistname": "Olivia Rodrigo"
 }
 ,
 {
@@ -12112,6 +12496,22 @@
 }
 ,
 {
+  "title": "Sweet but Psycho",
+  "artist": "ava-max",
+  "addition": 975,
+  "release": 176.95,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "heaven-and-hell",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ava-max_heaven-and-hell.png",
+
+  "albumname": "Heaven & Hell",
+  "artistname": "Ava Max"
+}
+,
+{
   "title": "Sweet Child o' Mine",
   "artist": "guns-n-roses",
   "addition": 272,
@@ -12350,6 +12750,22 @@
 
   "albumname": "Rush Soundtrack",
   "artistname": "Eric Clapton"
+}
+,
+{
+  "title": "Teenage Dream",
+  "artist": "katy-perry",
+  "addition": 960,
+  "release": 133.1,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "teenage-dream",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/katy-perry_teenage-dream.png",
+
+  "albumname": "Teenage Dream",
+  "artistname": "Katy Perry"
 }
 ,
 {
@@ -12799,6 +13215,22 @@
 
   "albumname": "Heathers (Broadway Cast Recording)",
   "artistname": "Barrett Wilbert Weed, Katie Ladner, Alice Lee, Jessica Keenan Wynn, Elle McLemore"
+}
+,
+{
+  "title": "The Miracle",
+  "artist": "queen",
+  "addition": 970,
+  "release": 74.52,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "the-miracle",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_the-miracle.png",
+  
+  "albumname": "The Miracle",
+  "artistname": "Queen"
 }
 ,
 {
@@ -13537,6 +13969,22 @@
   "albumname": "SOUR",
   "artistname": "Olivia Rodrigo"
 }
+,
+{
+  "title": "Treasure",
+  "artist": "bruno-mars",
+  "addition": 966,
+  "release": 139,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "unorthodox-jukebox",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/B/bruno-mars_unorthodox-jukebox.png",
+  
+  "albumname": "Unorthodox Jukebox",
+  "artistname": "Bruno Mars"
+}
 , 
 {
   "title": "Trouble",
@@ -13875,6 +14323,22 @@
 }
 ,
 {
+  "title": "Victoria’s Secret",
+  "artist": "jax",
+  "addition": 969,
+  "release": 186,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "dear-joe",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/J/jax_dear-joe,.png",
+  
+  "albumname": "Dear Joe,",
+  "artistname": "Jax"
+}
+,
+{
   "title": "Video Killed the Radio Star",
   "artist": "the-buggles",
   "addition": 452,
@@ -14192,6 +14656,22 @@
   
   "albumname": "Mad Max Beyond THunderdome Soundtrack",
   "artistname": "Tina Turner"
+}
+,
+{
+  "title": "We Don’t Talk Anymore",
+  "artist": "charlie-puth,selena-gomez",
+  "addition": 974,
+  "release": 157.28,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "nine-track-mind",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/charlie-puth_nine-track-mind.png",
+  
+  "albumname": "Nine Track Mind",
+  "artistname": "Charlie Puth, Selena Gomez"
 }
 ,
 {
