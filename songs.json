@@ -1183,6 +1183,39 @@
   "albumname": "Bad",
   "artistname": "Michael Jackson"
 }
+,
+{
+  "title": "bad guy",
+  "artist": "billie-eilish",
+  "addition": 990,
+  "release": 170.8,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "when-we-all-fall-asleep-where-do-we-go?",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/billie-eiliish_when-we-all-fall-asleep-where-do-we-go.png",
+
+  "albumname": "When We All Fall Asleep, Where Do We Go?",
+  "artistname": "Billie Eilish"
+}
+
+,
+{
+  "title": "Bang Bang",
+  "artist": "ariana-grande,jessie-j,nicki-minaj",
+  "addition": 983,
+  "release": 148.23,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "my-everything",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ariana-grande_my-everything.png",
+  
+  "albumname": "My Everything",
+  "artistname": "Ariana Grande, Jessie J, Nicki Minaj"
+}
 , 
 {
   "title": "Barcelona",
@@ -1790,6 +1823,22 @@
   
   "albumname": "The Blessed Unrest",
   "artistname": "Sara Bareilles"
+}
+,
+{
+  "title": "One Last Time",
+  "artist": "ariana-grande,zedd",
+  "addition": 981,
+  "release": 148.23,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "my-everything",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ariana-grande_my-everything.png",
+  
+  "albumname": "My Everything",
+  "artistname": "Ariana Grande, Zedd"
 }
 ,
 {
@@ -7623,6 +7672,22 @@
 }
 ,
 {
+  "title": "Let Her Go",
+  "artist": "passenger",
+  "addition": 979,
+  "release": 136.62,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "all-the-little-lights",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/passenger_all-the-little-lights.png",
+  
+  "albumname": "All the Little Lights",
+  "artistname": "Passenger"
+}
+,
+{
   "title": "Let It Be",
   "artist": "the-beatles",
   "addition": 96,
@@ -7669,6 +7734,22 @@
   
   "albumname": "The Complete Season Four",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Let’s Fall in Love for the Night",
+  "artist": "finneas",
+  "addition": 984,
+  "release": 174.4,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "blood-harmony",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/F/finneas_blood-harmony.png",
+  
+  "albumname": "Blood Harmony",
+  "artistname": "FINNEAS"
 }
 ,
 {
@@ -8711,6 +8792,23 @@
   "albumname": "Pájaros en la cabeza",
   "artistname": "Amaral"
 }
+,
+{
+  "title": "Marvin Gaye",
+  "artist": "charlie-puth,meghan-trainor",
+  "addition": 987,
+  "release": 157.28,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "nine-track-mind",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/charlie-puth_nine-track-mind.png",
+  
+  "albumname": "Nine Track Mind",
+  "artistname": "Charlie Puth, Meghan Trainor"
+}
+
 , 
 {
   "title": "Mastermind",
@@ -8827,6 +8925,22 @@
 }
 ,
 {
+  "title": "Me Too",
+  "artist": "meghan-trainor",
+  "addition": 976,
+  "release": 157.435,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "thank-you",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_thank-you.png",
+  
+  "albumname": "Thank You",
+  "artistname": "Meghan Trainor"
+}
+,
+{
   "title": "Mean",
   "artist": "taylor-swift",
   "addition": 684,
@@ -8888,6 +9002,22 @@
 
   "albumname": "Superache",
   "artistname": "Conan Gray"
+}
+,
+{
+  "title": "Mercy",
+  "artist": "shawn-mendes",
+  "addition": 986,
+  "release": 157.5,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "illuminate",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/shawn-mendes_illuminate.png",
+  
+  "albumname": "Shawn Mendes",
+  "artistname": "Illuminate"
 }
 ,
 {
@@ -9547,6 +9677,22 @@
 }
 ,
 {
+  "title": "NO",
+  "artist": "meghan-trainor",
+  "addition": 977,
+  "release": 157.435,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "thank-you",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/meghan-trainor_thank-you.png",
+  
+  "albumname": "Thank You",
+  "artistname": "Meghan Trainor"
+}
+,
+{
   "title": "No dudaría",
   "artist": "antonio-flores",
   "addition": 573,
@@ -9835,6 +9981,22 @@
 }
 ,
 {
+  "title": "One Call",
+  "artist": "charlie-puth",
+  "addition": 988,
+  "release": 157.28,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "nine-track-mind",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/charlie-puth_nine-track-mind.png",
+  
+  "albumname": "Nine Track Mind",
+  "artistname": "Charlie Puth"
+}
+,
+{
   "title": "One Day in Your Life",
   "artist": "michael-jackson",
   "addition": 363,
@@ -9880,6 +10042,22 @@
   
   "albumname": "Aladdin Soundtrack",
   "artistname": "Brad Kane, Disney"
+}
+,
+{
+  "title": "One Last Time",
+  "artist": "ariana-grande",
+  "addition": 980,
+  "release": 148.23,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "my-everything",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ariana-grande_my-everything.png",
+  
+  "albumname": "My Everything",
+  "artistname": "Ariana Grande"
 }
 ,
 {
@@ -10476,6 +10654,22 @@
 }
 ,
 {
+  "title": "Popular Song",
+  "artist": "mika,ariana-grande",
+  "addition": 978,
+  "release": 136.9,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-origin-of-love",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mika_the-origin-of-love.png",
+
+  "albumname": "The Origin of Love",
+  "artistname": "MIKA, Ariana Grande"
+}
+,
+{
   "title": "Por Una Cabeza",
   "artist": "carlos-gardel",
   "addition": 795,
@@ -10521,6 +10715,22 @@
 
   "albumname": "Animales",
   "artistname": "Pereza"
+}
+,
+{
+  "title": "Problem",
+  "artist": "ariana-grande,iggy-azalea",
+  "addition": 982,
+  "release": 148.23,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "my-everything",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ariana-grande_my-everything.png",
+  
+  "albumname": "My Everything",
+  "artistname": "Ariana Grande, Iggy Azalea"
 }
 ,
 {
@@ -13985,6 +14195,22 @@
   "albumname": "Unorthodox Jukebox",
   "artistname": "Bruno Mars"
 }
+,
+{
+  "title": "Treat You Better",
+  "artist": "shawn-mendes",
+  "addition": 985,
+  "release": 157.5,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "illuminate",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/shawn-mendes_illuminate.png",
+  
+  "albumname": "Shawn Mendes",
+  "artistname": "Illuminate"
+}
 , 
 {
   "title": "Trouble",
@@ -15041,6 +15267,22 @@
 
   "albumname": "The Joshua Tree",
   "artistname": "U2"
+}
+,
+{
+  "title": "Woman",
+  "artist": "doja-cat",
+  "addition": 989,
+  "release": 182,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "planet-her",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/D/doja-cat_planet-her.png",
+
+  "albumname": "Planet Her",
+  "artistname": "Doja Cat"
 }
 ,
 {
