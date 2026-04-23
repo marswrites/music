@@ -255,6 +255,22 @@
 }
 ,
 {
+  "title": "A Spoonful of Sugar",
+  "artist": "julie-andrews",
+  "addition": 1041,
+  "release": 6.2,
+  "decade": "1960s",
+  "year": 1964,
+  "album": "mary-poppins-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/M/marypoppins.png",
+  
+  "albumname": "Mary Poppins Soundtrack",
+  "artistname": "Julie Andrews"
+}
+,
+{
   "title": "A Thousand Years",
   "artist": "christina-perri",
   "addition": 126,
@@ -1153,6 +1169,22 @@
 }
 ,
 {
+  "title": "Baby Mine",
+  "artist": "betty-noyes",
+  "addition": 1035,
+  "release": 0.3,
+  "decade": "1950s+",
+  "year": 1941,
+  "album": "dumbo-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/D/dumbo.png",
+  
+  "albumname": "Dumbo Soundtrack",
+  "artistname": "Betty Noyes"
+}
+,
+{
   "title": "Back to Black",
   "artist": "amy-winehouse",
   "addition": 14,
@@ -1278,6 +1310,22 @@
   
   "albumname": "¿Dónde está el país de las hadas?",
   "artistname": "Mecano"
+}
+,
+{
+  "title": "Basket Case",
+  "artist": "green-day",
+  "addition": 1027,
+  "release": 80.97,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "dookie",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/G/green-day_dookie.png",
+  
+  "albumname": "Dookie",
+  "artistname": "Green Day"
 }
 ,
 {
@@ -1457,6 +1505,22 @@
 }
 ,
 {
+  "title": "Bella Notte",
+  "artist": "george-givot,bill-thompson,disney-studio-chorus",
+  "addition": 1033,
+  "release": 0.9,
+  "decade": "1950s+",
+  "year": 1955,
+  "album": "lady-and-the-tramp-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/L/ladyandthetramp.png",
+  
+  "albumname": "Lady and the Tramp Soundtrack",
+  "artistname": "George Givot, Bill Thompson, Disney Studio Chorus"
+}
+,
+{
   "title": "Belle",
   "artist": "luke-evans,emma-watson,beauty-and-the-beast-cast",
   "addition": 108,
@@ -1470,6 +1534,22 @@
   
   "albumname": "Beauty and the Beast Soundtrack",
   "artistname": "Luke Evans, Emma Watson, Beauty and the Beast Cast"
+}
+,
+{
+  "title": "Belle",
+  "artist": "richard-white,paige-o'hara,beauty-and-the-beast-cast,disney",
+  "addition": 1050,
+  "release": 161,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "beauty-and-the-beast-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeastold.png",
+  
+  "albumname": "Beauty and the Beast Soundtrack (1991)",
+  "artistname": "Richard White, Paige O’Hara, Beauty and the Beast Cast, Disney"
 }
 ,
 {
@@ -1569,9 +1649,9 @@
 }
 ,
 {
-  "title": "illicit affairs",
+  "title": "betty",
   "artist": "taylor-swift",
-  "addition": 766,
+  "addition": 889,
   "release": 176.8,
   "decade": "2020s",
   "year": 2020,
@@ -1582,6 +1662,22 @@
   
   "albumname": "folklore",
   "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Bibbidi-Bobbidi-Boo",
+  "artist": "verna-felton",
+  "addition": 1038,
+  "release": 0.6,
+  "decade": "1950s+",
+  "year": 1950,
+  "album": "cinderella-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/C/cinderella.png",
+  
+  "albumname": "Cinderella Soundtrack",
+  "artistname": "Verna Felton"
 }
 ,
 {
@@ -2209,6 +2305,22 @@
 }
 , 
 {
+  "title": "Carrie",
+  "artist": "europe",
+  "addition": 1024,
+  "release": 60.9,
+  "decade": "1980s",
+  "year": 1986,
+  "album": "the-final-countdown",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/europe_the-final-countdown.png",
+  
+  "albumname": "The Final Countdown",
+  "artistname": "Europe"
+}
+, 
+{
   "title": "Carry On",
   "artist": "fun.",
   "addition": 397,
@@ -2398,6 +2510,22 @@
   
   "albumname": "Is There Anybody Out There?",
   "artistname": "A Great Big World"
+}
+,
+{
+  "title": "Chim Chim Cher-ee",
+  "artist": "julie-andrews,dick-van-dyke,karen-dotrice,matthew-garber",
+  "addition": 1044,
+  "release": 6.2,
+  "decade": "1960s",
+  "year": 1964,
+  "album": "mary-poppins-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/M/marypoppins.png",
+  
+  "albumname": "Mary Poppins Soundtrack",
+  "artistname": "Dick Van Dyke, Julie Andrews, Karen Dotrice, Matthew Garber"
 }
 ,
 {
@@ -2894,6 +3022,22 @@
   
   "albumname": "Lover",
   "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Cruella De Vil",
+  "artist": "bill-lee",
+  "addition": 1047,
+  "release": 3.3,
+  "decade": "1960s",
+  "year": 1961,
+  "album": "one-hundred-and-one-dalmatians-cover",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/O/onehundredandonedalmatians.png",
+  
+  "albumname": "One Hundred and One Dalmatians Soundtrack",
+  "artistname": "Bill Lee"
 }
 ,
 {
@@ -4514,6 +4658,23 @@
 }
 ,
 {
+  "title": "Following the Leader",
+  "artist": "bobby-driscoll,paul-collins",
+  "addition": 1043,
+  "release": 0.8,
+  "decade": "1950s+",
+  "year": 1953,
+  "album": "peter-pan-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/P/peterpan.png",
+  
+  "albumname": "Peter Pan Soundtrack",
+  "artistname": "Bobby Driscoll, Paul Collins"
+}
+
+,
+{
   "title": "Foolish One",
   "artist": "taylor-swift",
   "addition": 800,
@@ -4812,7 +4973,7 @@
   "album": "",
   "language": "english",
   "extra": "cover,disney,musical",
-  "img": "https://marswrites.neocities.org/albums/D/dove-cameron_gneie-in-a-bottle.png",
+  "img": "https://marswrites.neocities.org/albums/D/dove-cameron_genie-in-a-bottle.png",
   
   "albumname": "promotional single for <i>Descendants 2</i>",
   "artistname": "Dove Cameron"
@@ -5556,6 +5717,22 @@
 }
 ,
 {
+  "title": "Heffalumps and Woozles",
+  "artist": "disney-studio-chorus",
+  "addition": 1049,
+  "release": 10.2,
+  "decade": "1960s",
+  "year": 1967,
+  "album": "winnie-the-pooh-and-the-blustery-day-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/W/winniethepoohandtheblusterydaysoundtrack.png",
+
+  "albumname": "Winnie the Pooh and the Blustery Day Soundtrack",
+  "artistname": "Disney Studio Chorus"
+}
+,
+{
   "title": "Hello",
   "artist": "adele",
   "addition": 773,
@@ -5972,6 +6149,22 @@
 }
 ,
 {
+  "title": "Hot Patootie, Bless My Soul",
+  "artist": "meat-loaf",
+  "addition": 1025,
+  "release": 22,
+  "decade": "1970s",
+  "year": 1975,
+  "album": "the-rocky-horror-picture-show-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/therockyhorrorpictureshow.png",
+  
+  "albumname": "The Rocky Horror Picture Show Soundtrack",
+  "artistname": "Meat Loaf"
+}
+,
+{
   "title": "Hotel California",
   "artist": "eagles",
   "addition": 232,
@@ -6385,6 +6578,22 @@
 
   "albumname": "The Joshua Tree",
   "artistname": "U2"
+}
+,
+{
+  "title": "I Wan’na Be Like You (The Monkey Song)",
+  "artist": "louis-prima,phil-harris,bruce-reitherman",
+  "addition": 1045,
+  "release": 10,
+  "decade": "1960s",
+  "year": 1967,
+  "album": "the-jungle-book-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/T/thejunglebook.png",
+  
+  "albumname": "The Jungle Book Soundtrack",
+  "artistname": "Louis Prima, Phil Harris, Bruce Reitherman"
 }
 ,
 {
@@ -7799,6 +8008,22 @@
 }
 ,
 {
+  "title": "Lavender Blue (Dilly Dilly)",
+  "artist": "burl-ives",
+  "addition": 1037,
+  "release": 0.45,
+  "decade": "1950s+",
+  "year": 1948,
+  "album": "so-dear-to-my-heart-soundtrack",
+  "language": "english",
+  "extra": "cover,musical,disney",
+  "img": "https://marswrites.neocities.org/albums/S/sodeartomyheart.png",
+  
+  "albumname": "So Dear to My Heart Soundtrack",
+  "artistname": "Burl Ives"
+}
+,
+{
   "title": "Leaving on a Jet Plane",
   "artist": "peter-paul-and-mary",
   "addition": 333,
@@ -8102,6 +8327,22 @@
   "albumname": "In the Lonely Hour",
   "artistname": "Sam Smith"
 }
+, 
+{
+  "title": "Like I Can",
+  "artist": "sam-smith,aitana",
+  "addition": 1030,
+  "release": 145.6,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "in-the-lonely-hour",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/S/sam-smith_in-the-lonely-hour.png",
+  
+  "albumname": "In the Lonely Hour",
+  "artistname": "Sam Smith, Aitana"
+}
 ,
 {
   "title": "Like My Father",
@@ -8202,8 +8443,8 @@
 {
   "title": "Live and Let Die",
   "artist": "wings",
-  "addition": 17.8,
-  "release": 63,
+  "addition": 571,
+  "release": 17.8,
   "decade": "1970s",
   "year": 1973,
   "album": "live-and-let-die",
@@ -8729,6 +8970,22 @@
 }
 , 
 {
+  "title": "Luka",
+  "artist": "suzanne-vega",
+  "addition": 1034,
+  "release": 66.3,
+  "decade": "1980s",
+  "year": 1987,
+  "album": "solitude-standing",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/suzanne-vega_solitude-standing.png",
+  
+  "albumname": "Solitude Standing",
+  "artistname": "Suzanne Vega"
+}
+, 
+{
   "title": "Luna de sangre",
   "artist": "mago-de-oz",
   "addition": 804,
@@ -8793,6 +9050,22 @@
 }
 ,
 {
+  "title": "Main Title (The Second Star to the Right)/All This Has Happened Before",
+  "artist": "the-jud-conlon-chorus",
+  "addition": 1039,
+  "release": 0.8,
+  "decade": "1950s+",
+  "year": 1953,
+  "album": "peter-pan-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/P/peterpan.png",
+  
+  "albumname": "Peter Pan Soundtrack",
+  "artistname": "The Jud Conlon Chorus"
+}
+,
+{
   "title": "Main Titles (from ''The Avengers'')",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 648,
@@ -8806,6 +9079,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 3",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Make Me Wanna Die",
+  "artist": "the-pretty-reckless",
+  "addition": 1021,
+  "release": 133.15,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "light-me-up",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-pretty-reckless_light-me-up.png",
+  
+  "albumname": "Light Me Up",
+  "artistname": "The Pretty Reckless"
 }
 ,
 {
@@ -9451,22 +9740,6 @@
 }
 ,
 {
-  "title": "Misery",
-  "artist": "the-beatles",
-  "addition": 891,
-  "release": 4,
-  "decade": "1960s",
-  "year": 1963,
-  "album": "please-please-me",
-  "language": "english",
-  "extra": "",
-  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
-
-  "albumname": "Please Please Me",
-  "artistname": "The Beatles"
-}
-,
-{
   "title": "Mirando al cielo (X Aniversario)",
   "artist": "huecco,rozalen",
   "addition": 887,
@@ -9480,6 +9753,38 @@
   
   "albumname": "CrazyXXversario",
   "artistname": "Huecco"
+}
+,
+{
+  "title": "Misery Business",
+  "artist": "paramore",
+  "addition": 1022,
+  "release": 122.4,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "riot!",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/paramore_riot!.png",
+
+  "albumname": "Riot!",
+  "artistname": "Paramore"
+}
+,
+{
+  "title": "Misery",
+  "artist": "the-beatles",
+  "addition": 891,
+  "release": 4,
+  "decade": "1960s",
+  "year": 1963,
+  "album": "please-please-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_please-please-me.png",
+
+  "albumname": "Please Please Me",
+  "artistname": "The Beatles"
 }
 ,
 {
@@ -10265,6 +10570,23 @@
   "albumname": "Pimpinela",
   "artistname": "Pimpinela"
 }
+,
+{
+  "title": "Once Upon a Dream",
+  "artist": "mary-costa,bill-shirley",
+  "addition": 1046,
+  "release": 1.61,
+  "decade": "1950s+",
+  "year": 1959,
+  "album": "sleeping-beauty-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/S/sleepingbeauty.png",
+
+  "albumname": "Sleeping Beauty Soundtrack",
+  "artistname": "Mary Costa, Bill Shirley"
+}
+
 ,
 {
   "title": "One",
@@ -11998,6 +12320,22 @@
 , 
 {
   "title": "She",
+  "artist": "dodie",
+  "addition": 1028,
+  "release": 169.3,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "human",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dodie_human.png",
+  
+  "albumname": "Human",
+  "artistname": "dodie"
+}
+, 
+{
+  "title": "She",
   "artist": "elvis-costello",
   "addition": 482,
   "release": 91.5,
@@ -12510,6 +12848,22 @@
 }
 ,
 {
+  "title": "Someday My Prince Will Come",
+  "artist": "adriana-caselotti",
+  "addition": 1031,
+  "release": 0.1,
+  "decade": "1950s+",
+  "year": 1938,
+  "album": "snow-white-and-the-seven-dwarfs-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/S/snowwhiteandthesevendwarfs.png",
+  
+  "albumname": "Snow White and the Seven Dwarfs",
+  "artistname": "Adriana Caselotti"
+}
+,
+{
   "title": "Someone in the Crowd",
   "artist": "emma-stone,callie-hernandez,sonoya-mizuno,jessica-rothe",
   "addition": 5,
@@ -12764,6 +13118,22 @@
 
   "albumname": "F*ck Love",
   "artistname": "The Kid LAROI, Justin Bieber"
+}
+, 
+{
+  "title": "Stay With Me",
+  "artist": "sam-smith",
+  "addition": 1023,
+  "release": 145.6,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "in-the-lonely-hour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sam-smith_in-the-lonely-hour.png",
+  
+  "albumname": "In the Lonely Hour",
+  "artistname": "Sam Smith"
 }
 ,
 {
@@ -13052,6 +13422,22 @@
   
   "albumname": "Take the Heat off Me",
   "artistname": "Boney M."
+}
+,
+{
+  "title": "Supercalifragilisticexpialidocious",
+  "artist": "julie-andrews,dick-van-dyke,the-pearlie-chorus",
+  "addition": 1042,
+  "release": 6.2,
+  "decade": "1960s",
+  "year": 1964,
+  "album": "mary-poppins-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/M/marypoppins.png",
+  
+  "albumname": "Mary Poppins Soundtrack",
+  "artistname": "Julie Andrews, Dick Van Dyke, The Pearlie Chorus"
 }
 ,
 {
@@ -13438,6 +13824,22 @@
 
   "albumname": "GUTS",
   "artistname": "Olivia Rodrigo"
+}
+,
+{
+  "title": "Teenagers",
+  "artist": "my-chemical-romance",
+  "addition": 1026,
+  "release": 119.49,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "the-black-parade",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/my-chemical-romance_the-black-parade.png",
+
+  "albumname": "The Black Parade",
+  "artistname": "My Chemical Romance"
 }
 , 
 {
@@ -15604,6 +16006,22 @@
 }
 ,
 {
+  "title": "When You Wish Upon a Star",
+  "artist": "cliff-edwards,disney-studio-chorus",
+  "addition": 1032,
+  "release": 0.2,
+  "decade": "1950s+",
+  "year": 1940,
+  "album": "pinocchio-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/P/pinocchio.png",
+  
+  "albumname": "Pinocchio Soundtrack",
+  "artistname": "Cliff Edwards, Disney Studio Chorus"
+}
+,
+{
   "title": "While My Guitar Gently Weeps",
   "artist": "the-beatles",
   "addition": 303,
@@ -15697,6 +16115,22 @@
 
   "albumname": "Found Heaven",
   "artistname": "Conan Gray"
+}
+,
+{
+  "title": "Winnie the Pooh",
+  "artist": "disney-studio-chorus",
+  "addition": 1048,
+  "release": 8.2,
+  "decade": "1960s",
+  "year": 1965,
+  "album": "winnie-the-pooh-and-the-honey-tree-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/W/winniethepoohandthehoneytreesoundtrack.png",
+
+  "albumname": "Winnie the Pooh and the Honey Tree Soundtrack",
+  "artistname": "Disney Studio Chorus"
 }
 ,
 {
@@ -15841,6 +16275,22 @@
 
   "albumname": "OK Orchestra",
   "artistname": "AJR"
+}
+, 
+{
+  "title": "Would You Rather",
+  "artist": "dodie",
+  "addition": 1029,
+  "release": 162.3,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "you",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dodie_you.png",
+  
+  "albumname": "You",
+  "artistname": "dodie"
 }
 ,
 {
@@ -16049,6 +16499,22 @@
 
   "albumname": "Fearless",
   "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "You Can Fly! You Can Fly! You Can Fly!",
+  "artist": "bobby-driscoll,kathryn-beaumont,paul-collins,tommy-luske,the-jud-conlon-chorus",
+  "addition": 1040,
+  "release": 0.8,
+  "decade": "1950s+",
+  "year": 1953,
+  "album": "peter-pan-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/P/peterpan.png",
+  
+  "albumname": "Peter Pan Soundtrack",
+  "artistname": "Bobby Driscoll, Kathryn Beaumont, Paul Collins, Tommy Luske, The Jud Conlon Chorus"
 }
 , 
 {
@@ -16323,6 +16789,22 @@
 
   "albumname": "Teatro d'ira",
   "artistname": "Mäneskin"
+}
+,
+{
+  "title": "Zip-A-Dee-Doo-Dah-Day",
+  "artist": "james-baskett",
+  "addition": 1036,
+  "release": 0.4,
+  "decade": "1950s+",
+  "year": 1946,
+  "album": "song-of-the-south-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/S/songofthesouth.png",
+
+  "albumname": "Song of the South Soundtrack",
+  "artistname": "James Baskett"
 }
 ,
 {
