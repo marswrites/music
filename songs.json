@@ -708,7 +708,7 @@
   "title": "Always On My Mind",
   "artist": "connie-talbot",
   "addition": 736,
-  "release": 183.4,
+  "release": 183.5,
   "decade": "2020s",
   "year": 2022,
   "album": "",
@@ -878,6 +878,22 @@
 
   "albumname": "Bulletproof Picasso",
   "artistname": "Train"
+}
+, 
+{
+  "title": "Animals",
+  "artist": "maroon-5",
+  "addition": 1006,
+  "release": 148.4,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "v",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maroon-5_v.png",
+  
+  "albumname": "V",
+  "artistname": "Maroon 5"
 }
 ,
 {
@@ -1194,12 +1210,27 @@
   "album": "when-we-all-fall-asleep-where-do-we-go?",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/B/billie-eiliish_when-we-all-fall-asleep-where-do-we-go.png",
+  "img": "https://marswrites.neocities.org/albums/B/billie-eilish_when-we-all-fall-asleep-where-do-we-go.png",
 
   "albumname": "When We All Fall Asleep, Where Do We Go?",
   "artistname": "Billie Eilish"
 }
+,
+{
+  "title": "bad guy",
+  "artist": "the-interrupters",
+  "addition": 991,
+  "release": 174.4,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/T/the-interrupters_bad-guy.png",
 
+  "albumname": "",
+  "artistname": "The Interrupters"
+}
 ,
 {
   "title": "Bang Bang",
@@ -1794,6 +1825,22 @@
 }
 ,
 {
+  "title": "Boys Will Be Boys",
+  "artist": "dua-lipa",
+  "addition": 1015,
+  "release":175.45,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "future-nostalgia",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dua-lipa_future-nostalgia.png",
+  
+  "albumname": "Future Nostalgia",
+  "artistname": "Dua Lipa"
+}
+,
+{
   "title": "Boys Will Be Bugs (Live at Hoxton Hall)",
   "artist": "cavetown",
   "addition": 189,
@@ -1826,7 +1873,7 @@
 }
 ,
 {
-  "title": "One Last Time",
+  "title": "Break Free",
   "artist": "ariana-grande,zedd",
   "addition": 981,
   "release": 148.23,
@@ -1839,6 +1886,22 @@
   
   "albumname": "My Everything",
   "artistname": "Ariana Grande, Zedd"
+}
+,
+{
+  "title": "Break My Heart",
+  "artist": "dua-lipa",
+  "addition": 1014,
+  "release":175.45,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "future-nostalgia",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dua-lipa_future-nostalgia.png",
+  
+  "albumname": "Future Nostalgia",
+  "artistname": "Dua Lipa"
 }
 ,
 {
@@ -2962,6 +3025,22 @@
 }
 ,
 {
+  "title": "Dark Horse",
+  "artist": "katy-perry,juicy-j",
+  "addition": 996,
+  "release": 141.6,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "prism",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/katy-perry_prism.png",
+
+  "albumname": "Prism",
+  "artistname": "Katy Perry, Juicy J"
+}
+,
+{
   "title": "Days in the Sun",
   "artist": "adam-mitchell,stanley-tucci,emma-watson,audra-mcdonald,clive-rowe,emma-thompson,gugu-mbatha-raw,ian-mckellen,ewan-mcgregor",
   "addition": 595,
@@ -3311,6 +3390,22 @@
   
   "albumname": "(What's the Story) Morning Glory?",
   "artistname": "Oasis"
+}
+,
+{
+  "title": "Don't Start Now",
+  "artist": "dua-lipa",
+  "addition": 1012,
+  "release":175.45,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "future-nostalgia",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dua-lipa_future-nostalgia.png",
+  
+  "albumname": "Future Nostalgia",
+  "artistname": "Dua Lipa"
 }
 ,
 {
@@ -3910,7 +4005,7 @@
   "title": "(Everything I Do) I Do it For You",
   "artist": "boyce-avenue,connie-talbot",
   "addition": 269,
-  "release": 183.5,
+  "release": 183.4,
   "decade": "2020s",
   "year": 2022,
   "album": "",
@@ -4064,6 +4159,22 @@
   
   "albumname": "Songs in A Minor",
   "artistname": "Alicia Keys"
+}
+,
+{
+  "title": "False Confidence",
+  "artist": "noah-kahan",
+  "addition": 1003,
+  "release": 172.35,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "busyhead",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/N/noah-kahan_busyhead.png",
+
+  "albumname": "Busyhead",
+  "artistname": "Noah Kahan"
 }
 ,
 {
@@ -5053,6 +5164,22 @@
   "year": 2007,
   "album": "life-in-cartoon-motion",
   "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
+  
+  "albumname": "Life in Cartoon Motion",
+  "artistname": "MIKA"
+}
+,
+{
+  "title": "Grace Kelly (Acoustic)",
+  "artist": "mika",
+  "addition": 999,
+  "release": 122,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "life-in-cartoon-motion",
+  "language": "english",
   "extra": "",
   "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
   
@@ -5202,6 +5329,22 @@
 
   "albumname": "SOUR",
   "artistname": "Olivia Rodrigo"
+}
+,
+{
+  "title": "Happier Than Ever",
+  "artist": "billie-eilish",
+  "addition": 1016,
+  "release": 182.1,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "happier-than-ever",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/B/billie-eilish_happier-than-ever.png",
+
+  "albumname": "Happier Than Ever",
+  "artistname": "Billie Eilish"
 }
 ,
 {
@@ -5506,6 +5649,22 @@
   
   "albumname": "La La Land Soundtrack",
   "artistname": "Justin Hurwitz"
+}
+,
+{
+  "title": "Hermit the Frog",
+  "artist": "marina",
+  "addition": 995,
+  "release": 131.2,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "the-family-jewels",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/M/marina_the-family-jewels.png",
+  
+  "albumname": "The Family Jewels",
+  "artistname": "MARINA"
 }
 ,
 {
@@ -5954,6 +6113,22 @@
 
   "albumname": "Dirty Dancing Soundtrack",
   "artistname": "Eric Carmen"
+}
+,
+{
+  "title": "Hurt Somebody",
+  "artist": "noah-kahan,julia-michaels",
+  "addition": 993,
+  "release": 172.35,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "busyhead",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/noah-kahan_busyhead.png",
+
+  "albumname": "Busyhead",
+  "artistname": "Noah Kahan"
 }
 ,
 {
@@ -7753,6 +7928,38 @@
 }
 ,
 {
+  "title": "Let’s Go Home Together",
+  "artist": "ella-henderson,tom-grennan",
+  "addition": 994,
+  "release": 183.45,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "everything-i-didn't-say",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/ella-henderson_everything-i-didn't-say.png",
+  
+  "albumname": "Everything I Didn’t Say",
+  "artistname": "Ella Henderson, Tom Grennan"
+}
+,
+{
+  "title": "Levitating",
+  "artist": "dua-lipa",
+  "addition": 1013,
+  "release":175.45,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "future-nostalgia",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/dua-lipa_future-nostalgia.png",
+  
+  "albumname": "Future Nostalgia",
+  "artistname": "Dua Lipa"
+}
+,
+{
   "title": "Liability",
   "artist": "lorde",
   "addition": 927,
@@ -8091,6 +8298,22 @@
 ,
 {
   "title": "Lollipop",
+  "artist": "mika",
+  "addition": 997,
+  "release": 122,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "life-in-cartoon-motion",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
+  
+  "albumname": "Life in Cartoon Motion",
+  "artistname": "MIKA"
+}
+,
+{
+  "title": "Lollipop",
   "artist": "the-chordettes",
   "addition": 438,
   "release": 1.5,
@@ -8215,6 +8438,22 @@
   
   "albumname": "Out of Time",
   "artistname": "R. E. M"
+}
+, 
+{
+  "title": "Lost Boy",
+  "artist": "ruth-b",
+  "addition": 1008,
+  "release": 161.3,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "safe-haven",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/ruth-b_safe-haven.png",
+  
+  "albumname": "Safe Haven",
+  "artistname": "Ruth B."
 }
 ,
 {
@@ -8375,6 +8614,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 3",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Love Today",
+  "artist": "mika",
+  "addition": 998,
+  "release": 122,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "life-in-cartoon-motion",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
+  
+  "albumname": "Life in Cartoon Motion",
+  "artistname": "MIKA"
 }
 ,
 {
@@ -8808,7 +9063,22 @@
   "albumname": "Nine Track Mind",
   "artistname": "Charlie Puth, Meghan Trainor"
 }
-
+,
+{
+  "title": "Marvin Gaye",
+  "artist": "charlie-puth,wale",
+  "addition": 992,
+  "release": 157.28,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "nine-track-mind",
+  "language": "english",
+  "extra": "cover,explicit",
+  "img": "https://marswrites.neocities.org/albums/C/charlie-puth_nine-track-mind.png",
+  
+  "albumname": "Nine Track Mind",
+  "artistname": "Charlie Puth, Wale"
+}
 , 
 {
   "title": "Mastermind",
@@ -9246,6 +9516,22 @@
 ,
 {
   "title": "Moral of the Story",
+  "artist": "ashe",
+  "addition": 1009,
+  "release": 180.9,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "ashlyn",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/A/ashe_ashlyn.png",
+
+  "albumname": "Ashlyn",
+  "artistname": "Ashe"
+}
+,
+{
+  "title": "Moral of the Story",
   "artist": "ashe,niall-horan",
   "addition": 948,
   "release": 180.9,
@@ -9257,7 +9543,7 @@
   "img": "https://marswrites.neocities.org/albums/A/ashe_ashlyn.png",
 
   "albumname": "Ashlyn",
-  "artistname": "Ashe"
+  "artistname": "Ashe, Niall Horan"
 }
 ,
 {
@@ -9290,6 +9576,22 @@
   
   "albumname": "Tangled Soundtrack",
   "artistname": "Donna Murphy"
+}
+, 
+{
+  "title": "Moves Like Jagger",
+  "artist": "maroon-5,christina-aguilera",
+  "addition": 1007,
+  "release": 133.2,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "hands-all-over",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maroon-5_hands-all-over.png",
+  
+  "albumname": "Hands All Over",
+  "artistname": "Maroon 5"
 }
 ,
 {
@@ -9402,6 +9704,22 @@
 
   "albumname": "Titanic Soundtrack",
   "artistname": "Céline Dion"
+}
+,
+{
+  "title": "My Heart Will Go On",
+  "artist": "boyce-avenue,connie-talbot",
+  "addition": 1018,
+  "release": 187,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "",
+  "language": "english",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/B/boyce-avenue_my-heart-will-go-on.png",
+
+  "albumname": "",
+  "artistname": "Boyce Avenue, Connie Talbot"
 }
 ,
 {
@@ -10686,6 +11004,22 @@
 }
 ,
 {
+  "title": "Potra Salvaje",
+  "artist": "isabel-aaiun",
+  "addition": 1010,
+  "release": 185.75,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "la-potra-salvaje",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/I/isabel-aaiun_la-potra-salvaje.png",
+
+  "albumname": "La Potra Salvaje",
+  "artistname": "Isabel Aaiún"
+}
+,
+{
   "title": "Prelude",
   "artist": "bernard-herrmann",
   "addition": 704,
@@ -10827,6 +11161,22 @@
 
   "albumname": "Please Please Me",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Please Please Please",
+  "artist": "sabrina-carpenter",
+  "addition": 1019,
+  "release": 188,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "short-n-sweet",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/S/sabrina-carpenter_short-n-sweet.png",
+
+  "albumname": "Short n’ Sweet",
+  "artistname": "Sabrina Carpenter"
 }
 ,
 {
@@ -11016,6 +11366,22 @@
   "album": "life-in-cartoon-motion",
   "language": "english",
   "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
+  
+  "albumname": "Life in Cartoon Motion",
+  "artistname": "MIKA"
+}
+,
+{
+  "title": "Relax, Take It Easy",
+  "artist": "mika",
+  "addition": 1001,
+  "release": 122,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "life-in-cartoon-motion",
+  "language": "english",
+  "extra": "cover",
   "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
   
   "albumname": "Life in Cartoon Motion",
@@ -11872,7 +12238,23 @@
 } 
 ,
 {
-  "title": "Siempre estare ahí",
+  "title": "Side To Side",
+  "artist": "ariana-grande,nicki-minaj",
+  "addition": 1020,
+  "release": 157.437,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "dangerous-woman",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/A/ariana-grande_dangerous-woman.png",
+
+  "albumname": "Dangerous Woman",
+  "artistname": "Ariana Grande, Nicki Minaj"
+}
+,
+{
+  "title": "Siempre estaré ahí",
   "artist": "maldita-nerea",
   "addition": 336,
   "release": 162.5,
@@ -12045,6 +12427,22 @@
 
   "albumname": "Alright, Still",
   "artistname": "Lily Allen"
+}
+,
+{
+  "title": "So Am I",
+  "artist": "ava-max",
+  "addition": 1002,
+  "release": 176.95,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "heaven-and-hell",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ava-max_heaven-and-hell.png",
+
+  "albumname": "Heaven & Hell",
+  "artistname": "Ava Max"
 }
 ,
 {
@@ -12473,6 +12871,22 @@
   "year": 2007,
   "album": "life-in-cartoon-motion",
   "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
+  
+  "albumname": "Life in Cartoon Motion",
+  "artistname": "MIKA"
+}
+,
+{
+  "title": "Stuck in the Middle (Acoustic)",
+  "artist": "mika",
+  "addition": 1000,
+  "release": 122,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "life-in-cartoon-motion",
+  "language": "english",
   "extra": "",
   "img": "https://marswrites.neocities.org/albums/M/MIKA_life-in-cartoon-motion.png",
   
@@ -12494,6 +12908,22 @@
   
   "albumname": "Happiness Begins",
   "artistname": "Jonas Brothers"
+}
+, 
+{
+  "title": "Sugar",
+  "artist": "maroon-5",
+  "addition": 1005,
+  "release": 148.4,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "v",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maroon-5_v.png",
+  
+  "albumname": "V",
+  "artistname": "Maroon 5"
 }
 ,
 {
@@ -12879,6 +13309,22 @@
 
   "albumname": "Doo-Wops and Hooligans",
   "artistname": "Bruno Mars"
+}
+,
+{
+  "title": "Taylor",
+  "artist": "jack-johnson",
+  "addition": 1011,
+  "release": 99.77,
+  "decade": "2000s",
+  "year": 2003,
+  "album": "on-and-on",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jack-johnson_on-and-on.png",
+
+  "albumname": "On and On",
+  "artistname": "Jack Johnson"
 }
 ,
 {
@@ -13492,6 +13938,22 @@
 }
 ,
 {
+  "title": "The Night We Met",
+  "artist": "lord-huron,phoebe-bridgers",
+  "addition":1017,
+  "release": 153.6,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "strange-trails",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/L/lord-huron_strange-trails.png",
+
+  "albumname": "Strange Trails",
+  "artistname": "Lord Huron, Phoebe Bridgers"
+}
+,
+{
   "title": "The Nights",
   "artist": "avicii",
   "addition": 207,
@@ -13906,6 +14368,22 @@
   
   "albumname": "This is What ___ Feels Like (Vol. 1-4)",
   "artistname": "JVKE"
+}
+,
+{
+  "title": "This Love",
+  "artist": "maroon-5",
+  "addition": 1004,
+  "release": 97.8,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "songs-about-jane",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maroon-5_songs-about-jane.png",
+
+  "albumname": "Songs About Jane",
+  "artistname": "Maroon 5"
 }
 ,
 {
