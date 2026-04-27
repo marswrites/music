@@ -317,7 +317,6 @@
   "albumname": "Aladdin Soundtrack",
   "artistname": "Lea Salonga, Brad Kane, Disney"
 }
-
 ,
 {
   "title": "A Whole New World",
@@ -333,6 +332,22 @@
   
   "albumname": "Aladdin Soundtrack",
   "artistname": "Mena Massoud, Naomi Scott"
+}
+,
+{
+  "title": "A Whole New World",
+  "artist": "peabo-bryson,regina-belle",
+  "addition": 1061,
+  "release": 79,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "aladdin-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/A/aladdin-old.png",
+  
+  "albumname": "Aladdin Soundtrack",
+  "artistname": "Peabo Bryson, Regina Belle"
 }
 ,
 {
@@ -1185,6 +1200,22 @@
 }
 ,
 {
+  "title": "Baby Mine",
+  "artist": "sharon-rooney",
+  "addition": 1073,
+  "release": 170.8,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "dumbo-soundtrack-new",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/D/dumbonew.png",
+  
+  "albumname": "Dumbo Soundtrack (2019)",
+  "artistname": "Sharon Rooney"
+}
+,
+{
   "title": "Back to Black",
   "artist": "amy-winehouse",
   "addition": 14,
@@ -1394,6 +1425,22 @@
 ,
 {
   "title": "Beauty and the Beast",
+  "artist": "angela-lansbury,disney",
+  "addition": 1056,
+  "release": 161,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "beauty-and-the-beast-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeastold.png",
+  
+  "albumname": "Beauty and the Beast Soundtrack (1991)",
+  "artistname": "Angela Lansbury, Disney"
+}
+,
+{
+  "title": "Beauty and the Beast",
   "artist": "ariana-grande,john-legend",
   "addition": 562,
   "release": 161,
@@ -1422,6 +1469,22 @@
 
   "albumname": "",
   "artistname": "Boyce Avenue, Mia Black"
+}
+,
+{
+  "title": "Beauty and the Beast",
+  "artist": "peabo-bryson,céline-dion",
+  "addition": 1057,
+  "release": 161,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "beauty-and-the-beast-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeastold.png",
+  
+  "albumname": "Beauty and the Beast Soundtrack (1991)",
+  "artistname": "Peabo Bryson, Céline Dion"
 }
 ,
 {
@@ -1646,6 +1709,22 @@
   
   "albumname": "Speak Now",
   "artistname": "Taylor Swift"
+}
+, 
+{
+  "title": "Better Together",
+  "artist": "jack-johnson",
+  "addition": 1080,
+  "release": 117.8,
+  "decade": "2000s",
+  "year": 2005,
+  "album": "in-between-dreams",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jack-johnson_in-between-dreams.png",
+  
+  "albumname": "In Between Dreams",
+  "artistname": "Jack Johnson"
 }
 ,
 {
@@ -2209,6 +2288,22 @@
 }
 ,
 {
+  "title": "Can You Feel the Love Tonight",
+  "artist": "joseph-williams,nathan-lane,ernie-sabella,kristle-edwards,sally-dworsky",
+  "addition": 1066,
+  "release": 81,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "the-lion-king-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thelionking-old.png",
+
+  "albumname": "The Lion King Soundtrack (1994)",
+  "artistname": "Joseph Williams, Nathan Lane, Ernie Sabella, Kristle Edwards, Sally Dworsky"
+}
+,
+{
   "title": "Can’t Buy Me Love",
   "artist": "the-beatles",
   "addition": 896,
@@ -2526,6 +2621,38 @@
   
   "albumname": "Mary Poppins Soundtrack",
   "artistname": "Dick Van Dyke, Julie Andrews, Karen Dotrice, Matthew Garber"
+}
+,
+{
+  "title": "Circle of Life",
+  "artist": "carmen-twillie,lebo-m",
+  "addition":1064,
+  "release": 81,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "the-lion-king-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thelionking-old.png",
+
+  "albumname": "The Lion King Soundtrack (1994)",
+  "artistname": "Carmen Twillie, Lebo M."
+}
+,
+{
+  "title": "Circle of Life",
+  "artist": "elton-john",
+  "addition": 1067,
+  "release": 81,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "the-lion-king-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thelionking-old.png",
+
+  "albumname": "The Lion King Soundtrack (1994)",
+  "artistname": "Elton John"
 }
 ,
 {
@@ -3422,6 +3549,22 @@
   
   "albumname": "Pájaros en la cabeza",
   "artistname": "Amaral"
+}
+,
+{
+  "title": "Die With a Smile",
+  "artist": "lady-gaga,bruno-mars",
+  "addition": 1078,
+  "release": 205,
+  "decade": "2020s",
+  "year": 2025,
+  "album": "mayhem",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lady-gaga_mayhem.png",
+
+  "albumname": "Mayhem",
+  "artistname": "Lady Gaga, Bruno Mars"
 }
 ,
 {
@@ -4386,6 +4529,22 @@
 }
 ,
 {
+  "title": "Fathoms Below",
+  "artist": "ship's-chorus,disney",
+  "addition": 118,
+  "release": 75,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "the-little-mermaid-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thelittlemermaid.png",
+  
+  "albumname": "The Little Mermaid Soundtrack",
+  "artistname": "Ship’s Chorus, Disney"
+}
+,
+{
   "title": "favorite crime",
   "artist": "olivia-rodrigo",
   "addition": 542,
@@ -4415,6 +4574,22 @@
 
   "albumname": "Fearless",
   "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Feed the Birds (Tuppence a Bag)",
+  "artist": "julie-andrews,disney-studio-chorus",
+  "addition": 1075,
+  "release": 6.2,
+  "decade": "1960s",
+  "year": 1964,
+  "album": "mary-poppins-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/M/marypoppins.png",
+  
+  "albumname": "Mary Poppins Soundtrack",
+  "artistname": "Julie Andrews, Disney Studio Chorus"
 }
 ,
 {
@@ -4948,6 +5123,22 @@
 }
 ,
 {
+  "title": "Gaston",
+  "artist": "richard-white,jesse-corti,beauty-and-the-beast-cast,disney",
+  "addition": 1052,
+  "release": 161,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "beauty-and-the-beast-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeastold.png",
+  
+  "albumname": "Beauty and the Beast Soundtrack (1991)",
+  "artistname": "Richard White, Jesse Corti, Beauty and the Beast Cast, Disney"
+}
+,
+{
   "title": "Genie in a Bottle",
   "artist": "christina-aguilera",
   "addition": 925,
@@ -5075,21 +5266,37 @@
   "albumname": "Girl on Fire",
   "artistname": "Alicia Keys"
 }
+,
+{
+  "title": "Girl on Fire",
+  "artist": "alicia-keys",
+  "addition": 266,
+  "release": 138.5,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "girl-on-fire",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/alicia-keys_girl-on-fire.png",
+
+  "albumname": "Girl on Fire",
+  "artistname": "Alicia Keys"
+}
 , 
 {
-  "title": "Girls Just Wanna Have Fun",
-  "artist": "miley-cyrus",
-  "addition": 957,
-  "release": 123.7,
+  "title": "Girlfriend",
+  "artist": "avril-lavigne",
+  "addition": 1076,
+  "release": 122.25,
   "decade": "2000s",
-  "year": 2008,
-  "album": "breakout",
+  "year": 2007,
+  "album": "the-best-damn-thing",
   "language": "english",
-  "extra": "cover",
-  "img": "https://marswrites.neocities.org/albums/M/miley-cyrus_breakout.png",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/A/avril-lavigne_the-best-damn-thing.png",
   
-  "albumname": "Breakout",
-  "artistname": "Miley Cyrus"
+  "albumname": "The Best Damn Thing",
+  "artistname": "Avril Lavigne"
 }
 , 
 {
@@ -5157,6 +5364,22 @@
 }
 ,
 {
+  "title": "God Help the Outcasts",
+  "artist": "bette-midler",
+  "addition": 1077,
+  "release": 87.5,
+  "decade": "1990s",
+  "year": 1996,
+  "album": "the-hunchback-of-notre-dame-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thehunchbackofnotredame.png",
+
+  "albumname": "The Hunchback of Notre Dame Soundtrack",
+  "artistname": "Bette Midler"
+}
+,
+{
   "title": "Golden Slumbers/Carry That Weight",
   "artist": "jennifer-hudson",
   "addition": 790,
@@ -5202,6 +5425,22 @@
 
   "albumname": "SOUR",
   "artistname": "Olivia Rodrigo"
+}
+,
+{
+  "title": "Good Company",
+  "artist": "myhanh-tran",
+  "addition": 1058,
+  "release": 73.7,
+  "decade": "1980s",
+  "year": 1988,
+  "album": "oliver-and-company-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/O/oliverandcompany.png",
+
+  "albumname": "Oliver and Company Soundtrack",
+  "artistname": "Myhanh Tran"
 }
 ,
 {
@@ -5410,6 +5649,22 @@
   
   "albumname": "The Lion King Soundtrack",
   "artistname": "Billy Eichner, Seth Rogen, JayDon, Childish Gambino"
+}
+,
+{
+  "title": "Hakuna Matata",
+  "artist": "nathan-kane,ernie-sabella,jason-weaver,joseph-williams",
+  "addition": 1065,
+  "release": 81,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "the-lion-king-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thelionking-old.png",
+
+  "albumname": "The Lion King Soundtrack (1994)",
+  "artistname": "Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams"
 }
 ,
 {
@@ -5726,7 +5981,7 @@
   "album": "winnie-the-pooh-and-the-blustery-day-soundtrack",
   "language": "english",
   "extra": "musical,disney",
-  "img": "https://marswrites.neocities.org/albums/W/winniethepoohandtheblusterydaysoundtrack.png",
+  "img": "https://marswrites.neocities.org/albums/W/winniethepoohandtheblusteryday.png",
 
   "albumname": "Winnie the Pooh and the Blustery Day Soundtrack",
   "artistname": "Disney Studio Chorus"
@@ -6227,6 +6482,22 @@
   "albumname": "The Hardest Love",
   "artistname": "Dean Lewis"
 }
+,
+{
+  "title": "How Does a Moment Last Forevver",
+  "artist": "céline-dion",
+  "addition": 1071,
+  "release": 161,
+  "decade": "2010s",
+  "year": 2017,
+  "album": "beauty-and-the-beast-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeast.png",
+
+  "albumname": "Beauty and the Beast Soundtrack",
+  "artistname": "Céline Dion"
+}
 , 
 {
   "title": "How to Save a Life",
@@ -6514,6 +6785,22 @@
 
   "albumname": "The Woman in Red Soundtrack",
   "artistname": "Stevie Wonder"
+}
+,
+{
+  "title": "I Just Can’t Wait to Be King",
+  "artist": "elton-john",
+  "addition": 1074,
+  "release": 81,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "the-lion-king-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thelionking-old.png",
+
+  "albumname": "The Lion King Soundtrack (1994)",
+  "artistname": "Elton John"
 }
 ,
 {
@@ -6981,6 +7268,22 @@
 }
 ,
 {
+  "title": "I’ve Got a Dream",
+  "artist": "mandy-moore,zachary-levi,jeffrey-tambor,brad-garrett,tangled-cast",
+  "addition": 1069,
+  "release": 134,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "tangled-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/tangled.png",
+  
+  "albumname": "Tangled Soundtrack",
+  "artistname": "Mandy Moore, Zachary Levi, Brad Garrett, Jeffrey Tambor, Tangled Cast"
+}
+,
+{
   "title": "If I Can Dream",
   "artist": "maneskin",
   "addition": 581,
@@ -7314,6 +7617,22 @@
 
   "albumname": "Crush",
   "artistname": "Bon Jovi"
+}
+,
+{
+  "title": "It's Not Easy",
+  "artist": "helen-reddy,sean-marshall",
+  "addition": 1051,
+  "release": 23.6,
+  "decade": "1970s",
+  "year": 1977,
+  "album": "pete's-dragon-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/P/pete'sdragon.png",
+
+  "albumname": "Pete’s Dragon Soundtrack",
+  "artistname": "Helen Reddy, Sean Marshall"
 }
 ,
 {
@@ -7699,7 +8018,7 @@
   "img": "https://marswrites.neocities.org/albums/T/thelittlemermaid.png",
   
   "albumname": "The Little Mermaid Soundtrack",
-  "artistname": "Samuel E. Wright"
+  "artistname": "Samuel E. Wright, Disney"
 }
 
 ,
@@ -10572,6 +10891,22 @@
 }
 ,
 {
+  "title": "On My Way",
+  "artist": "alan-walker,sabrina-carpenter,farruko",
+  "addition": 1079,
+  "release": 183.25,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "world-of-walker",
+  "language": "english,spanish",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/A/alan-walker_world-of-walker.png",
+
+  "albumname": "World of Walker",
+  "artistname": "Alan Walker, Sabrina Carpenter, Farruko"
+}
+,
+{
   "title": "Once Upon a Dream",
   "artist": "mary-costa,bill-shirley",
   "addition": 1046,
@@ -10621,7 +10956,7 @@
 }
 ,
 {
-  "title": "One Call",
+  "title": "One Call Away",
   "artist": "charlie-puth",
   "addition": 988,
   "release": 157.28,
@@ -10730,6 +11065,22 @@
   
   "albumname": "Parallel Lines",
   "artistname": "Blondie"
+}
+, 
+{
+  "title": "Oo-De-Lally",
+  "artist": "roger-miller",
+  "addition":1063,
+  "release": 17.86,
+  "decade": "1970s",
+  "year": 1973,
+  "album": "robin-hood-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/R/robinhood.png",
+  
+  "albumname": "Robin Hood Soundtrack",
+  "artistname": "Roger Miller"
 }
 , 
 {
@@ -11153,7 +11504,7 @@
   "title": "Piano Man",
   "artist": "billy-joel",
   "addition": 76,
-  "release": 18,
+  "release": 17.87,
   "decade": "1970s",
   "year": 1973,
   "album": "piano-man",
@@ -11355,6 +11706,22 @@
 
   "albumname": "Psycho Soundtrack",
   "artistname": "Bernard Herrmann"
+}
+,
+{
+  "title": "Prince Ali",
+  "artist": "robin-williams,disney",
+  "addition": 1060,
+  "release": 79,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "aladdin-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/A/aladdin-old.png",
+  
+  "albumname": "Aladdin Soundtrack",
+  "artistname": "Robin Williams, Disney"
 }
 ,
 {
@@ -12044,6 +12411,22 @@
   
   "albumname": "Back from the Edge",
   "artistname": "James Arthur"
+}
+,
+{
+  "title": "Scales and Arpeggios",
+  "artist": "robin-lester,gregory-novack,susan-novack,mike-sammes-singers,victor-sweler",
+  "addition": 1072,
+  "release": 14.25,
+  "decade": "1970s",
+  "year": 1970,
+  "album": "the-aristocats-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thearistocats.png",
+  
+  "albumname": "The Aristocats Soundtrack",
+  "artistname": "Robin Lester, Gregory Novack, Susan NOvack, Mike Sammes Singers, Victor Sweler"
 }
 ,
 {
@@ -12878,7 +13261,22 @@
   "albumname": "La La Land Soundtrack",
   "artistname": "Emma Stone, Callie Hernandez, Sonoya Mizuno, Jessica Rothe"
 }
-
+,
+{
+  "title": "Someone’s Waiting for You",
+  "artist": "shelby-flint",
+  "addition": 1054,
+  "release": 76.9,
+  "decade": "1990s",
+  "year": 1990,
+  "album": "the-rescuers-down-under-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/therescuersdownunder.png",
+  
+  "albumname": "The Rescuers Down Under Soundtrack",
+  "artistname": "Shelby Flint"
+}
 ,
 {
   "title": "Somethin' Stupid",
@@ -12942,6 +13340,22 @@
   
   "albumname": "Beauty and the Beast Soundtrack",
   "artistname": "Emma Watson, Dan Stevens, Ewan McGregor, Emma Thompson, Ian McKellen, Gugu Mbatha-Raw, Nathan Mack"
+}
+,
+{
+  "title": "Gaston",
+  "artist": "robby-benson,jerry-orbach,david-ogden-stiers,angela-lansbury,paige-o'hara,disney",
+  "addition": 1053,
+  "release": 161,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "beauty-and-the-beast-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeastold.png",
+  
+  "albumname": "Beauty and the Beast Soundtrack (1991)",
+  "artistname": "Robby Benson, Jerry Orbach, David Ogden Stiers, Angela Lansbury, Paige O’Hara, Disney"
 }
 ,
 {
@@ -14324,6 +14738,22 @@
 }
 ,
 {
+  "title": "The Mob Song",
+  "artist": "beauty-and-the-beast-cast,richard-white,disney",
+  "addition": 1055,
+  "release": 161,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "beauty-and-the-beast-soundtrack-old",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/B/beautyandthebeastold.png",
+  
+  "albumname": "Beauty and the Beast Soundtrack (1991)",
+  "artistname": "Beauty and the Beast Cast, Richard White, Disney"
+}
+,
+{
   "title": "The Night We Met",
   "artist": "lord-huron",
   "addition": 854,
@@ -14690,7 +15120,22 @@
   "albumname": "The Phantom of the Opera Soundtrack",
   "artistname": "Andrew Lloyd Webber, Emmy Rossum, Patrick Wilson"
 }
-
+,
+{
+  "title": "This Is Halloween",
+  "artist": "the-citizens-of-halloween",
+  "addition": 1062,
+  "release": 80.965,
+  "decade": "1990s",
+  "year": 1993,
+  "album": "the-nightmare-before-christmas-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/thenightmarebeforechristmas.png",
+  
+  "albumname": "The Nightmare Before Christmas Soundtrack",
+  "artistname": "The Citizens of Halloween"
+}
 ,
 {
   "title": "This Is Me",
@@ -15107,6 +15552,22 @@
   "albumname": "Tell Me I’m Pretty",
   "artistname": "Cage the Elephant"
 }
+, 
+{
+  "title": "True Love’s Kiss",
+  "artist": "amy-adams,james-marsden",
+  "addition": 1068,
+  "release": 122.7,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "enchanted-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/E/enchanted.png",
+  
+  "albumname": "Enchanted Soundtrack",
+  "artistname": "Amy Adams, James Marsden"
+}
 ,
 {
   "title": "Try",
@@ -15361,7 +15822,7 @@
   "img": "https://marswrites.neocities.org/albums/T/thelittlemermaid.png",
   
   "albumname": "The Little Mermaid Soundtrack",
-  "artistname": "Samuel E. Wright"
+  "artistname": "Samuel E. Wright, Disney"
 }
 , 
 {
@@ -15909,6 +16370,22 @@
 }
 ,
 {
+  "title": "When Can I See You Again?",
+  "artist": "owl-city",
+  "addition": 1070,
+  "release": 138.2,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "wreck-it-ralph-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/W/wreckitralph.png",
+  
+  "albumname": "Wreck-It Ralph Soundtrack",
+  "artistname": "Owl City"
+}
+,
+{
   "title": "When Emma Falls in Love",
   "artist": "taylor-swift",
   "addition": 730,
@@ -16127,7 +16604,7 @@
   "album": "winnie-the-pooh-and-the-honey-tree-soundtrack",
   "language": "english",
   "extra": "musical,disney",
-  "img": "https://marswrites.neocities.org/albums/W/winniethepoohandthehoneytreesoundtrack.png",
+  "img": "https://marswrites.neocities.org/albums/W/winniethepoohandthehoneytree.png",
 
   "albumname": "Winnie the Pooh and the Honey Tree Soundtrack",
   "artistname": "Disney Studio Chorus"
