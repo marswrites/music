@@ -240,6 +240,22 @@
 }
 ,
 {
+  "title": "A Dream is a Wish Your Heart Makes",
+  "artist": "ilene-woods,the-mice-chorus",
+  "addition": 1390,
+  "release": 0.6,
+  "decade": "1950s+",
+  "year": 1950,
+  "album": "cinderella-soundtrack",
+  "language": "english",
+  "extra": "disney,musical",
+  "img": "https://marswrites.neocities.org/albums/C/cinderella.png",
+  
+  "albumname": "Cinderella Soundtrack",
+  "artistname": "Ilene Woods, The Mice Chorus"
+}
+,
+{
   "title": "A Kind of Magic",
   "artist": "queen",
   "addition": 35,
@@ -640,6 +656,22 @@
 }
 , 
 {
+  "title": "Alfie",
+  "artist": "glee-cast",
+  "addition": 1351,
+  "release": 151.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "what-the-world-needs-now-is-love",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_what-the-world-needs-now-is-love.png",
+
+  "albumname": "The Music, What the World Needs Now is Love",
+  "artistname": "Glee Cast"
+}
+, 
+{
   "title": "All By Myself",
   "artist": "céline-dion",
   "addition": 675,
@@ -669,6 +701,22 @@
 
   "albumname": "Falling into You",
   "artistname": "Céline Dion"
+}
+, 
+{
+  "title": "All By Myself",
+  "artist": "glee-cast",
+  "addition": 1357,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-two",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-two.png",
+  
+  "albumname": "The Music: The Complete Season Two",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -736,6 +784,22 @@
 }
 ,
 {
+  "title": "All Out of Love",
+  "artist": "glee-cast",
+  "addition": 1350,
+  "release": 151.2,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "the-hurt-locker-part-2",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-hurt-ocker-part-2.png",
+  
+  "albumname": "The Music, The Hurt Locker, Part 2",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "All Star",
   "artist": "smash-mouth",
   "addition": 262,
@@ -763,7 +827,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
 
-  "albumname": "The Complete Season Four",
+  "albumname": "The Music, The Complete Season Four",
   "artistname": "Glee Cast, Kate Hudson"
 }
 , 
@@ -960,6 +1024,22 @@
 }
 ,
 {
+  "title": "American Idiot",
+  "artist": "green-day",
+  "addition": 1360,
+  "release": 115,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "american-idiot",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/G/green-day_american-idiot.png",
+  
+  "albumname": "American Idiot",
+  "artistname": "Green Day"
+}
+,
+{
   "title": "American Pie",
   "artist": "don-mclean",
   "addition": 89,
@@ -1008,7 +1088,23 @@
 }
 ,
 {
-  "title": "Amor de Medianoche",
+  "title": "Amor de madre",
+  "artist": "gabinete-caligari",
+  "addition": 1366,
+  "release": 75.7,
+  "decade": "1980s",
+  "year": 1989,
+  "album": "privado",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/G/gabinete-caligari_privado.png",
+
+  "albumname": "Privado",
+  "artistname": "Gabinete Caligari"
+}
+,
+{
+  "title": "Amor de medianoche",
   "artist": "cecilia",
   "addition": 614,
   "release": 17.9,
@@ -1037,6 +1133,22 @@
 
   "albumname": "Wake Up and Smell the Coffee",
   "artistname": "The Cranberries"
+}
+,
+{
+  "title": "And I Am Telling You I’m Not Going",
+  "artist": "jennifer-hudson",
+  "addition": 1374,
+  "release": 120.5,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "dreamgirls-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/D/dreamgirls.png",
+
+  "albumname": "Dreamgirls",
+  "artistname": "Jennifer Hudson"
 }
 ,
 {
@@ -1277,6 +1389,22 @@
   
   "albumname": "Small Town Boy",
   "artistname": "Duncan Laurence"
+}
+, 
+{
+  "title": "Arthur’s Theme",
+  "artist": "glee-cast",
+  "addition": 1359,
+  "release": 151.3,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "what-the-world-needs-now-is-love",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_what-the-world-needs-now-is-love.png",
+
+  "albumname": "The Music, What the World Needs Now is Love",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -1819,7 +1947,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_glease.png",
 
-  "albumname": "Glee: The Music Presents Glease",
+  "albumname": "The Music Presents Glease",
   "artistname": "Glee Cast"
 }
 ,
@@ -2206,6 +2334,22 @@
   "albumname": "Blurring the Edges",
   "artistname": "Meredith Brooks"
 }
+, 
+{
+  "title": "Black or White",
+  "artist": "glee-cast",
+  "addition": 1321,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-three",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-three.png",
+  
+  "albumname": "The Music: The Complete Season Three",
+  "artistname": "Glee Cast"
+}
 ,
 {
   "title": "Black or White",
@@ -2365,6 +2509,22 @@
   
   "albumname": "American Idiot",
   "artistname": "Green Day"
+}
+,
+{
+  "title": "box breathing",
+  "artist": "sorry-ghost",
+  "addition": 1381,
+  "release": 190.5,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_box-breathing.png",
+  
+  "albumname": "",
+  "artistname": "Sorry Ghost"
 }
 ,
 {
@@ -2592,6 +2752,22 @@
 }
 ,
 {
+  "title": "Bust Your Windows",
+  "artist": "jazmine-sullivan",
+  "addition": 1299,
+  "release": 123.9,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "fearless-2",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jazmine-sullivan_fearless.png",
+  
+  "albumname": "Fearless",
+  "artistname": "Jazmine Sullivan"
+}
+,
+{
   "title": "Camino Soria",
   "artist": "gabinete-caligari",
   "addition": 678,
@@ -2796,6 +2972,22 @@
   "img": "https://marswrites.neocities.org/albums/E/elton-john_candle-in-the-wind-1997.png",
   
   "albumname": "",
+  "artistname": "Elton John"
+}
+, 
+{
+  "title": "Candles",
+  "artist": "hey-monday",
+  "addition": 1300,
+  "release": 125.2,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "hold-on-tight",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/hey-monday_hold-on-tight.png",
+  
+  "albumname": "Hold On Tight",
   "artistname": "Elton John"
 }
 ,
@@ -3614,6 +3806,38 @@
   "albumname": "¿Con quién se queda el perro?",
   "artistname": "Jesse & Joy"
 }
+, 
+{
+  "title": "Cough Syrup",
+  "artist": "glee-cast",
+  "addition": 1323,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-three",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-three.png",
+  
+  "albumname": "The Music: The Complete Season Three",
+  "artistname": "Glee Cast"
+}
+, 
+{
+  "title": "Cough Syrup",
+  "artist": "young-the-giant",
+  "addition": 1379,
+  "release": 133.51,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "young-the-giant",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Y/young-the-giant_young-the-giant.png",
+  
+  "albumname": "Young the Giant",
+  "artistname": "Young the Giant"
+}
 ,
 {
   "title": "Count on Me",
@@ -3918,6 +4142,22 @@
   "albumname": "Prism",
   "artistname": "Katy Perry, Juicy J"
 }
+, 
+{
+  "title": "Daydream Believer",
+  "artist": "glee-cast",
+  "addition": 1356,
+  "release": 153.5,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "dreams-come-true",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_dreams-come-true.png",
+
+  "albumname": "The Music, Dreams Come True",
+  "artistname": "Glee Cast"
+}
 ,
 {
   "title": "Days in the Sun",
@@ -4043,7 +4283,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_celebrating-100-episodes.png",
   
-  "albumname": "Glee: The Music, Celebrating 100 Episodes",
+  "albumname": "The Music, Celebrating 100 Episodes",
   "artistname": "Glee Cast"
 }
 ,
@@ -4286,21 +4526,21 @@
   "albumname": "Please Please Me",
   "artistname": "The Beatles"
 }
-,
+, 
 {
-  "title": "Don't Know Why",
-  "artist": "norah-jones",
-  "addition": 1189,
-  "release": 97.65,
-  "decade": "2000s",
-  "year": 2002,
-  "album": "come-away-with-me",
+  "title": "Don’t Cry for Me Argentina (Rachel)",
+  "artist": "glee-cast",
+  "addition": 1313,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-two",
   "language": "english",
-  "extra": "",
-  "img": "https://marswrites.neocities.org/albums/N/norah-jones_come-away-with-me.png",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-two.png",
   
-  "albumname": "Come Away with Me",
-  "artistname": "Norah Jones"
+  "albumname": "The Music: The Complete Season Two",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -4317,6 +4557,38 @@
   
   "albumname": "Get Close",
   "artistname": "Pretenders"
+}
+, 
+{
+  "title": "Don't Go Breaking My Heart",
+  "artist": "glee-cast",
+  "addition": 1311,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-two",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-two.png",
+  
+  "albumname": "The Music: The Complete Season Two",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Don't Know Why",
+  "artist": "norah-jones",
+  "addition": 1189,
+  "release": 97.65,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "come-away-with-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/norah-jones_come-away-with-me.png",
+  
+  "albumname": "Come Away with Me",
+  "artistname": "Norah Jones"
 }
 , 
 {
@@ -4368,6 +4640,38 @@
 }
 ,
 {
+  "title": "Don't Rain on My Parade",
+  "artist": "glee-cast",
+  "addition": 1308,
+  "release": 129.7,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "the-music-volume-2",
+  "language": "english",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-2.png",
+  
+  "albumname": "The Music, Volume 2",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Don’t Speak",
+  "artist": "glee-cast",
+  "addition": 1335,
+  "release": 143,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "the-complete-season-four",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
+
+  "albumname": "The Music, The Complete Season Four",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Don't Start Now",
   "artist": "dua-lipa",
   "addition": 1012,
@@ -4384,6 +4688,38 @@
 }
 ,
 {
+  "title": "Don’t Stop Believin’ (Rachel)",
+  "artist": "glee-cast",
+  "addition": 1343,
+  "release": 143,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "the-complete-season-four",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
+
+  "albumname": "The Music, The Complete Season Four",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Don’t Stop Believin’ (Rachel)",
+  "artist": "glee-cast",
+  "addition": 1349,
+  "release": 144.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "celebrating-100-episodes",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_celebrating-100-episodes.png",
+  
+  "albumname": "The Music, Celebrating 100 Episodes",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Don't Stop Believin'",
   "artist": "journey",
   "addition": 292,
@@ -4397,6 +4733,22 @@
 
   "albumname": "Esc4p3",
   "artistname": "Journey" 
+}
+,
+{
+  "title": "Don’t Stop Me Now",
+  "artist": "glee-cast",
+  "addition": 1341,
+  "release": 143,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "the-complete-season-four",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
+
+  "albumname": "The Music, The Complete Season Four",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -5020,7 +5372,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
 
-  "albumname": "The Complete Season Four",
+  "albumname": "The Music, The Complete Season Four",
   "artistname": "Glee Cast"
 }
 ,
@@ -5070,6 +5422,22 @@
   
   "albumname": "Hopes and Fears",
   "artistname": "Keane"
+}
+,
+{
+  "title": "Everybod’s Talkin’",
+  "artist": "harry-nilsson",
+  "addition": 1364,
+  "release": 10.9,
+  "decade": "1960s",
+  "year": 1968,
+  "album": "aerial-ballet",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/H/harry-nilsson-aerial-ballet.png",
+
+  "albumname": "Aerial Ballet",
+  "artistname": "Harry Nilsson"
 }
 ,
 {
@@ -5727,6 +6095,22 @@
   "albumname": "Frozen Soundtrack",
   "artistname": "Maia Wilson, Frozen Cast"
 }
+, 
+{
+  "title": "Flashdance (What a Feeling)",
+  "artist": "glee-cast",
+  "addition": 1327,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-three",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-three.png",
+  
+  "albumname": "The Music: The Complete Season Three",
+  "artistname": "Glee Cast"
+}
 ,
 {
   "title": "Flowers",
@@ -5903,6 +6287,22 @@
 
   "albumname": "Fearless",
   "artistname": "Taylor Swift"
+}
+, 
+{
+  "title": "Forget You",
+  "artist": "ceelo-green",
+  "addition": 1380,
+  "release": 133.7,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "the-lady-killer",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/ceelo-green_the-lady-killer.png",
+
+  "albumname": "The Lady Killer",
+  "artistname": "CeeLo Green"
 }
 , 
 {
@@ -6288,6 +6688,38 @@
   "albumname": "The Best Damn Thing",
   "artistname": "Avril Lavigne"
 }
+,
+{
+  "title": "Girls Just Wanna Have Fun",
+  "artist": "miley-cyrus",
+  "addition": 957,
+  "release": 123.7,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "breakout",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/M/miley-cyrus_breakout.png",
+
+  "albumname": "Breakout",
+  "artistname": "Miley Cyrus"
+}
+,
+{
+  "title": "Girls Just Want to Have Fun",
+  "artist": "glee-cast",
+  "addition": 1358,
+  "release": 136.5,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "the-music-volume-7",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-7.png",
+
+  "albumname": "The Music, Volume 7",
+  "artistname": "Glee Cast"
+}
 , 
 {
   "title": "Give It to You",
@@ -6514,6 +6946,22 @@
 }
 ,
 {
+  "title": "Good Riddance (Time Of Your Life)",
+  "artist": "glee-cast",
+  "addition": 1331,
+  "release": 136.75,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-graduation-album",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-graduation-album.png",
+  
+  "albumname": "The Music, The Graduation Album",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Good Riddance (Time of Your Life)",
   "artist": "green-day",
   "addition": 426,
@@ -6563,6 +7011,22 @@
 ,
 {
   "title": "Got to Get You Into my Life",
+  "artist": "glee-cast",
+  "addition": 1345,
+  "release": 141.2,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "sings-the-beatles",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_sings-the-beatles.png",
+  
+  "albumname": "Glee Sings the Beatles",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Got to Get You Into my Life",
   "artist": "the-beatles",
   "addition": 53,
   "release": 9,
@@ -6607,6 +7071,22 @@
   
   "albumname": "Life in Cartoon Motion",
   "artistname": "MIKA"
+}
+,
+{
+  "title": "Greased Lightnin’",
+  "artist": "john-travolta,jeff-conaway",
+  "addition": 1298,
+  "release": 28,
+  "decade": "1970s",
+  "year": 1978,
+  "album": "grease-soundtrack",
+  "language": "english",
+  "extra": "musical,explicit",
+  "img": "https://marswrites.neocities.org/albums/G/grease.png",
+  
+  "albumname": "Grease Soundtrack",
+  "artistname": "John Travolta, Jeff Conaway"
 }
 ,
 {
@@ -6783,6 +7263,38 @@
   
   "albumname": "Sing! Soundtrack",
   "artistname": "Tori Kelly, Jennifer Hudson"
+}
+,
+{
+  "title": "Halo",
+  "artist": "beyonce",
+  "addition": 1301,
+  "release": 125.51,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "i-am-sasha-fierce",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/beyonce_i-am-sasha-fierce.png",
+  
+  "albumname": "I Am… Sasha Fierce",
+  "artistname": "Beyoncé"
+}
+,
+{
+  "title": "Halo/Walking on Sunshine",
+  "artist": "glee-cast",
+  "addition": 1306,
+  "release": 133.4,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "the-complete-season-one",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-one.png",
+  
+  "albumname": "The Complete Season One",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -7042,6 +7554,22 @@
 }
 ,
 {
+  "title": "Heaven",
+  "artist": "julia-michaels",
+  "addition": 1384,
+  "release": 165.3,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "fifty-shades-freed-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/F/fiftyshadesfreed.png",
+
+  "albumname": "Fifty Shades Freed Soundtrack",
+  "artistname": "Julia Michaels"
+}
+,
+{
   "title": "Hedwig's Theme",
   "artist": "john-williams",
   "addition": 594,
@@ -7139,6 +7667,22 @@
 ,
 {
   "title": "Here Comes the Sun",
+  "artist": "glee-cast,demi-lovato",
+  "addition": 1347,
+  "release": 141.2,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "sings-the-beatles",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_sings-the-beatles.png",
+  
+  "albumname": "Glee Sings the Beatles",
+  "artistname": "Glee Cast, Demi Lovato"
+}
+,
+{
+  "title": "Here Comes the Sun",
   "artist": "the-beatles",
   "addition": 51,
   "release": 13,  
@@ -7151,6 +7695,22 @@
   
   "albumname": "Abbey Road",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Here’s to Us",
+  "artist": "glee-cast",
+  "addition": 1324,
+  "release": 136.75,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-graduation-album",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-graduation-album.png",
+  
+  "albumname": "The Music, The Graduation Album",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -7226,7 +7786,7 @@
   "year": 2013,
   "album": "sings-the-beatles",
   "language": "english",
-  "extra": "cover",
+  "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_sings-the-beatles.png",
   
   "albumname": "Glee Sings the Beatles",
@@ -7247,6 +7807,22 @@
   
   "albumname": "",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "Hey, Soul Sister",
+  "artist": "glee-cast,darren-criss",
+  "addition": 1314,
+  "release": 135.3,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "presents-the-warblers",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_presents-the-warblers.png",
+  
+  "albumname": "The Music Presents The Warblers",
+  "artistname": "Glee Cast, Darren Criss"
 }
 ,
 {
@@ -7461,15 +8037,15 @@
   "title": " Holding Out for a Hero",
   "artist": "glee-cast",
   "addition": 226,
-  "release": 143,
+  "release": 138.7,
   "decade": "2010s",
-  "year": 2014,
-  "album": "the-complete-season-four",
+  "year": 2012,
+  "album": "season-4-volume-1",
   "language": "english",
   "extra": "cover,musical",
-  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_season-4-volume-1.png",
 
-  "albumname": "The Complete Season Four",
+  "albumname": "The Music, Season 4, Volume 1",
   "artistname": "Glee Cast"
 }
 ,
@@ -7727,6 +8303,22 @@
 
   "albumname": "Beauty and the Beast Soundtrack",
   "artistname": "Céline Dion"
+}
+, 
+{
+  "title": "How to Be Your Friend",
+  "artist": "maddie-zahm",
+  "addition": 1365,
+  "release": 118.4,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/maddie-zahm_how-to-be-your-friend.png",
+
+  "albumname": "",
+  "artistname": "Maddie Zahm"
 }
 , 
 {
@@ -8066,6 +8658,22 @@
 }
 ,
 {
+  "title": "I Feel Pretty",
+  "artist": "rachel-zegler,west-side-story-cast",
+  "addition": 1297,
+  "release": 183.3,
+  "decade": "2020s",
+  "year": 2021,
+  "album": " west-side-story-soundtrack-new",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/W/westsidestory-new.png",
+
+  "albumname": "West Side Story Soundtrack",
+  "artistname": "Rachel Zegler, West Side Story Cast"
+}
+,
+{
   "title": "I Guess That's Why They Call it the Blues",
   "artist": "elton-john",
   "addition": 520,
@@ -8384,6 +8992,22 @@
   "albumname": "Skin",
   "artistname": "Melissa Etheridge"
 }
+, 
+{
+  "title": "I Want to Break Free",
+  "artist": "glee-cast",
+  "addition": 1354,
+  "release": 151.7,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "child-star",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_child-star.png",
+
+  "albumname": "The Music, Child Star",
+  "artistname": "Glee Cast"
+}
 ,
 {
   "title": "I Want to Break Free",
@@ -8480,6 +9104,22 @@
   "albumname": " Jolene",
   "artistname": "Dolly Parton"
 }
+, 
+{
+  "title": "I Will Always Love You",
+  "artist": "glee-cast",
+  "addition": 1322,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-three",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-three.png",
+  
+  "albumname": "The Music: The Complete Season Three",
+  "artistname": "Glee Cast"
+}
 ,
 {
   "title": "I Will Always Love You",
@@ -8498,6 +9138,22 @@
 }
 ,
 {
+  "title": "I Will Survive",
+  "artist": "demi-lovato",
+  "addition": 1291,
+  "release": 157.433,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "the-angry-birds-movie-soundtrack",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/T/theangrybirdsmovie.png",
+
+  "albumname": "The Angry Birds Movie",
+  "artistname": "Demi Lovato"
+}
+,
+{
   "title": "I Won't Give Up",
   "artist": "jason-mraz",
   "addition": 441,
@@ -8511,6 +9167,22 @@
 
   "albumname": "Love is a Four Letter Word",
   "artistname": "Jason Mraz"
+}
+,
+{
+  "title": "I Won’t Say (I’m in Love)",
+  "artist": "susan-egan,hercules-cast",
+  "addition": 1370,
+  "release": 88.6,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "hercules-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/H/hercules.png",
+
+  "albumname": "Hercules Soundtrack",
+  "artistname": "Roger Bart, Disney"
 }
 ,
 {
@@ -8610,6 +9282,38 @@
 }
 ,
 {
+  "title": "I’ll Stand by You (Finn)",
+  "artist": "glee-cast",
+  "addition": 1333,
+  "release": 129.7,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "the-music-volume-2",
+  "language": "english",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-2.png",
+  
+  "albumname": "The Music, Volume 2",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "I’ll Stand by You (Mercedes)",
+  "artist": "glee-cast",
+  "addition": 1332,
+  "release": 141.5,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "the-quarterback",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-quarterback.png",
+
+  "albumname": "The Music, The Quarterback",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "I'm a Believer",
   "artist": "smash-mouth",
   "addition": 334,
@@ -8704,6 +9408,22 @@
   "albumname": "Taylor Swift",
   "artistname": "Taylor Swift"
 }
+, 
+{
+  "title": "I’m So Excited",
+  "artist": "glee-cast,the-troubletones",
+  "addition": 1353,
+  "release": 151.6,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "a-wedding",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_a-wedding.png",
+
+  "albumname": "The Music, A Wedding",
+  "artistname": "Glee Cast, The Troubletones"
+}
 ,
 {
   "title": "I'm Still Standing",
@@ -8719,6 +9439,22 @@
   
   "albumname": "Too Low for Zero",
   "artistname": "Elton John"
+}
+, 
+{
+  "title": "I’m Still Standing",
+  "artist": "glee-cast",
+  "addition": 1325,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-three",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-three.png",
+  
+  "albumname": "The Music: The Complete Season Three",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -9218,6 +9954,22 @@
 }
 , 
 {
+  "title": "It’s All Coming Back to Me Now",
+  "artist": "glee-cast",
+  "addition": 1328,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-three",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-three.png",
+  
+  "albumname": "The Music: The Complete Season Three",
+  "artistname": "Glee Cast"
+}
+, 
+{
   "title": "It's All Coming Back to Me Now",
   "artist": "pandora's-box",
   "addition": 447,
@@ -9263,6 +10015,22 @@
 
   "albumname": "Pete’s Dragon Soundtrack",
   "artistname": "Helen Reddy, Sean Marshall"
+}
+,
+{
+  "title": "It's Not Unusual",
+  "artist": "glee-cast",
+  "addition": 1317,
+  "release": 136.5,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "the-music-volume-7",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-7.png",
+
+  "albumname": "The Music, Volume 7",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -9327,6 +10095,22 @@
   
   "albumname": "lovestrong.",
   "artistname": "Christina Perri"
+}
+, 
+{
+  "title": "Jar of Hearts",
+  "artist": "glee-cast",
+  "addition": 1316,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-two",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-two.png",
+  
+  "albumname": "The Music: The Complete Season Two",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -9666,6 +10450,22 @@
 }
 ,
 {
+  "title": "Keep Holding On (Puck)",
+  "artist": "glee-cast",
+  "addition": 1348,
+  "release": 144.8,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "celebrating-100-episodes",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_celebrating-100-episodes.png",
+  
+  "albumname": "The Music, Celebrating 100 Episodes",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Kids in Love",
   "artist": "p!nk,first-aid-kit",
   "addition": 641,
@@ -9730,6 +10530,22 @@
 }
 ,
 {
+  "title": "Kingdom Dance",
+  "artist": "alan-menken",
+  "addition": 1293,
+  "release": 134,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "tangled-soundtrack",
+  "language": "",
+  "extra": "musical,disney,instrumental",
+  "img": "https://marswrites.neocities.org/albums/T/tangled.png",
+  
+  "albumname": "Tangled Soundtrack",
+  "artistname": "Alan Menken"
+}
+,
+{
   "title": "Kiss the Girl",
   "artist": "samuel-e-wright,disney",
   "addition": 119,
@@ -9760,6 +10576,22 @@
   
   "albumname": "",
   "artistname": "JP Saxe, Julia Michaels"
+}
+,
+{
+  "title": "Kites",
+  "artist": "sorry-ghost",
+  "addition": 1387,
+  "release": 181.7,
+  "decade": "2020s",
+  "year": 2021,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_kites.png",
+
+  "albumname": "",
+  "artistname": "Sorry Ghost" 
 }
 ,
 {
@@ -9824,6 +10656,22 @@
   
   "albumname": "Lo más lejos a tu lado",
   "artistname": "Fito y Fitipaldis"
+}
+,
+{
+  "title": "La fuerza del corazón",
+  "artist": "alejandro-sanz",
+  "addition": 1371,
+  "release": 83.9,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "alejandro-sanz-3",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/alejandro-sanz_alejandro-sanz-3.png",
+  
+  "albumname": "Alejandro Sanz 3",
+  "artistname": "Alejandro Sanz"
 }
 ,
 {
@@ -10083,6 +10931,22 @@
 }
 ,
 {
+  "title": "Last Supper",
+  "artist": "sorry-ghost",
+  "addition": 1389,
+  "release": 183.65,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "i-did-did-i?",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_i-did-did-i?.png",
+  
+  "albumname": "I DID/DID I?",
+  "artistname": "Sorry Ghost"
+}
+,
+{
   "title": "Lavender Blue (Dilly Dilly)",
   "artist": "burl-ives",
   "addition": 1037,
@@ -10285,7 +11149,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
   
-  "albumname": "The Complete Season Four",
+  "albumname": "The Music, The Complete Season Four",
   "artistname": "Glee Cast"
 }
 ,
@@ -10415,6 +11279,22 @@
   
   "albumname": "-",
   "artistname": "Ed Sheeran, Luke Combs"
+}
+,
+{
+  "title": "Life is a Highway",
+  "artist": "rascal-flatts",
+  "addition": 1372,
+  "release": 118.8,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "me-and-my-gang",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rascal-flatts_me-and-my-gang.png",
+  
+  "albumname": "Me and My Gang",
+  "artistname": "Rascal Flatts"
 }
 ,
 {
@@ -10575,6 +11455,22 @@
 
   "albumname": "B’Day",
   "artistname": "Beyoncé"
+}
+, 
+{
+  "title": "Listen to Your Heart",
+  "artist": "glee-cast",
+  "addition": 1355,
+  "release": 152.5,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "we-built-this-glee-club",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_we-built-this-glee-club.png",
+
+  "albumname": "The Music, We Built This Glee Club",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -10846,7 +11742,23 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
   
-  "albumname": "The Complete Season Four",
+  "albumname": "The Music, The Complete Season Four",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Look at Me, I'm Sandra Dee",
+  "artist": "glee-cast",
+  "addition": 1337,
+  "release": 138.3,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "glease",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_glease.png",
+
+  "albumname": "The Music Presents Glease",
   "artistname": "Glee Cast"
 }
 ,
@@ -10862,7 +11774,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_glease.png",
 
-  "albumname": "Glee: The Music Presents Glease",
+  "albumname": "The Music Presents Glease",
   "artistname": "Glee Cast"
 }
 ,
@@ -11299,6 +12211,38 @@
 }
 ,
 {
+  "title": "Madre sabe más",
+  "artist": "celia-vergara",
+  "addition": 1295,
+  "release": 134,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "tangled-soundtrack",
+  "language": "spanish",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/tangled.png",
+  
+  "albumname": "Tangled Soundtrack",
+  "artistname": "Celia Vergara"
+}
+,
+{
+  "title": "Madre sabe más (Reprise)",
+  "artist": "celia-vergara",
+  "addition": 1294,
+  "release": 134,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "tangled-soundtrack",
+  "language": "spanish",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/tangled.png",
+  
+  "albumname": "Tangled Soundtrack",
+  "artistname": "Celia Vergara"
+}
+,
+{
   "title": "Main on End (from ''Avengers: Endgame'')",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 627,
@@ -11438,7 +12382,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-quarterback.png",
 
-  "albumname": "The Quarterback",
+  "albumname": "The Music, The Quarterback",
   "artistname": "Glee Cast"
 }
 ,
@@ -11491,6 +12435,22 @@
 }
 ,
 {
+  "title": "Mamma Mia",
+  "artist": "glee-cast",
+  "addition": 1342,
+  "release": 143,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "the-complete-season-four",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
+
+  "albumname": "The Music, The Complete Season Four",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Man! I Feel Like a Woman!",
   "artist": "shania-twain",
   "addition": 885,
@@ -11520,6 +12480,22 @@
 
   "albumname": "Bad",
   "artistname": "Michael Jackson"
+}
+,
+{
+  "title": "Man in the Mirror",
+  "artist": "glee-cast",
+  "addition": 1318,
+  "release": 136.5,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "the-music-volume-7",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-7.png",
+
+  "albumname": "The Music, Volume 7",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -11857,6 +12833,22 @@
   
   "albumname": "Thank You",
   "artistname": "Meghan Trainor"
+}
+, 
+{
+  "title": "Mean",
+  "artist": "glee-cast",
+  "addition": 1326,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-three",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-three.png",
+  
+  "albumname": "The Music: The Complete Season Three",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -12231,6 +13223,22 @@
   "title": "Mother Knows Best",
   "artist": "donna-murphy",
   "addition": 455,
+  "release": 134,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "tangled-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/tangled.png",
+  
+  "albumname": "Tangled Soundtrack",
+  "artistname": "Donna Murphy"
+}
+,
+{
+  "title": "Mother Knows Best (Reprise)",
+  "artist": "donna-murphy",
+  "addition": 1292,
   "release": 134,
   "decade": "2010s",
   "year": 2010,
@@ -12740,6 +13748,22 @@
 }
 ,
 {
+  "title": "Ni una sola palabra",
+  "artist": "paulina-rubio",
+  "addition": 1375,
+  "release": 119.1,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "ananda",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/paulina-rubio_ananda.png",
+  
+  "albumname": "Ananda",
+  "artistname": "Paulina Rubio"
+}
+,
+{
   "title": "Night Changes",
   "artist": "one-direction",
   "addition": 260,
@@ -12769,6 +13793,22 @@
 
   "albumname": "Automatic for the People",
   "artistname": "R. E. M"
+}
+,
+{
+  "title": "Nine in the Afternoon",
+  "artist": "panic!-at-the-disco",
+  "addition": 1303,
+  "release": 122.9,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "pretty-odd",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/panic!-at-the-disco_pretty-odd.png",
+  
+  "albumname": "Pretty. Odd.",
+  "artistname": "Panic! at the Disco"
 }
 ,
 {
@@ -12833,6 +13873,22 @@
   
   "albumname": "Title",
   "artistname": "Meghan Trainor"
+}
+,
+{
+  "title": "No me crees",
+  "artist": "efecto-mariposa,javier-ojeda",
+  "addition": 1296,
+  "release": 118.7,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "complejidad",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/E/efecto-mariposa_complejidad.png",
+  
+  "albumname": "Complejidad",
+  "artistname": "Efecto Mariposa, Javier Ojeda"
 }
 ,
 {
@@ -12929,6 +13985,22 @@
   
   "albumname": "19 días y 500 noches",
   "artistname": "Joaquín Sabina"
+}
+, 
+{
+  "title": "Nosedive",
+  "artist": "sorry-ghost",
+  "addition": 1388,
+  "release": 175.48,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "the-morning-after",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_the-morning-after.png",
+  
+  "albumname": "The Morning After",
+  "artistname": "Sorry Ghost"
 }
 , 
 {
@@ -13365,6 +14437,22 @@
 }
 ,
 {
+  "title": "Over the Rainbow",
+  "artist": "glee-cast",
+  "addition": 1310,
+  "release": 132.5,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "journey-to-regionals",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-journey-to-regionals.png",
+
+  "albumname": "The Music: Journey to Regionals",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Over You",
   "artist": "ingrid-michaelson,a-great-big-world",
   "addition": 553,
@@ -13538,6 +14626,22 @@
   
   "albumname": "Staying at Tamara's",
   "artistname": "George Ezra"
+}
+,
+{
+  "title": "Paradise by the Dashboard Light",
+  "artist": "glee-cast",
+  "addition": 1329,
+  "release": 136.75,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-graduation-album",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-graduation-album.png",
+  
+  "albumname": "The Music, The Graduation Album",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -13894,6 +14998,22 @@
 }
 ,
 {
+  "title": "Poker Face",
+  "artist": "lady-gaga",
+  "addition": 1304,
+  "release": 123.75,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "the-fame",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/L/lady-gaga_poker-face.png",
+  
+  "albumname": "The Fame",
+  "artistname": "Lady Gaga"
+}
+,
+{
   "title": "Pon de Replay",
   "artist": "rihanna",
   "addition": 920,
@@ -13937,7 +15057,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_2009.png",
 
-  "albumname": "Glee: The Music: 2009",
+  "albumname": "The Music: 2009",
   "artistname": "Glee Cast"
 }
 ,
@@ -14295,6 +15415,22 @@
 ,
 {
   "title": "Proud Mary",
+  "artist": "glee-cast",
+  "addition": 1334,
+  "release": 129.7,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "the-music-volume-2",
+  "language": "english",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-2.png",
+  
+  "albumname": "The Music, Volume 2",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Proud Mary",
   "artist": "Tina Turner",
   "addition": 304,
   "release": 80.8,
@@ -14599,6 +15735,22 @@
 }
 ,
 {
+  "title": "robin",
+  "artist": "sorry-ghost",
+  "addition": 1383,
+  "release": 185.6,
+  "decade": "2020s",
+  "year": 2023,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_robin.png",
+  
+  "albumname": "",
+  "artistname": "Sorry Ghost"
+}
+,
+{
   "title": "Rock You Like a Hurricane",
   "artist": "scorpions",
   "addition": 1095,
@@ -14644,6 +15796,22 @@
   
   "albumname": "21",
   "artistname": "Adele"
+}
+,
+{
+  "title": "Rolling in the Deep",
+  "artist": "glee-cast,jonathan-groff",
+  "addition": 1315,
+  "release": 135.49,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "the-music-volume-6",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-6.png",
+  
+  "albumname": "The Music: Volume 6",
+  "artistname": "Glee Cast, Jonathan Groff"
 }
 , 
 {
@@ -14724,6 +15892,22 @@
 
   "albumname": "Red (Taylor's Version)",
   "artistname": "Taylor Swift, Ed Sheeran"
+}
+,
+{
+  "title": "Run Joey Run",
+  "artist": "glee-cast,jonathan-groff",
+  "addition": 1309,
+  "release": 133.4,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "the-complete-season-one",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-one.png",
+  
+  "albumname": "The Complete Season One",
+  "artistname": "Glee Cast, Jonathan Groff"
 }
 ,
 {
@@ -14914,7 +16098,7 @@
   "extra": "cover,musical",
   "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-quarterback.png",
 
-  "albumname": "The Quarterback",
+  "albumname": "The Music, The Quarterback",
   "artistname": "Glee Cast"
 }
 ,
@@ -15172,6 +16356,22 @@
   
   "albumname": "Notting Hill Soundtrack",
   "artistname": "Elvis Costello"
+}
+, 
+{
+  "title": "She Looks So Perfect",
+  "artist": "5-seconds-of-summer",
+  "addition": 1377,
+  "release": 146.5,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "5-seconds-of-summer",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/five-seconds-of-summer_five-seconds-of-summer.png",
+  
+  "albumname": "5 Seconds of Summer",
+  "artistname": "5 Seconds of Summer"
 }
 ,
 {
@@ -15560,6 +16760,22 @@
 }
 ,
 {
+  "title": "small time fish (big time pond)",
+  "artist": "sorry-ghost",
+  "addition": 1382,
+  "release": 186.5,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_small-time-fish-big-time-pond.png",
+  
+  "albumname": "",
+  "artistname": "Sorry Ghost"
+}
+,
+{
   "title": "Smells Like Teen Spirit",
   "artist": "nirvana",
   "addition": 846,
@@ -15688,6 +16904,22 @@
 }
 ,
 {
+  "title": "Some Nights",
+  "artist": "glee-cast",
+  "addition": 1340,
+  "release": 138.7,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "season-4-volume-1",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_season-4-volume-1.png",
+
+  "albumname": "The Music, Season 4, Volume 1",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Somebody to Love",
   "artist": "george-michael,queen",
   "addition": 174,
@@ -15699,8 +16931,24 @@
   "extra": "live",
   "img": "https://marswrites.neocities.org/albums/G/george-michael_five-live.png",
   
-  "albumname": "Somebody to Love",
+  "albumname": "Five Live",
   "artistname": "George Michael, Queen"
+}
+,
+{
+  "title": "Somebody to Love",
+  "artist": "glee-cast",
+  "addition": 1305,
+  "release": 129.4,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "the-music-volume-1",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-1.png",
+  
+  "albumname": "The Music, Volume 1",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -16118,6 +17366,22 @@
   "albumname": "",
   "artistname": "Wheatus"
 }
+, 
+{
+  "title": "Start Me Up/Livin’ on a Prayer",
+  "artist": "glee-cast",
+  "addition": 1312,
+  "release": 136.85,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-complete-season-two",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-two.png",
+  
+  "albumname": "The Music: The Complete Season Two",
+  "artistname": "Glee Cast"
+}
 ,
 {
   "title": "STAY",
@@ -16457,6 +17721,22 @@
 ,
 {
   "title": "Summer Nights",
+  "artist": "glee-cast",
+  "addition": 1320,
+  "release": 138.3,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "glease",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_glease.png",
+
+  "albumname": "The Music Presents Glease",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Summer Nights",
   "artist": "olivia-newton-john,john-travolta",
   "addition": 70,
   "release": 28,
@@ -16664,6 +17944,22 @@
 }
 ,
 {
+  "title": "Sweet Caroline",
+  "artist": "glee-cast",
+  "addition": 1307,
+  "release": 129.4,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "the-music-volume-1",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-music-volume-1.png",
+  
+  "albumname": "The Music, Volume 1",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "Sweet Child o' Mine",
   "artist": "guns-n-roses",
   "addition": 272,
@@ -16824,6 +18120,22 @@
 }
 ,
 {
+  "title": "Take On Me",
+  "artist": "anni-b-sweet",
+  "addition": 1378,
+  "release": 130.5,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "start-restart-undo",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/A/anni-b-sweet_start-restart-undo.png",
+  
+  "albumname": "Start, Restart, Undo",
+  "artistname": "Anni B Sweet"
+}
+,
+{
   "title": "Tal Vez",
   "artist": "ricky-martin",
   "addition": 1199,
@@ -16902,7 +18214,6 @@
   "albumname": "La cagaste... Burt Lancaster",
   "artistname": "Hombres G"
 }
-
 , 
 {
   "title": "Teardrops on My Guitar",
@@ -17033,6 +18344,22 @@
 }
 ,
 {
+  "title": "Teeth",
+  "artist": "5-seconds-of-summer",
+  "addition": 1376,
+  "release": 119.49,
+  "decade": "2010s",
+  "year": 2019,
+  "album": "13-reasons-why-season-3",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thirteenreasonswhyseason3.png",
+
+  "albumname": "13 Reasons Why: Season 3 Soundtrack",
+  "artistname": "5 Seconds of Summer"
+}
+,
+{
   "title": "Telling Stories",
   "artist": "tracy-chapman",
   "addition": 1092,
@@ -17111,6 +18438,38 @@
   
   "albumname": "The Album",
   "artistname": "ABBA"
+}
+,
+{
+  "title": "That Thing You Do!",
+  "artist": "green-day",
+  "addition": 1362,
+  "release": 177.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "no-fun-mondays",
+  "language": "english",
+  "extra": "musical,cover",
+  "img": "https://marswrites.neocities.org/albums/G/green-day_no-fun-mondays.png",
+  
+  "albumname": "No Fun Mondays",
+  "artistname": "Green Day"
+}
+,
+{
+  "title": "That Thing You Do!",
+  "artist": "the-wonders",
+  "addition": 1361,
+  "release": 87.8,
+  "decade": "1990s",
+  "year": 1996,
+  "album": "that-thing-you-do!-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thatthingyoudo!.png",
+  
+  "albumname": "That Thing You Do!",
+  "artistname": "The Wonders"
 }
 ,
 {
@@ -17335,6 +18694,22 @@
   
   "albumname": "GIRL",
   "artistname": "Maren Morris"
+}
+,
+{
+  "title": "The Boy Does Nothing",
+  "artist": "alesha-dixon",
+  "addition": 1302,
+  "release": 126.2,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "the-alesha-show",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/alesha-dixon_the-alesha-show.png",
+
+  "albumname": "The Alesha Show",
+  "artistname": "Alesha Dixon"
 }
 ,
 {
@@ -17738,6 +19113,22 @@
 }
 ,
 {
+  "title": " The Scientist",
+  "artist": "glee-cast",
+  "addition": 1336,
+  "release": 138.7,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "season-4-volume-1",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_season-4-volume-1.png",
+
+  "albumname": "The Music, Season 4, Volume 1",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "The Show Must Go On",
   "artist": "queen",
   "addition": 41,
@@ -17751,6 +19142,22 @@
   
   "albumname": "Innuendo",
   "artistname": "Queen"
+}
+,
+{
+  "title": "The Silly Song (The Dwarfs’ Yodel Song)",
+  "artist": "the-dwarf-chorus",
+  "addition": 1368,
+  "release": 0.1,
+  "decade": "1950s+",
+  "year": 1938,
+  "album": "snow-white-and-the-seven-dwarfs-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/S/snowwhiteandthesevendwarfs.png",
+  
+  "albumname": "Snow White and the Seven Dwarfs",
+  "artistname": "The Dwarf Chorus"
 }
 ,
 {
@@ -17959,6 +19366,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 3",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "There are Worse Things I Could Do",
+  "artist": "glee-cast,kate-hudson",
+  "addition": 1338,
+  "release": 138.3,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "glease",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_glease.png",
+
+  "albumname": "The Music Presents Glease",
+  "artistname": "Glee Cast, Kate Hudson"
 }
 ,
 {
@@ -18280,6 +19703,22 @@
   "albumname": "Taylor Swift",
   "artistname": "Taylor Swift"
 }
+, 
+{
+  "title": "Time After Time",
+  "artist": "glee-cast",
+  "addition": 1352,
+  "release": 151.4,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "transitioning",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_transitioning.png",
+
+  "albumname": "The Music, Transitioning",
+  "artistname": "Glee Cast"
+}
 ,
 {
   "title": "Time to Say Goodbye",
@@ -18375,6 +19814,22 @@
   
   "albumname": "Title",
   "artistname": "Meghan Trainor"
+}
+,
+{
+  "title": "To All the Boys I've Loved Before",
+  "artist": "jax",
+  "addition": 1385,
+  "release": 183.35,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/J/jax_to-all-the-boys-i've-loved-before.png",
+
+  "albumname": "",
+  "artistname": "Jax"
 }
 ,
 {
@@ -19050,6 +20505,22 @@
 }
 ,
 {
+  "title": "Viva La Vida",
+  "artist": "coldplay",
+  "addition": 1374,
+  "release": 123.55,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "viva-la-vida-or-death-and-all-his-friends",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/coldplay_viva-la-vida-or-death-and-all-his-friends.png",
+
+  "albumname": "Viva la Vida or Death and All His Friends",
+  "artistname": "Coldplay"
+}
+,
+{
   "title": "Vivir Sin Aire",
   "artist": "mana",
   "addition": 86,
@@ -19323,6 +20794,22 @@
 ,
 {
   "title": "We Are the Champions",
+  "artist": "glee-cast",
+  "addition": 1330,
+  "release": 136.75,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-graduation-album",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-graduation-album.png",
+  
+  "albumname": "The Music, The Graduation Album",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "We Are the Champions",
   "artist": "queen",
   "addition": 32,
   "release": 24,
@@ -19351,6 +20838,22 @@
   
   "albumname": "We Are the World",
   "artistname": "USA for Africa"
+}
+,
+{
+  "title": "We Are Young",
+  "artist": "glee-cast",
+  "addition": 1319,
+  "release": 136.75,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "the-graduation-album",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-graduation-album.png",
+  
+  "albumname": "The Music, The Graduation Album",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -19707,6 +21210,22 @@
 }
 ,
 {
+  "title": "When Will My Life Begin? (Reprise 2)",
+  "artist": "mandy-moore",
+  "addition": 1367,
+  "release": 134,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "tangled-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/T/tangled.png",
+  
+  "albumname": "Tangled Soundtrack",
+  "artistname": "Mandy Moore"
+}
+,
+{
   "title": "When You Wish Upon a Star",
   "artist": "cliff-edwards,disney-studio-chorus",
   "addition": 1032,
@@ -19928,6 +21447,22 @@
 
   "albumname": "The Joshua Tree",
   "artistname": "U2"
+}
+,
+{
+  "title": "Without You",
+  "artist": "harry-nilsson",
+  "release": 1363,
+  "addition": 14.65,
+  "decade": "1970s",
+  "year": 1971,
+  "album": "nilson-schmilsson",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/H/harry-nilsson_nilsson-schmilsson.png",
+
+  "albumname": "Nilsson Schmilsson",
+  "artistname": "Harry Nilsson"
 }
 ,
 {
@@ -20184,6 +21719,22 @@
 
   "albumname": "Heathers (Broadway Cast Recording)",
   "artistname": "Jessica Keenan Wynn, Jon Eidson, Evan Todd, Barrett Wilbert Weed, Michelle Duffy"
+}
+,
+{
+  "title": "Yo, Ho (A Pirate’s Life for Me)",
+  "artist": "disney-studio-chorus",
+  "addition": 1369,
+  "release": 99.85,
+  "decade": "2000s",
+  "year": 2003,
+  "album": "pirates-of-the-caribbean-the-curse-of-the-black-pearl-soundtrack",
+  "language": "english",
+  "extra": "musical,disney",
+  "img": "https://marswrites.neocities.org/albums/P/piratesofthecaribbeanthecurseoftheblackpearl.png",
+
+  "albumname": "Pirates of the Caribbean: The Curse of the Black Pearl Soundtrack",
+  "artistname": "Disney Studio Chorus"
 }
 ,
 {
@@ -20507,6 +22058,22 @@
 }
 ,
 {
+  "title": "You’re the One That I Want",
+  "artist": "glee-cast",
+  "addition": 1339,
+  "release": 138.3,
+  "decade": "2010s",
+  "year": 2012,
+  "album": "glease",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_glease.png",
+
+  "albumname": "The Music Presents Glease",
+  "artistname": "Glee Cast"
+}
+,
+{
   "title": "You're the One That I Want",
   "artist": "olivia-newton-john,john-travolta",
   "addition": 71,
@@ -20552,6 +22119,38 @@
   
   "albumname": "Toy Story Soundtrack",
   "artistname": "Randy Newman"
+}
+,
+{
+  "title": "You’ve Got to Hide Your Love Away",
+  "artist": "glee-cast",
+  "addition": 1346,
+  "release": 141.2,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "sings-the-beatles",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_sings-the-beatles.png",
+  
+  "albumname": "Glee Sings the Beatles",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "You’ve Lost That Lovin’ Feelin’",
+  "artist": "glee-cast",
+  "addition": 1344,
+  "release": 143,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "the-complete-season-four",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-complete-season-four.png",
+
+  "albumname": "The Music, The Complete Season Four",
+  "artistname": "Glee Cast"
 }
 ,
 {
@@ -20650,4 +22249,21 @@
   "albumname": "No Need to Argue",
   "artistname": "The Cranberries"
 }
+,
+{
+  "title": "zombieland",
+  "artist": "jax,hardy",
+  "addition": 1386,
+  "release": 186,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "dear-joe",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/J/jax_dear-joe,.png",
+  
+  "albumname": "Dear Joe,",
+  "artistname": "Jax, HARDY"
+}
 ]
+
