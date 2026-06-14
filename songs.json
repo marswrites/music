@@ -793,7 +793,7 @@
   "album": "the-hurt-locker-part-2",
   "language": "english",
   "extra": "cover,musical",
-  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-hurt-ocker-part-2.png",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-hurt-locker-part-2.png",
   
   "albumname": "The Music, The Hurt Locker, Part 2",
   "artistname": "Glee Cast"
@@ -5425,7 +5425,7 @@
 }
 ,
 {
-  "title": "Everybod’s Talkin’",
+  "title": "Everybody’s Talkin’",
   "artist": "harry-nilsson",
   "addition": 1364,
   "release": 10.9,
@@ -5434,7 +5434,7 @@
   "album": "aerial-ballet",
   "language": "english",
   "extra": "cover",
-  "img": "https://marswrites.neocities.org/albums/H/harry-nilsson-aerial-ballet.png",
+  "img": "https://marswrites.neocities.org/albums/H/harry-nilsson_aerial-ballet.png",
 
   "albumname": "Aerial Ballet",
   "artistname": "Harry Nilsson"
@@ -10940,7 +10940,7 @@
   "album": "i-did-did-i?",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_i-did-did-i?.png",
+  "img": "https://marswrites.neocities.org/albums/S/sorry-ghost_i-did-did-i.png",
   
   "albumname": "I DID/DID I?",
   "artistname": "Sorry Ghost"
@@ -15007,7 +15007,7 @@
   "album": "the-fame",
   "language": "english",
   "extra": "explicit",
-  "img": "https://marswrites.neocities.org/albums/L/lady-gaga_poker-face.png",
+  "img": "https://marswrites.neocities.org/albums/L/lady-gaga_the-fame.png",
   
   "albumname": "The Fame",
   "artistname": "Lady Gaga"
@@ -22266,4 +22266,5 @@
   "artistname": "Jax, HARDY"
 }
 ]
+
 
