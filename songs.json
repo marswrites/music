@@ -2739,7 +2739,7 @@
   "title": "blue",
   "artist": "yung-kai",
   "addition": 1446,
-  "release": 145.8,
+  "release": 216,
   "decade": "2020s",
   "year": 2025,
   "album": "stay-with-the-ocean-i'll-find-you",
@@ -5369,7 +5369,7 @@
   "album": "zenyatta-mondatta",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/T/the-police_zenyatta_mondatta.png",
+  "img": "https://marswrites.neocities.org/albums/T/the-police_zenyatta-mondatta.png",
   
   "albumname": "Zenyatta Mondatta",
   "artistname": "The Police"
@@ -13210,7 +13210,7 @@
   "album": "long-gone-before-daylight",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/T/the-cardigans_long-gone-before-dawn.png",
+  "img": "https://marswrites.neocities.org/albums/T/the-cardigans_long-gone-before-daylight.png",
   
   "albumname": "Long Gone Before Daylight",
   "artistname": "The Cardigans"
@@ -20145,22 +20145,6 @@
   "albumname": "La Mejor Música de Cine, Vol. 5",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
 }
-, 
-{
-  "title": "Sugar",
-  "artist": "maroon-5",
-  "addition": 1005,
-  "release": 148.4,
-  "decade": "2010s",
-  "year": 2014,
-  "album": "v",
-  "language": "english",
-  "extra": "",
-  "img": "https://marswrites.neocities.org/albums/M/maroon-5_v.png",
-  
-  "albumname": "V",
-  "artistname": "Maroon 5"
-}
 ,
 {
   "title": "Sugar, We’re Goin Down",
@@ -21655,7 +21639,7 @@
   "title": "The Man Who Sold the World (Live)",
   "artist": "nirvana",
   "addition": 1486,
-  "release": 174.2,
+  "release": 81.4,
   "decade": "1990s",
   "year": 1994,
   "album": "mtv-unplugged-in-new-york",
