@@ -5364,7 +5364,7 @@
   "artist": "paul-anka",
   "addition": 471,
   "release": 1.6,
-  "decade": "1950s",
+  "decade": "1950s+",
   "year": 1958,
   "album": "paul-anka",
   "language": "engliish",
@@ -15058,7 +15058,7 @@
 }
 ,
 {
-  "title": "Make Me Lose Me",
+  "title": "Make Me Lose Control",
   "artist": "eric-carmen",
   "addition": 1598,
   "release": 73.1,
@@ -16812,7 +16812,7 @@
   "album": "the-mother-the-mechanic-and-the-path",
   "language": "english",
   "extra": "",
-  "img": "https://marswrites.neocities.org/albums/T/the-early-november_the-mother-the-mechanic-ahd-the-path.png",
+  "img": "https://marswrites.neocities.org/albums/T/the-early-november_the-mother-the-mechanic-and-the-path.png",
 
   "albumname": "The Mother, The Mechanic, and the Path",
   "artistname": "The Early November"
@@ -18656,6 +18656,22 @@
   
   "albumname": "The Music: Volume 6",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Quitting (The Way I Wrote It)",
+  "artist": "ian-mcconnell",
+  "addition": 1695,
+  "release": 183.73,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "season-1",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/I/ian-mcconnell_season-1.png",
+  
+  "albumname": "Season 1",
+  "artistname": "Ian McConnell"
 }
 ,
 {
@@ -21733,7 +21749,7 @@
   "title": "Survivor",
   "artist": "destiny's-child",
   "addition": 1665,
-  "release": 136.85,
+  "release": 95.987,
   "decade": "2000s",
   "year": 2001,
   "album": "survivor",
@@ -26039,7 +26055,7 @@
   "artist": "pinto-colvig,mary-moder,dorothy-compton,billy-bletcher",
   "addition": 1513,
   "release": 0.05,
-  "decade": "1930s",
+  "decade": "1950s+",
   "year": 1933,
   "album": "silly-symphony",
   "language": "english",
