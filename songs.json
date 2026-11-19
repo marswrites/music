@@ -1,5 +1,21 @@
 [
 {
+  "title": "’39",
+  "artist": "queen",
+  "addition": 1616,
+  "release": 21,
+  "decade": "1970s",
+  "year": 1975,
+  "album": "a-night-at-the-opera",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_a-night-at-the-opera.png",
+  
+  "albumname": "A Night at the Opera",
+  "artistname": "Queen"
+}
+,
+{
   "title": "+ (MÁS)",
   "artist": "aitana,cali-y-el-dandee",
   "addition": 877,
@@ -13,22 +29,6 @@
   
   "albumname": "11 RAZONES",
   "artistname": "Aitana, Cali y el Dandee"
-}
-,
-{
-  "title": "= (IGUAL)",
-  "artist": "aitana",
-  "addition": 881,
-  "release": 178.5,
-  "decade": "2020s",
-  "year": 2020,
-  "album": "11-razones",
-  "language": "spanish",
-  "extra": "",
-  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
-  
-  "albumname": "11 RAZONES",
-  "artistname": "Aitana"
 }
 ,
 {
@@ -221,6 +221,22 @@
   
   "albumname": "9 to 5 and Odd Jobs",
   "artistname": "Dolly Parton"
+}
+,
+{
+  "title": "= (IGUAL)",
+  "artist": "aitana",
+  "addition": 881,
+  "release": 178.5,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "11-razones",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/aitana_11-razones.png",
+  
+  "albumname": "11 RAZONES",
+  "artistname": "Aitana"
 }
 ,
 {
@@ -941,6 +957,22 @@
   
   "albumname": "Red (Taylor's Version)",
   "artistname": "Taylor Swift"
+}
+, 
+{
+  "title": "All You Need is Love",
+  "artist": "the-beatles",
+  "addition": 1646,
+  "release": 10.1,
+  "decade": "1960s",
+  "year": 1967,
+  "album": "magical-mystery-tour",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_magical-mystery-tour.png",
+  
+  "albumname": "Magical Mystery Tour",
+  "artistname": "The Beatles"
 }
 , 
 {
@@ -1776,6 +1808,22 @@
 }
 ,
 {
+  "title": "Back in Black",
+  "artist": "ac-dc",
+  "addition": 1621,
+  "release": 31.3,
+  "decade": "1980s",
+  "year": 1980,
+  "album": "back-in-black",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ac-dc_back-in-black.png",
+  
+  "albumname": "Back in Black",
+  "artistname": "AC/DC"
+}
+,
+{
   "title": "Back to Black",
   "artist": "amy-winehouse",
   "addition": 14,
@@ -1901,6 +1949,22 @@
   
   "albumname": "The Music, Volume 3, Showstoppers",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Bad Romance",
+  "artist": "lady-gaga",
+  "addition": 1651,
+  "release": 123.75,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "the-fame",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/L/lady-gaga_the-fame.png",
+  
+  "albumname": "The Fame",
+  "artistname": "Lady Gaga"
 }
 ,
 {
@@ -2189,6 +2253,22 @@
 
   "albumname": "The Music Presents Glease",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Before and After",
+  "artist": "rush",
+  "addition": 1603,
+  "release": 19.2,
+  "decade": "1970s",
+  "year": 1974,
+  "album": "rush",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rush_rush.png",
+
+  "albumname": "Rush",
+  "artistname": "Rush"
 }
 ,
 {
@@ -2622,6 +2702,22 @@
   "albumname": "The Music Presents The Warblers",
   "artistname": "Glee Cast"
 }
+,
+{
+  "title": "Blackbird",
+  "artist": "the-beatles",
+  "addition": 1691,
+  "release": 12,
+  "decade": "1960s",
+  "year": 1968,
+  "album": "the-beatles",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-beatles_the-beatles.png",
+
+  "albumname": "The Beatles",
+  "artistname": "The Beatles"
+}
 , 
 {
   "title": "Black or White",
@@ -2765,6 +2861,22 @@
   
   "albumname": "Inner Monologue Part 2",
   "artistname": "Julia Michaels, Niall Horan"
+}
+,
+{
+  "title": "Bohemian Rhapsody",
+  "artist": "queen",
+  "addition": 1659,
+  "release": 21,
+  "decade": "1970s",
+  "year": 1975,
+  "album": "a-night-at-the-opera",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_a-night-at-the-opera.png",
+  
+  "albumname": "A Night at the Opera",
+  "artistname": "Queen"
 }
 ,
 {
@@ -3008,6 +3120,22 @@
 }
 ,
 {
+  "title": "Breakfast in America",
+  "artist": "supertramp",
+  "addition": 1618,
+  "release": 29.12,
+  "decade": "1970s",
+  "year": 1979,
+  "album": "breakfast-in-america",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/supertramp_breakfast-in-america.png",
+  
+  "albumname": "Breakfast in America",
+  "artistname": "Supertramp"
+}
+,
+{
   "title": "bridesmaid",
   "artist": "lauren-spencer-smith",
   "addition": 1523,
@@ -3168,6 +3296,38 @@
 }
 ,
 {
+  "title": "Bye Bye Bye",
+  "artist": "nsync",
+  "addition": 1643,
+  "release": 123.9,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "no-strings-attached",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/nsync_no-strings-attached.png",
+  
+  "albumname": "No Strings Attached",
+  "artistname": "*NSYNC"
+}
+,
+{
+  "title": "Californication",
+  "artist": "red-hot-chili-peppers",
+  "addition": 1613,
+  "release": 92,
+  "decade": "1990s",
+  "year": 1999,
+  "album": "californication",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/red-hot-chili-peppers_californication.png",
+  
+  "albumname": "Californication",
+  "artistname": "Red Hot Chili Peppers"
+}
+,
+{
   "title": "Camino Soria",
   "artist": "gabinete-caligari",
   "addition": 678,
@@ -3197,6 +3357,22 @@
   
   "albumname": "En Joy",
   "artistname": "Jaime Urrutia, Amaral"
+}
+,
+{
+  "title": "Camptown Races",
+  "artist": "second-south-carolina-string-band",
+  "addition": 1680,
+  "release": 95.93,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "hard-road-favorite-camp-songs-of-the-civil-war",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/S/second-south-carolina-string-band_hard-road-favorite-camp-songs-of-the-civil-war.png",
+  
+  "albumname": "Hard Road: Favorite Camp Songs of the Civil War",
+  "artistname": "2nd South Carolina String Band"
 }
 ,
 {
@@ -3344,6 +3520,22 @@
 }
 ,
 {
+  "title": "Can't Get Enough of Myself",
+  "artist": "santigold,bc-unidos",
+  "addition": 1684,
+  "release": 157.35,
+  "decade": "2010s",
+  "year": 2016,
+  "album": "99c",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/santigold_99c.png",
+  
+  "albumname": "99c",
+  "artistname": "Santigold, BC Unidos"
+}
+,
+{
   "title": "Can't Help Falling in Love",
   "artist": "elvis-presley",
   "addition": 17,
@@ -3358,6 +3550,70 @@
   "albumname": "Blue Hawaii Soundtrack",
   "artistname": "Elvis Presley"
 }
+,
+{
+  "title": "Can’t Stop",
+  "artist": "red-hot-chili-peppers",
+  "addition": 1612,
+  "release": 97.81,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "by-the-way",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/red-hot-chili-peppers_by-the-way.png",
+  
+  "albumname": "By the Way",
+  "artistname": "Red Hot Chili Peppers"
+}
+,
+{
+  "title": "Can’t Take My Eyes Off of You",
+  "artist": "gloria-gaynor",
+  "addition": 1687,
+  "release": 88.92,
+  "decade": "1990s",
+  "year": 1997,
+  "album": "the-answer",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/G/gloria-gaynor_the-answer.png",
+  
+  "albumname": "The Answer",
+  "artistname": "Gloria Gaynor"
+}
+,
+{
+  "title": "Can’t Take My Eyes Off You",
+  "artist": "frankie-valli",
+  "addition": 1688,
+  "release": 9.85,
+  "decade": "1960s",
+  "year": 1967,
+  "album": "solo",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/frankie-valli_solo.png",
+  
+  "albumname": "Solo",
+  "artistname": "Frankie Valli"
+}
+,
+{
+  "title": "Can’t Take My Eyes off You",
+  "artist": "muse",
+  "addition": 1682,
+  "release": 97.78,
+  "decade": "2000s",
+  "year": 2002,
+  "album": "dead-star-in-your-world",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/muse_dead-star-in-your-world.png",
+  
+  "albumname": "Dead Star/In Your World",
+  "artistname": "Muse"
+}
 , 
 {
   "title": "Candle in the Wind",
@@ -3371,7 +3627,7 @@
   "extra": "cover",
   "img": "https://marswrites.neocities.org/albums/R/revamp.png",
   
-  "albumname": "Revamp (Tribute to Elton John) ",
+  "albumname": "Revamp (Tribute to Elton John)",
   "artistname": "Ed Sheeran"
 }
 , 
@@ -3437,6 +3693,22 @@
   
   "albumname": "La Mejor Música de Cine, Vol. 5",
   "artistname": "Film Symphony Orchestra, Constantino Martínez Orts"
+}
+,
+{
+  "title": "Captain America “We Did It”",
+  "artist": "alan-silvestri",
+  "addition": 1625,
+  "release": 135.85,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "captain-america-the-first-avenger-soundtrack",
+  "language": "",
+  "extra": "instrumental,musical",
+  "img": "https://marswrites.neocities.org/albums/C/captainamericathefirstavenger.png",
+
+  "albumname": "Captain America: The First Avenger Soundtrack",
+  "artistname": "Alan Silvestri"
 }
 ,
 {
@@ -4077,6 +4349,22 @@
   
   "albumname": "Alicia en el metalverso",
   "artistname": "Mägo de Oz"
+}
+,
+{
+  "title": "Compère Guilleri",
+  "artist": "bruno-coulais,la-maitrise-de-saint-marc",
+  "addition": 1677,
+  "release": 111,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "the-chorus-soundtrack",
+  "language": "french",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thechorus.png",
+  
+  "albumname": "The Chorus Soundtrack",
+  "artistname": "Bruno Coulais, La Maitrise de Saint Marc"
 }
 , 
 {
@@ -4720,6 +5008,22 @@
 }
 ,
 {
+  "title": "De Camptown Races",
+  "artist": "the-mellomen",
+  "addition": 1679,
+  "release": 1.3,
+  "decade": "1950s+",
+  "year": 1957,
+  "album": "meet-me-down-on-main-street",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/T/the-mellomen_meet-me-down-on-main-street.png",
+
+  "albumname": "Meet Me Down on Main Street",
+  "artistname": "The Mellomen"
+}
+,
+{
   "title": "Dead Girl Walking",
   "artist": "barrett-wilbert-weed,ryan-mccartan",
   "addition": 654,
@@ -4833,6 +5137,22 @@
 ,
 {
   "title": "Defying Gravity",
+  "artist": "cynthia-erivo,ariana-grande",
+  "addition": 1676,
+  "release": 190.8,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "wicked-movie",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/W/wickedmovie.png",
+  
+  "albumname": "Wicked Soundtrack (2024)",
+  "artistname": "Cynthia Erivo, Ariana Grande"
+}
+,
+{
+  "title": "Defying Gravity",
   "artist": "glee-cast",
   "addition": 1538,
   "release": 129.4,
@@ -4925,6 +5245,22 @@
 
   "albumname": "Steers and Stripes",
   "artistname": "Brooks & Dunn"
+}
+,
+{
+  "title": "Depende",
+  "artist": "jarabe-de-palo",
+  "addition": 1667,
+  "release": 91.05,
+  "decade": "1990s",
+  "year": 1998,
+  "album": "depende",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jarabe-de-palo_depende.png",
+  
+  "albumname": "Depende",
+  "artistname": "Jarabe de Palo"
 }
 ,
 {
@@ -5085,6 +5421,22 @@
 
   "albumname": "Girls and Boys",
   "artistname": "Ingrid Michaelson"
+}
+,
+{
+  "title": "Die on this Hill",
+  "artist": "sienna-spiro",
+  "addition": 1661,
+  "release": 246,
+  "decade": "2020s",
+  "year": 2026,
+  "album": "visitor",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sienna-spiro_visitor.png",
+  
+  "albumname": "Visitor",
+  "artistname": "Sienna Spiro"
 }
 ,
 {
@@ -5760,6 +6112,38 @@
 }
 ,
 {
+  "title": "Echo de menos",
+  "artist": "kiko-veneno",
+  "addition": 1623,
+  "release": 80.1,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "echate-un-cantecito",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/kiko-veneno_echate-un-cantecito.png",
+  
+  "albumname": "Échate un cantecito",
+  "artistname": "Kiko Veneno"
+}
+,
+{
+  "title": "Eclipse Total del Amor",
+  "artist": "lissette",
+  "addition": 1609,
+  "release": 57.9,
+  "decade": "1980s",
+  "year": 1984,
+  "album": "caricatura",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/L/lissette_caricatura.png",
+
+  "albumname": "Caricatura",
+  "artistname": "Lissette"
+}
+,
+{
   "title": "Ego",
   "artist": "halsey",
   "addition": 1237,
@@ -6157,6 +6541,22 @@
 
   "albumname": "La Ley del Desierto",
   "artistname": "Radio Futura"
+}
+,
+{
+  "title": "Eso que tú me das",
+  "artist": "jarabe-de-palo",
+  "addition": 1668,
+  "release": 176.2,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "tragas-o-escupes",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jarabe-de-palo_tragas-o-escupes.png",
+  
+  "albumname": "Tragas o escupes",
+  "artistname": "Jarabe de Palo"
 }
 ,
 {
@@ -6880,6 +7280,22 @@
 }
 ,
 {
+  "title": "Fire in America",
+  "artist": "sasha-allen",
+  "addition": 1645,
+  "release": 215,
+  "decade": "2020s",
+  "year": 2025,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sasha-allen_fire-in-america.png",
+
+  "albumname": "Fire in America",
+  "artistname": "Sasha Allen"
+}
+,
+{
   "title": "Firework",
   "artist": "katy-perry",
   "addition": 962,
@@ -6973,6 +7389,22 @@
 
   "albumname": "",
   "artistname": "Angy"
+}
+,
+{
+  "title": "Física o química",
+  "artist": "despistaos",
+  "addition": 1670,
+  "release": 125.3,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "lo-que-hemos-vivido",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/despistaos_lo-que-hemos-vivido.png",
+  
+  "albumname": "Lo que hemos vivido",
+  "artistname": "Despistaos"
 }
 ,
 {
@@ -7423,9 +7855,41 @@
   "albumname": "Frozen Soundtrack",
   "artistname": "Frozen Cast"
 }
+, 
+{
+  "title": "G Minor Bach",
+  "artist": "kassia",
+  "addition": 1628,
+  "release": 175.7,
+  "decade": "2020s",
+  "year": 2020,
+  "album": "",
+  "language": "",
+  "extra": "instrumental,cover",
+  "img": "https://marswrites.neocities.org/albums/K/kassia_g-minor-bach.png",
+
+  "albumname": "",
+  "artistname": "Kassia"
+}
 ,
 {
-  "title": "Gangsta’s Paradise,",
+  "title": "Gabriela",
+  "artist": "katseye",
+  "addition": 1673,
+  "release": 207.98,
+  "decade": "2020s",
+  "year": 2025,
+  "album": "beautiful-chaos",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/katseye_beautiful-chaos.png",
+  
+  "albumname": "Gabriela",
+  "artistname": "KATSEYE"
+}
+,
+{
+  "title": "Gangsta’s Paradise",
   "artist": "coolio,l-v",
   "addition": 829,
   "release": 83.7,
@@ -7809,6 +8273,22 @@
 }
 ,
 {
+  "title": "golden hour",
+  "artist": "jvke",
+  "addition": 1693,
+  "release": 184.5,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "this-is-what-feels-like-vol-1-4",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jvke_this-is-what-feels-like-vol-1-4.png",
+  
+  "albumname": "This is What ___ Feels Like (Vol. 1-4)",
+  "artistname": "JVKE"
+}
+,
+{
   "title": "Golden Slumbers",
   "artist": "the-beatles",
   "addition": 1271,
@@ -7967,6 +8447,22 @@
   "albumname": "nimrod.",
   "artistname": "Green Day"
 }
+, 
+{
+  "title": "Goodbye",
+  "artist": "aaron-tveit",
+  "addition": 1662,
+  "release": 135.49,
+  "decade": "2010s",
+  "year": 2011,
+  "album": "catch-me-if-you-can",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/C/catchmeifyoucan.png",
+  
+  "albumname": "Catch Me If You Can Soundtrack",
+  "artistname": "Aaron Tveit"
+}
 ,
 {
   "title": "Gorgeous",
@@ -8110,6 +8606,22 @@
   
   "albumname": "Whitney Houston",
   "artistname": "Whitney Houston"
+}
+,
+{
+  "title": "Grita",
+  "artist": "jarabe-de-palo",
+  "addition": 1669,
+  "release": 87.8,
+  "decade": "1990s",
+  "year": 1996,
+  "album": "la-flaca",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jarabe-de-palo_la-flaca.png",
+  
+  "albumname": "La flaca",
+  "artistname": "Jarabe de Palo"
 }
 ,
 {
@@ -8641,6 +9153,22 @@
 }
 ,
 {
+  "title": "Hell",
+  "artist": "tegan-and-sara",
+  "addition": 1638,
+  "release": 129.35,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "sainthood",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/tegan-and-sara_sainthood.png",
+
+  "albumname": "Sainthood",
+  "artistname": "Tegan and Sara"
+}
+,
+{
   "title": "Hello",
   "artist": "adele",
   "addition": 773,
@@ -8974,6 +9502,22 @@
   
   "albumname": "The Complete Season One",
   "artistname": "Glee Cast, Jonathan Groff"
+}
+,
+{
+  "title": "Highway to Hell",
+  "artist": "ac-dc",
+  "addition": 1622,
+  "release": 29.18,
+  "decade": "1970s",
+  "year": 1979,
+  "album": "highway-to-hell",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/A/ac-dc_highway-to-hell.png",
+  
+  "albumname": "Highway to Hell",
+  "artistname": "AC/DC"
 }
 ,
 {
@@ -9729,6 +10273,22 @@
 }
 ,
 {
+  "title": "I Don’t Care",
+  "artist": "fall-out-boy",
+  "addition": 1660,
+  "release": 126.4,
+  "decade": "2000s",
+  "year": 2008,
+  "album": "folie-a-deux",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/F/fall-out-boy_folie-a-deux.png",
+  
+  "albumname": "Folie à Deux",
+  "artistname": "Fall Out Boy"
+}
+,
+{
   "title": "I Don't Know What It Is",
   "artist": "rufus-wainwright",
   "addition": 1200,
@@ -9838,6 +10398,22 @@
   
   "albumname": "The Music: Volume 6",
   "artistname": "Glee Cast"
+}
+, 
+{
+  "title": "I Guess That’s Why They Call it the Blues",
+  "artist": "alessia-cara",
+  "addition": 1692,
+  "release": 166.5,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "revamp",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/R/revamp.png",
+  
+  "albumname": "Revamp (Tribute to Elton John)",
+  "artistname": "Alessia Cara"
 }
 ,
 {
@@ -10062,6 +10638,22 @@
 
   "albumname": "Please Please Me",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "I Saw What I Saw",
+  "artist": "sara-groves",
+  "addition": 1620,
+  "release": 122.67,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "tell-me-what-you-know",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sara-groves_tell-me-what-you-know.png",
+
+  "albumname": "Tell Me What You Know",
+  "artistname": "Sara Groves"
 }
 ,
 {
@@ -10337,6 +10929,22 @@
 }
 ,
 {
+  "title": "I Was Made for Lovin’ You",
+  "artist": "kiss",
+  "addition": 1636,
+  "release": 29.14,
+  "decade": "1970s",
+  "year": 1979,
+  "album": "dynasty",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/K/kiss_dynasty.png",
+  
+  "albumname": "Dynasty",
+  "artistname": "KISS"
+}
+,
+{
   "title": "I Will Always Love You",
   "artist": "dolly-parton",
   "addition": 280,
@@ -10385,6 +10993,22 @@
 }
 ,
 {
+  "title": "I Will Follow You into the Dark",
+  "artist": "death-cab-for-cutie",
+  "addition": 1601,
+  "release": 118.31,
+  "decade": "2000s",
+  "year": 2005,
+  "album": "plans",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/death-cab-for-cutie_plans.png",
+
+  "albumname": " Plans",
+  "artistname": "Death Cab for Cutie"
+}
+,
+{
   "title": "I Will Survive",
   "artist": "demi-lovato",
   "addition": 1291,
@@ -10398,6 +11022,22 @@
 
   "albumname": "The Angry Birds Movie",
   "artistname": "Demi Lovato"
+}
+, 
+{
+  "title": "I Will Survive",
+  "artist": "gloria-gaynor",
+  "addition": 1635,
+  "release": 29.06,
+  "decade": "1970s",
+  "year": 1978,
+  "album": "love-tracks",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/G/gloria-gaynor_love-tracks.png",
+  
+  "albumname": "Love Tracks",
+  "artistname": "Gloria Gaynor"
 }
 ,
 {
@@ -10529,6 +11169,22 @@
 }
 ,
 {
+  "title": "I’ll Stand by You",
+  "artist": "pretenders",
+  "addition": 1606,
+  "release": 80.99,
+  "decade": "1990s",
+  "year": 1994,
+  "album": "last-of-the-independents",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/P/pretenders_last-of-the-independents.png",
+
+  "albumname": "Last of the Independents",
+  "artistname": "Pretenders"
+}
+,
+{
   "title": "I’ll Stand by You (Finn)",
   "artist": "glee-cast",
   "addition": 1333,
@@ -10599,12 +11255,12 @@
   "release": 207.52,
   "decade": "2020s",
   "year": 2025,
-  "album": "next-to-normal",
+  "album": "next-to-normal-west-end",
   "language": "english",
   "extra": "musical",
-  "img": "https://marswrites.neocities.org/albums/N/nexttonormal.png",
+  "img": "https://marswrites.neocities.org/albums/N/nexttonormalwestend.png",
   
-  "albumname": "Next to Normal Soundtrack",
+  "albumname": "Next to Normal (West End Soundtrack)",
   "artistname": "Jack Wolfe"
 }
 ,
@@ -10849,6 +11505,38 @@
 } 
 ,
 {
+  "title": "If I Die Young",
+  "artist": "glee-cast",
+  "addition": 1653,
+  "release": 141.5,
+  "decade": "2010s",
+  "year": 2013,
+  "album": "the-quarterback",
+  "language": "english",
+  "extra": "cover,musical",
+  "img": "https://marswrites.neocities.org/albums/G/glee-cast_the-quarterback.png",
+
+  "albumname": "The Music, The Quarterback",
+  "artistname": "Glee Cast"
+}
+,
+{
+  "title": "If I Die Young",
+  "artist": "the-band-perry",
+  "addition": 1652,
+  "release": 133.45,
+  "decade": "2010s",
+  "year": 2010,
+  "album": "the-band-perry",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-band-perry_the-band-perry.png",
+
+  "albumname": "The Band Perry",
+  "artistname": "The Band Perry"
+}
+,
+{
   "title": "IF NOT FOR YOU",
   "artist": "mäneskin",
   "addition": 549,
@@ -11025,6 +11713,38 @@
 }
 ,
 {
+  "title": "Important",
+  "artist": "ian-mcconnell",
+  "addition": 1675,
+  "release": 183.73,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "season-1",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/I/ian-mcconnell_season-1.png",
+  
+  "albumname": "Season 1",
+  "artistname": "Ian McConnell"
+}
+,
+{
+  "title": "Important (The Way I Wrote It)",
+  "artist": "ian-mcconnell",
+  "addition": 1674,
+  "release": 183.73,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "season-1",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/I/ian-mcconnell_season-1.png",
+  
+  "albumname": "Season 1",
+  "artistname": "Ian McConnell"
+}
+,
+{
   "title": "In Dreams",
   "artist": "roy-orbison",
   "addition": 480,
@@ -11169,6 +11889,55 @@
 }
 ,
 {
+  "title": "Invasion",
+  "artist": "eisley",
+  "addition": 1608,
+  "release": 122.59,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "combinations",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/eisley_combinations.png",
+
+  "albumname": "Combinations",
+  "artistname": "Eisley"
+}
+,
+{
+  "title": "Iris",
+  "artist": "dean-lewis",
+  "addition": 1619,
+  "release": 189,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "the-epilogue",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/D/dean-lewis_the-epilogue.png",
+
+  "albumname": "The Epilogue",
+  "artistname": "Dean Lewis"
+}
+,
+{
+  "title": "Iris",
+  "artist": "the-goo-goo-dolls",
+  "addition": 1690,
+  "release": 89.7,
+  "decade": "1990s",
+  "year": 1998,
+  "album": "city-of-angels-soundtrack",
+  "language": "english",
+  "extra": "musicals",
+  "img": "https://marswrites.neocities.org/albums/C/cityofangels.png",
+
+  "albumname": "City of Angels Soundtrack",
+  "artistname": "The Goo Goo Dolls"
+}
+
+,
+{
   "title": "Ironic",
   "artist": "boyce-avenue,emily-zeck",
   "addition": 213,
@@ -11311,6 +12080,22 @@
   "albumname": "Original Sin",
   "artistname": "Pandora's Box"
 }
+, 
+{
+  "title": "It's Been a Long, Long Time",
+  "artist": "harry-james,kitty-kallan",
+  "addition": 1626,
+  "release": 0.35,
+  "decade": "1950s+",
+  "year": 1945,
+  "album": "",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/H/harry-james_it's-been-a-long-long-time.png",
+
+  "albumname": "",
+  "artistname": "Harry James, Kitty Kallan"
+}
 ,
 {
   "title": "it’s getting late",
@@ -11374,6 +12159,22 @@
 
   "albumname": "The Music, Volume 7",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "It's Not Unusual",
+  "artist": "tom-jones",
+  "addition": 1689,
+  "release": 6.49,
+  "decade": "1960s",
+  "year": 1965,
+  "album": "along-came-jones",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/tom-jones_along-came-jones.png",
+
+  "albumname": "Along Came Jones",
+  "artistname": "Tom Jones"
 }
 ,
 {
@@ -11681,6 +12482,22 @@
 }
 ,
 {
+  "title": "Just a Girl",
+  "artist": "no-doubt",
+  "addition": 1602,
+  "release": 84.5,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "tragic-kingdom",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/N/no-doubt_tragic-kingdom.png",
+
+  "albumname": " Tragic Kingdom",
+  "artistname": "No Doubt"
+}
+,
+{
   "title": "Just Around the Riverbend",
   "artist": "judy-kuhn",
   "addition": 1436,
@@ -11869,7 +12686,23 @@
   "img": "https://marswrites.neocities.org/albums/P/p!nk_trustfall.png",
   
   "albumname": "TRUSTFALL",
-  "artistname": "P!nk"
+  "artistname": "P!nk, First Aid Kit"
+}
+,
+{
+  "title": "Kill Bill",
+  "artist": "sza",
+  "addition": 1633,
+  "release": 184.8,
+  "decade": "2020s",
+  "year": 2022,
+  "album": "sos",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/S/sza_sos.png",
+
+  "albumname": "SZA",
+  "artistname": "SOS"
 }
 ,
 {
@@ -12162,6 +12995,22 @@
 }
 ,
 {
+  "title": "La flaca",
+  "artist": "jarabe-de-palo",
+  "addition": 1666,
+  "release": 87.8,
+  "decade": "1990s",
+  "year": 1996,
+  "album": "la-flaca",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/jarabe-de-palo_la-flaca.png",
+  
+  "albumname": "La flaca",
+  "artistname": "Jarabe de Palo"
+}
+,
+{
   "title": "La Llorona",
   "artist": "angelica-vale,marco-antonio-solis",
   "addition": 94,
@@ -12450,6 +13299,22 @@
 }
 ,
 {
+  "title": "Lazing on a Sunday Afternoon",
+  "artist": "queen",
+  "addition": 1615,
+  "release": 21,
+  "decade": "1970s",
+  "year": 1975,
+  "album": "a-night-at-the-opera",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/Q/queen_a-night-at-the-opera.png",
+  
+  "albumname": "A Night at the Opera",
+  "artistname": "Queen"
+}
+,
+{
   "title": "Le Festin",
   "artist": "camille,michael-giacchino",
   "addition": 1512,
@@ -12510,6 +13375,22 @@
   
   "albumname": "Dish of the Day",
   "artistname": "Fools Garden"
+}
+,
+{
+  "title": "Les avions en papier",
+  "artist": "bruno-coulais,la-maitrise-de-saint-marc",
+  "addition": 1678,
+  "release": 111,
+  "decade": "2000s",
+  "year": 2004,
+  "album": "the-chorus-soundtrack",
+  "language": "french",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/T/thechorus.png",
+  
+  "albumname": "The Chorus Soundtrack",
+  "artistname": "Bruno Coulais, La Maitrise de Saint Marc"
 }
 ,
 {
@@ -12718,6 +13599,22 @@
   
   "albumname": "Melodrama",
   "artistname": "Lorde"
+}
+,
+{
+  "title": "Libre",
+  "artist": "el-chaval-de-la-peca",
+  "addition": 1672,
+  "release": 91.02,
+  "decade": "1990s",
+  "year": 1998,
+  "album": "el-chaval-de-la-peca",
+  "language": "spanish",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/E/el-chaval-de-la-peca_el-chaval-de-la-peca.png",
+  
+  "albumname": "El chaval de la peca",
+  "artistname": "El Chaval de la Peca"
 }
 ,
 {
@@ -13729,6 +14626,22 @@
 }
 ,
 {
+  "title": "Love Me Not",
+  "artist": "ravyn-lenae,rex-orange-county",
+  "addition": 1624,
+  "release": 187.5,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "bird's-eye",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/ravyn-lenae_bird's-eye.png",
+
+  "albumname": "Bird’s Eye",
+  "artistname": "Ravyn Lenae, Rex Orange County"
+}
+,
+{
   "title": "Love of My Life",
   "artist": "queen",
   "addition": 27,
@@ -14001,6 +14914,22 @@
 }
 ,
 {
+  "title": "Mad World",
+  "artist": "gary-jules,michael-andrews",
+  "addition": 1650,
+  "release": 96.97,
+  "decade": "2000s",
+  "year": 2001,
+  "album": "trading-snakeoil-for-wolftickets",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/G/gary-jules_trading-snakeoil-for-wolftickets.png",
+  
+  "albumname": "Trading Snakeoil for Wolftickets",
+  "artistname": "Gary Jules, Michael Andrews"
+}
+,
+{
   "title": "Madre sabe más",
   "artist": "celia-vergara",
   "addition": 1295,
@@ -14209,6 +15138,22 @@
 }
 ,
 {
+  "title": "Malamente",
+  "artist": "rosalia",
+  "addition": 1664,
+  "release": 169.02,
+  "decade": "2010s",
+  "year": 2018,
+  "album": "el-mal-querer",
+  "language": "spanish",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rosalia_el-mal-querer.png",
+
+  "albumname": "Malamente",
+  "artistname": "Rosalía"
+}
+,
+{
   "title": "Mambo (from ''West Side Story'')",
   "artist": "film-symphony-orchestra,constantino-martinez-orts",
   "addition": 630,
@@ -14305,6 +15250,22 @@
 }
 ,
 {
+  "title": "Manchild",
+  "artist": "sabrina-carpenter",
+  "addition": 1685,
+  "release": 214.5,
+  "decade": "2020s",
+  "year": 2025,
+  "album": "man's-best-friend",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/S/sabrina-carpenter_man's-best-friend.png",
+
+  "albumname": "Man’s Best Friend",
+  "artistname": "Sabrina Carpenter"
+}
+,
+{
   "title": "Mandy",
   "artist": "barry-manilow",
   "addition": 528,
@@ -14366,6 +15327,22 @@
 
   "albumname": "Flashdance Soundtrack",
   "artistname": "Michael Sembello"
+}
+, 
+{
+  "title": "Maple Leaf Rag",
+  "artist": "brooklyn-classical,marnie-laird",
+  "addition": 1629,
+  "release": 185.77,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "classical-piano-favorites-vol-2",
+  "language": "",
+  "extra": "instrumental,cover",
+  "img": "https://marswrites.neocities.org/albums/B/brooklyn-classical_classical-piano-favorites-vol-2.png",
+
+  "albumname": "Classical Piano Favorites, Vol. 2",
+  "artistname": "Brooklyn Classical, Marnie Laird"
 }
 ,
 {
@@ -15170,6 +16147,22 @@
 }
 ,
 {
+  "title": "Mr. Lonely",
+  "artist": "bobby-vinton",
+  "addition": 1694,
+  "release": 184.5,
+  "decade": "1960s",
+  "year": 1962,
+  "album": "roses-are-red",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/bobby-vinton_roses-are-red.png",
+  
+  "albumname": "Roses are Red",
+  "artistname": "Bobby Vinton"
+}
+,
+{
   "title": "Mr. Sandman",
   "artist": "the-chordettes",
   "addition": 206,
@@ -15183,6 +16176,22 @@
 
   "albumname": "",
   "artistname": "The Chordettes"
+}
+,
+{
+  "title": "Mr. Tambourine Man",
+  "artist": "bob-dylan",
+  "addition": 1654,
+  "release": 6.48,
+  "decade": "1960s",
+  "year": 1965,
+  "album": "bringing-it-all-back-home",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/bob-dylan_bringing-it-all-back-home.png",
+
+  "albumname": "Mr. Tambourine Man",
+  "artistname": "Bob Dylan"
 }
 ,
 {
@@ -15794,6 +16803,22 @@
 }
 ,
 {
+  "title": "No Good at Saying Sorry (One More Chance)",
+  "artist": "the-early-november",
+  "addition": 1605,
+  "release": 118.845,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "the-mother-the-mechanic-and-the-path",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-early-november_the-mother-the-mechanic-ahd-the-path.png",
+
+  "albumname": "The Mother, The Mechanic, and the Path",
+  "artistname": "The Early November"
+}
+,
+{
   "title": "No Good for You",
   "artist": "meghan-trainor",
   "addition": 558,
@@ -16370,6 +17395,21 @@
 }
 , 
 {
+  "title": "Only Time",
+  "artist": "enya",
+  "addition": 1644,
+  "release": 95.92,
+  "decade": "2000s",
+  "year": 2000,
+  "album": "a-day-without-ryan",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/enya_a-day-without-rain.png",
+  
+  "albumname": "A Day Without Rain",
+  "artistname": "Enya"
+}, 
+{
   "title": "Oo-De-Lally",
   "artist": "roger-miller",
   "addition":1063,
@@ -16399,6 +17439,22 @@
   
   "albumname": "Oops!… I Did It Again",
   "artistname": "Britney Spears"
+}
+, 
+{
+  "title": "Ordinary World",
+  "artist": "duran-duran",
+  "addition": 1627,
+  "release": 80.2,
+  "decade": "1990s",
+  "year": 1993,
+  "album": "duran-duran",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/duran-duran_duran-duran.png",
+
+  "albumname": "Duran Duran (The Wedding Album)",
+  "artistname": "Duran Duran"
 }
 ,
 {
@@ -16463,6 +17519,22 @@
   
   "albumname": "Taylor Swift",
   "artistname": "Taylor Swift"
+}
+,
+{
+  "title": "Over My Shoulder",
+  "artist": "mike-and-the-mechanics",
+  "addition": 1648,
+  "release": 82.5,
+  "decade": "1990s",
+  "year": 1995,
+  "album": "beggar-on-a-beach-of-gold",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/mike-and-the-mechanics_beggar-on-a-beach-of-gold.png",
+
+  "albumname": "Beggar on a Beach of Gold",
+  "artistname": "Mike + the Mechanics"
 }
 ,
 {
@@ -16559,6 +17631,22 @@
 
   "albumname": "Please Please Me",
   "artistname": "The Beatles"
+}
+,
+{
+  "title": "P. Y. T. (Pretty Young Thing)",
+  "artist": "michael-jackson",
+  "addition": 1642,
+  "release": 37.3,
+  "decade": "1980s",
+  "year": 1982,
+  "album": "thriller",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/michael-jackson_thriller.png",
+
+  "albumname": "Thriller",
+  "artistname": "Michael Jackson"
 }
 ,
 {
@@ -16735,6 +17823,22 @@
 
   "albumname": "Justo Ahora",
   "artistname": "Dvicio"
+}
+,
+{
+  "title": "parallel universe",
+  "artist": "lauren-spencer-smith",
+  "addition": 1617,
+  "release": 207.98,
+  "decade": "2020s",
+  "year": 2025,
+  "album": "the-art-of-being-a-mess",
+  "language": "english",
+  "extra": "explicit",
+  "img": "https://marswrites.neocities.org/albums/L/lauren-spencer-smith_the-art-of-being-a-mess.png",
+  
+  "albumname": "The Art of Being a Mess",
+  "artistname": "Lauren Spencer Smith"
 }
 ,
 {
@@ -17230,7 +18334,7 @@
   "extra": "english",
   "img": "https://marswrites.neocities.org/albums/E/elliott-smith_from-a-basement-on-the-hill.png",
 
-  "albumname": "Psycho Soundtrack",
+  "albumname": "From a Basement on the Hill",
   "artistname": "Elliott Smith"
 }
 ,
@@ -18195,7 +19299,23 @@
 }
 ,
 {
-  "title": "Save It for a Reiny Day",
+  "title": "Sarà perché ti amo",
+  "artist": "ricchi-e-poveri",
+  "addition": 1681,
+  "release": 34.8,
+  "decade": "1980s",
+  "year": 1981,
+  "album": "e-penso-a-te",
+  "language": "italian",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/ricchi-e-poveri_e-penso-a-te.png",
+  
+  "albumname": "Ricchi e Poveri",
+  "artistname": "...E penso a te"
+}
+,
+{
+  "title": "Save It for a Rainy Day",
   "artist": "the-jayhawks",
   "addition": 13,
   "release": 98,
@@ -19171,6 +20291,21 @@
 }
 ,
 {
+  "title": "Snow (Hey Oh)",
+  "artist": "red-hot-chili-peppers",
+  "addition": 1614,
+  "release": 118.835,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "stadium-arcadium",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/red-hot-chili-peppers_stadium-arcadium.png",
+  
+  "albumname": "Stadium Arcadium",
+  "artistname": "Red Hot Chili Peppers"
+},
+{
   "title": "So Am I",
   "artist": "ava-max",
   "addition": 1002,
@@ -19296,6 +20431,22 @@
 
   "albumname": "The Music, Season 4, Volume 1",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Somebody’s Watching Me",
+  "artist": "rockwell,michael-jackson",
+  "addition": 1607,
+  "release": 42.7,
+  "decade": "1980s",
+  "year": 1984,
+  "album": "somebody's-watching-me",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rockwell_somebody's-watching-me.png",
+
+  "albumname": "Somebody’s Watching Me",
+  "artistname": "Rockwell, Michael Jackson"
 }
 ,
 {
@@ -19571,6 +20722,22 @@
 }
 ,
 {
+  "title": "Something’s Gotta Give",
+  "artist": "sammy-davis-jr",
+  "addition": 1641,
+  "release": 0.85,
+  "decade": "1950s+",
+  "year": 1955,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/S/sammy-davis-jr_something's-gotta-give.png",
+  
+  "albumname": "",
+  "artistname": "Sammy Davis Jr."
+}
+,
+{
   "title": "Sometimes a Fantasy",
   "artist": "billy-joel",
   "addition": 1485,
@@ -19635,6 +20802,22 @@
 }
 ,
 {
+  "title": "Somewhere Only We Know",
+  "artist": "lily-allen",
+  "addition": 1657,
+  "release": 145.3,
+  "decade": "2010s",
+  "year": 2014,
+  "album": "sheezus",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/L/lily-allen_sheezus.png",
+  
+  "albumname": "Sheezus",
+  "artistname": "Lily Allen"
+}
+,
+{
   "title": "Song for Me",
   "artist": "greer",
   "addition": 1106,
@@ -19680,6 +20863,22 @@
 
   "albumname": "Purpose",
   "artistname": "Justin Bieber"
+}
+,
+{
+  "title": "Sorry Seems to be the Hardest Word",
+  "artist": "elton-john",
+  "addition": 1610,
+  "release": 22.35,
+  "decade": "1970s",
+  "year": 1976,
+  "album": "blue-moves",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/E/elton-john_blue-moves.png",
+
+  "albumname": "Blue Moves",
+  "artistname": "Elton John"
 }
 ,
 {
@@ -19763,6 +20962,22 @@
 }
 ,
 {
+  "title": "St. Valentine’s Day Massacre",
+  "artist": "cocktail-slippers",
+  "addition": 1630,
+  "release": 127.2,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "saint-valentine's-day-massacre",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/C/cocktail-slippers_saint-valentine's-day-massacre.png",
+
+  "albumname": "Saint Valentine’s Day Massacre",
+  "artistname": "Cocktail Slippers"
+}
+,
+{
   "title": "Stairway to Heaven",
   "artist": "led-zeppelin",
   "addition": 845,
@@ -19795,6 +21010,22 @@
 }
 ,
 {
+  "title": "Starman",
+  "artist": "david-bowie",
+  "addition": 1686,
+  "release": 15.4,
+  "decade": "1970s",
+  "year": 1972,
+  "album": "the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/david-bowie_the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.png",
+
+  "albumname": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+  "artistname": "David Bowie"
+}
+,
+{
   "title": "Starstruck",
   "artist": "the-kinks",
   "addition": 1117,
@@ -19824,6 +21055,22 @@
 
   "albumname": "",
   "artistname": "Wheatus"
+}
+, 
+{
+  "title": "Start Me Up",
+  "artist": "the-rolling-stones",
+  "addition": 1631,
+  "release": 34.55,
+  "decade": "1980s",
+  "year": 1981,
+  "album": "tattoo-you",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/T/the-rolling-stones_tattoo-you.png",
+  
+  "albumname": "Tattoo You",
+  "artistname": "The Rolling Stones"
 }
 , 
 {
@@ -20355,6 +21602,22 @@
 }
 ,
 {
+  "title": "Super Freak",
+  "artist": "rick-james",
+  "addition": 1640,
+  "release": 34.2,
+  "decade": "1980s",
+  "year": 1981,
+  "album": "street-songs",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rick-james_street-songs.png",
+  
+  "albumname": "Street Songs",
+  "artistname": "Rick James"
+}
+,
+{
   "title": "Superman",
   "artist": "taylor-swift",
   "addition": 882,
@@ -20464,6 +21727,22 @@
   
   "albumname": "Heaven Tonight",
   "artistname": "Cheap Trick"
+}
+, 
+{
+  "title": "Survivor",
+  "artist": "destiny's-child",
+  "addition": 1665,
+  "release": 136.85,
+  "decade": "2000s",
+  "year": 2001,
+  "album": "survivor",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/D/destiny's-child_survivor.png",
+  
+  "albumname": "Survivor",
+  "artistname": "Destiny’s Child"
 }
 , 
 {
@@ -20593,6 +21872,22 @@
   "albumname": "Sweet Dreams (Are Made of This)",
   "artistname": "Eurythmics"
 }
+,
+{
+  "title": "Sweet Surrender",
+  "artist": "john-denver",
+  "addition": 1604,
+  "release": 19.6,
+  "decade": "1970s",
+  "year": 1974,
+  "album": "back-home-again",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/john-denver_back-home-again.png",
+
+  "albumname": "Back Home Again",
+  "artistname": "John Denver"
+}
 , 
 {
   "title": "Sweeter than Fiction",
@@ -20640,6 +21935,22 @@
   
   "albumname": "The Album",
   "artistname": "ABBA"
+}
+,
+{
+  "title": "Take Me Home, Country Road",
+  "artist": "john-denver",
+  "addition": 1637,
+  "release": 14.27,
+  "decade": "1970s",
+  "year": 1971,
+  "album": "poems-prayers-and-promises",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/J/john-denver_poems-prayers-and-promises.png",
+  
+  "albumname": "Poems, Prayers & Promises",
+  "artistname": "John Denver"
 }
 ,
 {
@@ -21008,6 +22319,22 @@
 
   "albumname": "13 Reasons Why: Season 3 Soundtrack",
   "artistname": "5 Seconds of Summer"
+}
+,
+{
+  "title": "Tell Me",
+  "artist": "johnny-jewel,saoirse-ronan",
+  "addition": 1683,
+  "release": 153.55,
+  "decade": "2010s",
+  "year": 2015,
+  "album": "lost-river-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/L/lostriver.png",
+  
+  "albumname": "Lost River Soundtrack",
+  "artistname": "Johnny Jewel"
 }
 ,
 {
@@ -21537,6 +22864,22 @@
   
   "albumname": "The Miracle",
   "artistname": "Queen"
+}
+,
+{
+  "title": "The Lion Sleeps Tonight (Wimoweh)",
+  "artist": "the-tokens",
+  "addition": 1635,
+  "release": 3.3,
+  "decade": "1960s",
+  "year": 1961,
+  "album": "",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/T/the-tokens_the-lion-sleeps-tonight.png",
+  
+  "albumname": "",
+  "artistname": "The Tokens"
 }
 ,
 {
@@ -22292,6 +23635,22 @@
 }
 ,
 {
+  "title": "There’s a World",
+  "artist": "aaron-tveit",
+  "addition": 1663,
+  "release": 127.8,
+  "decade": "2000s",
+  "year": 2009,
+  "album": "next-to-normal",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/N/nexttonormal.png",
+  
+  "albumname": "Next to Normal Soundtrack",
+  "artistname": "Aaron Tveit"
+}
+,
+{
   "title": "These Boots are Made for Walkin'",
   "artist": "nancy-sinatra",
   "addition": 444,
@@ -22740,6 +24099,22 @@
 }
 ,
 {
+  "title": "To Be Free",
+  "artist": "alan-menken,disney",
+  "addition": 1658,
+  "release": 79,
+  "decade": "1990s",
+  "year": 1992,
+  "album": "aladdin-old",
+  "language": "english",
+  "extra": "musical,disney,instrumental",
+  "img": "https://marswrites.neocities.org/albums/A/aladdin-old.png",
+  
+  "albumname": "Aladdin Soundtrack",
+  "artistname": "Alan Menken, Disney"
+}
+,
+{
   "title": "Today is Gonna Be a Great Day",
   "artist": "bowling-for-soup",
   "addition": 1479,
@@ -23060,6 +24435,22 @@
 }
 ,
 {
+  "title": "Tu Recuerdo",
+  "artist": "ricky-martin,chambao",
+  "addition": 1671,
+  "release": 120.2,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "mtv-unplugged",
+  "language": "spanish",
+  "extra": "live",
+  "img": "https://marswrites.neocities.org/albums/R/ricky-martin_mtv-unplugged.png",
+  
+  "albumname": "MTV Unplugged",
+  "artistname": "Ricky Martin, Chambao"
+}
+,
+{
   "title": "Turbulence",
   "artist": "p!nk",
   "addition": 640,
@@ -23300,9 +24691,25 @@
 }
 ,
 {
+  "title": "Under the Bridge",
+  "artist": "red-hot-chili-peppers",
+  "addition": 1611,
+  "release": 77.58,
+  "decade": "1990s",
+  "year": 1991,
+  "album": "blood-sugar-sex-magik",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/red-hot-chili-peppers_blood-sugar-sex-magik.png",
+  
+  "albumname": "Blood Sugar Sex Magic",
+  "artistname": "Red Hot Chili Peppers"
+}
+,
+{
   "title": "Under the Sea",
   "artist": "samuel-e-wright,disney",
-  "addition":118,
+  "addition": 118,
   "release": 75,
   "decade": "1980s",
   "year": 1989,
@@ -23313,6 +24720,22 @@
   
   "albumname": "The Little Mermaid Soundtrack",
   "artistname": "Samuel E. Wright, Disney"
+}
+,
+{
+  "title": "Undo",
+  "artist": "rush-of-fools",
+  "addition": 1632,
+  "release": 75,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "rush-of-fools",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/rush-of-fools_rush-of-fools.png",
+  
+  "albumname": "Rush of Fools",
+  "artistname": "Rush of Fools"
 }
 , 
 {
@@ -23489,6 +24912,22 @@
   
   "albumname": "The Music, Volume 4",
   "artistname": "Glee Cast"
+}
+,
+{
+  "title": "Valerie",
+  "artist": "mark-ronson,amy-winehouse",
+  "addition": 1649,
+  "release": 122.23,
+  "decade": "2000s",
+  "year": 2007,
+  "album": "version",
+  "language": "english",
+  "extra": "cover",
+  "img": "https://marswrites.neocities.org/albums/M/mark-ronson_version.png",
+  
+  "albumname": "Version",
+  "artistname": "Mark Ronson, Amy Winehouse"
 }
 ,
 {
@@ -24052,6 +25491,22 @@
 }
 ,
 {
+  "title": "Welcome to the Black Parade",
+  "artist": "my-chemical-romance",
+  "addition": 1656,
+  "release": 119.49,
+  "decade": "2000s",
+  "year": 2006,
+  "album": "the-black-parade",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/M/my-chemical-romance_the-black-parade.png",
+
+  "albumname": "The Black Parade",
+  "artistname": "My Chemical Romance"
+}
+,
+{
   "title": "West Side Story Medley",
   "artist": "leonard-bernstein,joshua-bell,larisa-martinez,kamal-khan",
   "addition": 830,
@@ -24500,6 +25955,22 @@
 }
 ,
 {
+  "title": "WHERE IS MY HUSBAND",
+  "artist": "raye",
+  "addition": 1655,
+  "release": 233,
+  "decade": "2020s",
+  "year": 2026,
+  "album": "this-music-may-contain-hope",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/R/raye_this-music-may-contain-hope.png",
+
+  "albumname": "This Music May Contain Hope",
+  "artistname": "RAYE"
+}
+,
+{
   "title": "While My Guitar Gently Weeps",
   "artist": "the-beatles",
   "addition": 303,
@@ -24593,6 +26064,22 @@
 
   "albumname": "Bump Ahead",
   "artistname": "Mr. Big"
+}
+,
+{
+  "title": "WILDFLOWER",
+  "artist": "billie-eilish",
+  "addition": 1647,
+  "release": 207.2,
+  "decade": "2020s",
+  "year": 2024,
+  "album": "hit-me-hard-and-soft",
+  "language": "english",
+  "extra": "",
+  "img": "https://marswrites.neocities.org/albums/B/billie-eilish_hit-me-hard-and-soft.png",
+
+  "albumname": "Hit Me Hard and Soft",
+  "artistname": "Billie Eilish"
 }
 ,
 {
@@ -24737,6 +26224,22 @@
 
   "albumname": "The Joshua Tree",
   "artistname": "U2"
+}
+,
+{
+  "title": "With You I’m Born Again",
+  "artist": "billy-preston,syreeta",
+  "release": 29.11,
+  "addition": 1639,
+  "decade": "1970s",
+  "year": 1979,
+  "album": "fast-break-soundtrack",
+  "language": "english",
+  "extra": "musical",
+  "img": "https://marswrites.neocities.org/albums/F/fastbreak.png",
+
+  "albumname": "Fast Break Soundtrack",
+  "artistname": "Billy Preston, Syreeta"
 }
 ,
 {
